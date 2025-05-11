@@ -69,22 +69,13 @@ Data handling via Pandas/Numpy
 RESTful API via main.py
 
 🛠️ Getting Started
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/ocean-insight.git
-cd project
-2. Install Frontend Dependencies
-bash
-Copy
-Edit
+
+1. Install Frontend Dependencies
+
 npm install
 npm run dev
-3. Start Backend (in separate terminal)
-bash
-Copy
-Edit
+2. Start Backend (in separate terminal)
+
 cd backend
 pip install -r requirements.txt
 python main.py
