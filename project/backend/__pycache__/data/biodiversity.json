@@ -1,0 +1,2606 @@
+[
+  {
+    "id": "bio-0",
+    "timestamp": "2024-05-10T21:12:59.217937",
+    "location": {
+      "lat": 22.726503192237985,
+      "lng": 9.353994444584572
+    },
+    "species_count": 2320,
+    "coral_health_index": 7.9,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 120,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 503,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 526,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 390,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 494,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 287,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Green Sea Turtle",
+        "direction": "west",
+        "distance_km": 3944,
+        "season": "fall"
+      }
+    ]
+  },
+  {
+    "id": "bio-1",
+    "timestamp": "2024-05-22T21:12:59.217937",
+    "location": {
+      "lat": -19.339789590082816,
+      "lng": -158.73151816698882
+    },
+    "species_count": 3104,
+    "coral_health_index": 6.6,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 736,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 15,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 835,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 256,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 748,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 514,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-2",
+    "timestamp": "2024-06-03T21:12:59.217937",
+    "location": {
+      "lat": 7.346391884814395,
+      "lng": -34.67411540428
+    },
+    "species_count": 2655,
+    "coral_health_index": 4.8,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 635,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 702,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 359,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 462,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 162,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 335,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-3",
+    "timestamp": "2024-06-15T21:12:59.217937",
+    "location": {
+      "lat": 47.118035015468706,
+      "lng": -101.48140113790168
+    },
+    "species_count": 2506,
+    "coral_health_index": 5.7,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 822,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 246,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 239,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 115,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 831,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 253,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-4",
+    "timestamp": "2024-06-27T21:12:59.217937",
+    "location": {
+      "lat": -31.070958560935335,
+      "lng": -46.119379715866046
+    },
+    "species_count": 2475,
+    "coral_health_index": 4.1,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 661,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 366,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 443,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 245,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 234,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 526,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Giant Squid",
+        "direction": "south",
+        "distance_km": 4692,
+        "season": "winter"
+      }
+    ]
+  },
+  {
+    "id": "bio-5",
+    "timestamp": "2024-07-09T21:12:59.217937",
+    "location": {
+      "lat": -49.31498664177411,
+      "lng": 84.49459360350323
+    },
+    "species_count": 2403,
+    "coral_health_index": 9.7,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 455,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 524,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 342,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 873,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 57,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 152,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-6",
+    "timestamp": "2024-07-21T21:12:59.217937",
+    "location": {
+      "lat": -21.56324740357269,
+      "lng": 100.44389110936152
+    },
+    "species_count": 2361,
+    "coral_health_index": 4.1,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 717,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 97,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 456,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 196,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 252,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 643,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Bottlenose Dolphin",
+        "direction": "south",
+        "distance_km": 184,
+        "season": "fall"
+      }
+    ]
+  },
+  {
+    "id": "bio-7",
+    "timestamp": "2024-08-02T21:12:59.217937",
+    "location": {
+      "lat": 18.56536718620795,
+      "lng": 82.20538082466436
+    },
+    "species_count": 3260,
+    "coral_health_index": 6.1,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 358,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 585,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 923,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 725,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 249,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 420,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Blue Whale",
+        "direction": "east",
+        "distance_km": 1221,
+        "season": "winter"
+      }
+    ]
+  },
+  {
+    "id": "bio-8",
+    "timestamp": "2024-08-14T21:12:59.217937",
+    "location": {
+      "lat": 58.83754589338683,
+      "lng": 16.36190388378722
+    },
+    "species_count": 3349,
+    "coral_health_index": 5.5,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 388,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 439,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 334,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 503,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 948,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 737,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Blue Whale",
+        "direction": "west",
+        "distance_km": 3626,
+        "season": "winter"
+      }
+    ]
+  },
+  {
+    "id": "bio-9",
+    "timestamp": "2024-08-26T21:12:59.217937",
+    "location": {
+      "lat": -43.61250586035208,
+      "lng": 175.8895048285956
+    },
+    "species_count": 3280,
+    "coral_health_index": 9.9,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 836,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 675,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 607,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 267,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 283,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 612,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-10",
+    "timestamp": "2024-09-07T21:12:59.217937",
+    "location": {
+      "lat": 19.027499659023192,
+      "lng": 86.94432609970443
+    },
+    "species_count": 2748,
+    "coral_health_index": 7.2,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 986,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 507,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 247,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 289,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 243,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 476,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-11",
+    "timestamp": "2024-09-19T21:12:59.217937",
+    "location": {
+      "lat": 42.05969727271467,
+      "lng": -85.43946597509068
+    },
+    "species_count": 3413,
+    "coral_health_index": 8.6,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 734,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 870,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 962,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 520,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 314,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 13,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-12",
+    "timestamp": "2024-10-01T21:12:59.217937",
+    "location": {
+      "lat": -35.457497704533445,
+      "lng": -54.03449082921574
+    },
+    "species_count": 3171,
+    "coral_health_index": 6.2,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 271,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 511,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 469,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 992,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 673,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 255,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-13",
+    "timestamp": "2024-10-13T21:12:59.217937",
+    "location": {
+      "lat": 35.27899050889114,
+      "lng": -56.75037990008171
+    },
+    "species_count": 2290,
+    "coral_health_index": 7.7,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 72,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 243,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 196,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 461,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 432,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 886,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Coral (Various species)",
+        "direction": "north",
+        "distance_km": 4692,
+        "season": "fall"
+      }
+    ]
+  },
+  {
+    "id": "bio-14",
+    "timestamp": "2024-10-25T21:12:59.217937",
+    "location": {
+      "lat": 6.371710709515455,
+      "lng": 127.3233191522205
+    },
+    "species_count": 3517,
+    "coral_health_index": 9.2,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 990,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 536,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 919,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 150,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 765,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 157,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-15",
+    "timestamp": "2024-11-06T21:12:59.217937",
+    "location": {
+      "lat": -56.72306933944558,
+      "lng": 95.32824753291732
+    },
+    "species_count": 2485,
+    "coral_health_index": 5.1,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 156,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 699,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 831,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 164,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 184,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 451,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-16",
+    "timestamp": "2024-11-18T21:12:59.217937",
+    "location": {
+      "lat": 35.31790852436529,
+      "lng": 85.29737338313743
+    },
+    "species_count": 2335,
+    "coral_health_index": 5.8,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 741,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 208,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 74,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 121,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 374,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 817,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-17",
+    "timestamp": "2024-11-30T21:12:59.217937",
+    "location": {
+      "lat": -12.270927420176506,
+      "lng": 161.1876096910757
+    },
+    "species_count": 2555,
+    "coral_health_index": 3.1,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 367,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 241,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 277,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 765,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 251,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 654,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-18",
+    "timestamp": "2024-12-12T21:12:59.217937",
+    "location": {
+      "lat": 15.046611489522192,
+      "lng": -158.77730928616725
+    },
+    "species_count": 3844,
+    "coral_health_index": 6.3,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 874,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 244,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 678,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 785,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 583,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 680,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-19",
+    "timestamp": "2024-12-24T21:12:59.217937",
+    "location": {
+      "lat": 54.94922719344028,
+      "lng": 119.94671013045223
+    },
+    "species_count": 3170,
+    "coral_health_index": 4.1,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 800,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 859,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 453,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 565,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 421,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 72,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Green Sea Turtle",
+        "direction": "west",
+        "distance_km": 3466,
+        "season": "summer"
+      }
+    ]
+  },
+  {
+    "id": "bio-20",
+    "timestamp": "2025-01-05T21:12:59.217937",
+    "location": {
+      "lat": -19.434271496901324,
+      "lng": -144.30697470108998
+    },
+    "species_count": 2209,
+    "coral_health_index": 3.1,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 695,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 434,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 81,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 318,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 405,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 276,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Giant Squid",
+        "direction": "west",
+        "distance_km": 2550,
+        "season": "summer"
+      }
+    ]
+  },
+  {
+    "id": "bio-21",
+    "timestamp": "2025-01-17T21:12:59.217937",
+    "location": {
+      "lat": -13.837106078274779,
+      "lng": 148.631457873378
+    },
+    "species_count": 3319,
+    "coral_health_index": 4.8,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 885,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 378,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 150,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 642,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 774,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 490,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-22",
+    "timestamp": "2025-01-29T21:12:59.217937",
+    "location": {
+      "lat": -34.591160481497695,
+      "lng": -81.61229577560957
+    },
+    "species_count": 4898,
+    "coral_health_index": 7.9,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 951,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 819,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 623,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 880,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 645,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 980,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-23",
+    "timestamp": "2025-02-10T21:12:59.217937",
+    "location": {
+      "lat": 50.19785582644528,
+      "lng": -95.4767115680694
+    },
+    "species_count": 2861,
+    "coral_health_index": 3.6,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 728,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 676,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 126,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 134,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 596,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 601,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Blue Whale",
+        "direction": "east",
+        "distance_km": 4533,
+        "season": "summer"
+      }
+    ]
+  },
+  {
+    "id": "bio-24",
+    "timestamp": "2025-02-22T21:12:59.217937",
+    "location": {
+      "lat": -17.012504652814513,
+      "lng": -35.23307746175362
+    },
+    "species_count": 3169,
+    "coral_health_index": 8.9,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 822,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 81,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 734,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 487,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 436,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 609,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Green Sea Turtle",
+        "direction": "south",
+        "distance_km": 804,
+        "season": "spring"
+      }
+    ]
+  },
+  {
+    "id": "bio-25",
+    "timestamp": "2025-03-06T21:12:59.217937",
+    "location": {
+      "lat": -5.931046252202478,
+      "lng": 152.65248001107983
+    },
+    "species_count": 3545,
+    "coral_health_index": 4.1,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 39,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 601,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 785,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 861,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 635,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 624,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-26",
+    "timestamp": "2025-03-18T21:12:59.217937",
+    "location": {
+      "lat": -46.51605009076583,
+      "lng": -52.98009595250042
+    },
+    "species_count": 2930,
+    "coral_health_index": 5.9,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 390,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 100,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 315,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 692,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 483,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 950,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Coral (Various species)",
+        "direction": "east",
+        "distance_km": 1475,
+        "season": "winter"
+      }
+    ]
+  },
+  {
+    "id": "bio-27",
+    "timestamp": "2025-03-30T21:12:59.217937",
+    "location": {
+      "lat": 15.232988094038177,
+      "lng": -107.99038105729674
+    },
+    "species_count": 2110,
+    "coral_health_index": 6.4,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 575,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 304,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 716,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 19,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 199,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 297,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Blue Whale",
+        "direction": "east",
+        "distance_km": 4880,
+        "season": "winter"
+      }
+    ]
+  },
+  {
+    "id": "bio-28",
+    "timestamp": "2025-04-11T21:12:59.217937",
+    "location": {
+      "lat": -32.76852347660745,
+      "lng": 42.599295468444524
+    },
+    "species_count": 2898,
+    "coral_health_index": 4.0,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 526,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 238,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 299,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 157,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 866,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 812,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-29",
+    "timestamp": "2025-04-23T21:12:59.217937",
+    "location": {
+      "lat": -13.539072061271888,
+      "lng": 155.11446874150846
+    },
+    "species_count": 2957,
+    "coral_health_index": 7.5,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 163,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 317,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 623,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 373,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 844,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 637,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-30",
+    "timestamp": "2025-05-05T21:12:59.217937",
+    "location": {
+      "lat": 32.6256980089596,
+      "lng": 102.51918389321395
+    },
+    "species_count": 2423,
+    "coral_health_index": 7.8,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 225,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 655,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 49,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 726,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 622,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 146,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-31",
+    "timestamp": "2025-05-17T21:12:59.217937",
+    "location": {
+      "lat": -12.2291097473488,
+      "lng": -43.16228976362811
+    },
+    "species_count": 2543,
+    "coral_health_index": 5.2,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 224,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 90,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 544,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 709,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 92,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 884,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-32",
+    "timestamp": "2025-05-29T21:12:59.217937",
+    "location": {
+      "lat": 11.056446509681763,
+      "lng": -144.35423810628706
+    },
+    "species_count": 3311,
+    "coral_health_index": 9.5,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 852,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 862,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 121,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 859,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 325,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 292,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-33",
+    "timestamp": "2025-06-10T21:12:59.217937",
+    "location": {
+      "lat": 30.91460245067445,
+      "lng": -45.47054226586138
+    },
+    "species_count": 2305,
+    "coral_health_index": 6.9,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 292,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 155,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 413,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 96,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 894,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 455,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Bottlenose Dolphin",
+        "direction": "east",
+        "distance_km": 3267,
+        "season": "spring"
+      }
+    ]
+  },
+  {
+    "id": "bio-34",
+    "timestamp": "2025-06-22T21:12:59.217937",
+    "location": {
+      "lat": 39.27158768073849,
+      "lng": -155.81455009716845
+    },
+    "species_count": 3604,
+    "coral_health_index": 4.9,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 372,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 720,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 678,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 75,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 889,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 870,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Green Sea Turtle",
+        "direction": "south",
+        "distance_km": 3218,
+        "season": "spring"
+      }
+    ]
+  },
+  {
+    "id": "bio-35",
+    "timestamp": "2025-07-04T21:12:59.217937",
+    "location": {
+      "lat": 29.133863049682475,
+      "lng": -31.884093382146034
+    },
+    "species_count": 3056,
+    "coral_health_index": 9.6,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 260,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 904,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 948,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 306,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 65,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 573,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-36",
+    "timestamp": "2025-07-16T21:12:59.217937",
+    "location": {
+      "lat": -44.586102077334175,
+      "lng": 23.626671168710345
+    },
+    "species_count": 2714,
+    "coral_health_index": 7.5,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 326,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 569,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 657,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 700,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 405,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 57,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-37",
+    "timestamp": "2025-07-28T21:12:59.217937",
+    "location": {
+      "lat": -18.6415419725202,
+      "lng": 27.171113534485244
+    },
+    "species_count": 3426,
+    "coral_health_index": 3.2,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 986,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 402,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 150,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 997,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 794,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 97,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-38",
+    "timestamp": "2025-08-09T21:12:59.217937",
+    "location": {
+      "lat": 27.869389085560712,
+      "lng": 105.14240594169127
+    },
+    "species_count": 2523,
+    "coral_health_index": 4.7,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 624,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 24,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 932,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 27,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 416,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 500,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-39",
+    "timestamp": "2025-08-21T21:12:59.217937",
+    "location": {
+      "lat": 7.060198465602227,
+      "lng": -18.052004475529458
+    },
+    "species_count": 2547,
+    "coral_health_index": 6.3,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 677,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 576,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 170,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 783,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 298,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 43,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Great White Shark",
+        "direction": "west",
+        "distance_km": 2559,
+        "season": "fall"
+      }
+    ]
+  },
+  {
+    "id": "bio-40",
+    "timestamp": "2025-09-02T21:12:59.217937",
+    "location": {
+      "lat": 29.930517472859336,
+      "lng": -140.29654595715917
+    },
+    "species_count": 3441,
+    "coral_health_index": 3.9,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 82,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 177,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 918,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 930,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 499,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 835,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Giant Squid",
+        "direction": "east",
+        "distance_km": 2693,
+        "season": "winter"
+      }
+    ]
+  },
+  {
+    "id": "bio-41",
+    "timestamp": "2025-09-14T21:12:59.217937",
+    "location": {
+      "lat": -30.738654117476678,
+      "lng": 101.25879471579992
+    },
+    "species_count": 2796,
+    "coral_health_index": 8.8,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 425,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 87,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 323,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 734,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 369,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 858,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Bottlenose Dolphin",
+        "direction": "north",
+        "distance_km": 1979,
+        "season": "fall"
+      }
+    ]
+  },
+  {
+    "id": "bio-42",
+    "timestamp": "2025-09-26T21:12:59.217937",
+    "location": {
+      "lat": -41.20460234830577,
+      "lng": -44.73019203358734
+    },
+    "species_count": 2257,
+    "coral_health_index": 4.9,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 98,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 819,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 38,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 112,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 337,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 853,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Green Sea Turtle",
+        "direction": "east",
+        "distance_km": 113,
+        "season": "spring"
+      }
+    ]
+  },
+  {
+    "id": "bio-43",
+    "timestamp": "2025-10-08T21:12:59.217937",
+    "location": {
+      "lat": 49.047987986543006,
+      "lng": -177.52191681034694
+    },
+    "species_count": 3565,
+    "coral_health_index": 8.5,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 579,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 708,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 598,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 242,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 700,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 738,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Great White Shark",
+        "direction": "west",
+        "distance_km": 243,
+        "season": "fall"
+      }
+    ]
+  },
+  {
+    "id": "bio-44",
+    "timestamp": "2025-10-20T21:12:59.217937",
+    "location": {
+      "lat": 3.4310461615920147,
+      "lng": -64.67855654624567
+    },
+    "species_count": 2358,
+    "coral_health_index": 8.7,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 264,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 528,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 352,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 213,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 312,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 689,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-45",
+    "timestamp": "2025-11-01T21:12:59.217937",
+    "location": {
+      "lat": -48.1314829002035,
+      "lng": 91.36809414880099
+    },
+    "species_count": 2922,
+    "coral_health_index": 5.1,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 192,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 656,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 825,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 237,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 422,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 590,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  },
+  {
+    "id": "bio-46",
+    "timestamp": "2025-11-13T21:12:59.217937",
+    "location": {
+      "lat": -56.00210002019951,
+      "lng": 29.588516356411105
+    },
+    "species_count": 2551,
+    "coral_health_index": 3.2,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 687,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 624,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 309,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 127,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 303,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 501,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Great White Shark",
+        "direction": "north",
+        "distance_km": 4688,
+        "season": "winter"
+      }
+    ]
+  },
+  {
+    "id": "bio-47",
+    "timestamp": "2025-11-25T21:12:59.217937",
+    "location": {
+      "lat": -30.94167378462035,
+      "lng": 52.49124011871734
+    },
+    "species_count": 4270,
+    "coral_health_index": 3.3,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 863,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 863,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 861,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 478,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 493,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 712,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Coral (Various species)",
+        "direction": "west",
+        "distance_km": 3243,
+        "season": "fall"
+      }
+    ]
+  },
+  {
+    "id": "bio-48",
+    "timestamp": "2025-12-07T21:12:59.217937",
+    "location": {
+      "lat": -55.703580447973394,
+      "lng": 17.32011076738945
+    },
+    "species_count": 2592,
+    "coral_health_index": 3.9,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 960,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 483,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 238,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 209,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 266,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 436,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": [
+      {
+        "species": "Green Sea Turtle",
+        "direction": "south",
+        "distance_km": 3130,
+        "season": "spring"
+      }
+    ]
+  },
+  {
+    "id": "bio-49",
+    "timestamp": "2025-12-19T21:12:59.217937",
+    "location": {
+      "lat": 24.090085345284592,
+      "lng": 107.55699039859485
+    },
+    "species_count": 2608,
+    "coral_health_index": 7.7,
+    "species": [
+      {
+        "name": "Bottlenose Dolphin",
+        "scientific_name": "Tursiops truncatus",
+        "count": 360,
+        "endangered": false
+      },
+      {
+        "name": "Blue Whale",
+        "scientific_name": "Balaenoptera musculus",
+        "count": 532,
+        "endangered": true
+      },
+      {
+        "name": "Great White Shark",
+        "scientific_name": "Carcharodon carcharias",
+        "count": 116,
+        "endangered": false
+      },
+      {
+        "name": "Green Sea Turtle",
+        "scientific_name": "Chelonia mydas",
+        "count": 196,
+        "endangered": true
+      },
+      {
+        "name": "Giant Squid",
+        "scientific_name": "Architeuthis dux",
+        "count": 957,
+        "endangered": false
+      },
+      {
+        "name": "Coral (Various species)",
+        "scientific_name": "Anthozoa",
+        "count": 447,
+        "endangered": true
+      }
+    ],
+    "migration_patterns": null
+  }
+]

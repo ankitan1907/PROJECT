@@ -1,0 +1,29 @@
+{
+  "title": "testing",
+  "description": "..",
+  "data_type": "temperature",
+  "upload_date": "2025-05-11T10:07:02.098268",
+  "filename": "temperature_20250511_100702.json",
+  "data": [
+    {
+      "Date": "2024-01-01",
+      "Average Temperature": 15.2,
+      "Ocean pH": 8.12
+    },
+    {
+      "Date": "2024-02-01",
+      "Average Temperature": 15.8,
+      "Ocean pH": 8.1
+    },
+    {
+      "Date": "2024-03-01",
+      "Average Temperature": 16.3,
+      "Ocean pH": 8.08
+    },
+    {
+      "Date": "2024-04-01",
+      "Average Temperature": 17.0,
+      "Ocean pH": 8.05
+    }
+  ]
+}

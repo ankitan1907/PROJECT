@@ -1,0 +1,26 @@
+{
+  "title": "...",
+  "description": "...",
+  "data_type": "temperature",
+  "upload_date": "2025-05-11T10:11:39.190589",
+  "filename": "temperature_20250511_101139.json",
+  "data": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ocean Station Alpha",
+          "temperature": 26.5
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.5,
+            -20.1
+          ]
+        }
+      }
+    ]
+  }
+}

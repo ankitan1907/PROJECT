@@ -1,0 +1,242 @@
+[
+  {
+    "id": "disaster-0",
+    "disaster_type": "tsunami",
+    "probability": 0.18,
+    "location": {
+      "lat": -28.85802506853351,
+      "lng": -168.02505837236268
+    },
+    "predicted_time": "2025-06-07T21:12:59.217937",
+    "severity": 4,
+    "advisory": "Tsunami risk due to seismic activity. Coastal communities should prepare for possible evacuation."
+  },
+  {
+    "id": "disaster-1",
+    "disaster_type": "underwater_earthquake",
+    "probability": 0.46,
+    "location": {
+      "lat": 26.30158578646042,
+      "lng": 31.552102864564006
+    },
+    "predicted_time": "2025-05-28T21:12:59.217937",
+    "severity": 5,
+    "advisory": "Submarine seismic activity detected. Monitoring for potential tsunami generation."
+  },
+  {
+    "id": "disaster-2",
+    "disaster_type": "marine_heatwave",
+    "probability": 0.61,
+    "location": {
+      "lat": 10.88695386813454,
+      "lng": 71.35770996669879
+    },
+    "predicted_time": "2025-05-19T21:12:59.217937",
+    "severity": 2,
+    "advisory": "Elevated ocean temperatures may impact marine ecosystems. Monitor coral health."
+  },
+  {
+    "id": "disaster-3",
+    "disaster_type": "marine_heatwave",
+    "probability": 0.17,
+    "location": {
+      "lat": 58.196176793167496,
+      "lng": -53.40615484317624
+    },
+    "predicted_time": "2025-06-08T21:12:59.217937",
+    "severity": 3,
+    "advisory": "Elevated ocean temperatures may impact marine ecosystems. Monitor coral health."
+  },
+  {
+    "id": "disaster-4",
+    "disaster_type": "marine_heatwave",
+    "probability": 0.86,
+    "location": {
+      "lat": -26.796956522336224,
+      "lng": -43.53337992933726
+    },
+    "predicted_time": "2025-05-27T21:12:59.217937",
+    "severity": 4,
+    "advisory": "Elevated ocean temperatures may impact marine ecosystems. Monitor coral health."
+  },
+  {
+    "id": "disaster-5",
+    "disaster_type": "cyclone",
+    "probability": 0.32,
+    "location": {
+      "lat": 22.445371921229206,
+      "lng": -84.02325500101664
+    },
+    "predicted_time": "2025-05-18T21:12:59.217937",
+    "severity": 3,
+    "advisory": "Potential cyclone formation detected. Marine vessels advised to avoid the area."
+  },
+  {
+    "id": "disaster-6",
+    "disaster_type": "marine_heatwave",
+    "probability": 0.87,
+    "location": {
+      "lat": 21.981314252459924,
+      "lng": 159.56156319890505
+    },
+    "predicted_time": "2025-05-27T21:12:59.217937",
+    "severity": 1,
+    "advisory": "Elevated ocean temperatures may impact marine ecosystems. Monitor coral health."
+  },
+  {
+    "id": "disaster-7",
+    "disaster_type": "tsunami",
+    "probability": 0.44,
+    "location": {
+      "lat": 32.76133277325947,
+      "lng": 120.80857644943524
+    },
+    "predicted_time": "2025-05-22T21:12:59.217937",
+    "severity": 1,
+    "advisory": "Tsunami risk due to seismic activity. Coastal communities should prepare for possible evacuation."
+  },
+  {
+    "id": "disaster-8",
+    "disaster_type": "cyclone",
+    "probability": 0.31,
+    "location": {
+      "lat": 22.221144950233686,
+      "lng": 122.9678427846705
+    },
+    "predicted_time": "2025-06-01T21:12:59.217937",
+    "severity": 4,
+    "advisory": "Potential cyclone formation detected. Marine vessels advised to avoid the area."
+  },
+  {
+    "id": "disaster-9",
+    "disaster_type": "marine_heatwave",
+    "probability": 0.9,
+    "location": {
+      "lat": -40.37399239051873,
+      "lng": -153.87216185950854
+    },
+    "predicted_time": "2025-05-23T21:12:59.217937",
+    "severity": 3,
+    "advisory": "Elevated ocean temperatures may impact marine ecosystems. Monitor coral health."
+  },
+  {
+    "id": "disaster-10",
+    "disaster_type": "underwater_earthquake",
+    "probability": 0.2,
+    "location": {
+      "lat": -25.450669050135033,
+      "lng": 125.3700031699322
+    },
+    "predicted_time": "2025-05-16T21:12:59.217937",
+    "severity": 2,
+    "advisory": "Submarine seismic activity detected. Monitoring for potential tsunami generation."
+  },
+  {
+    "id": "disaster-11",
+    "disaster_type": "cyclone",
+    "probability": 0.28,
+    "location": {
+      "lat": 11.069044681104156,
+      "lng": -133.7077304480576
+    },
+    "predicted_time": "2025-05-18T21:12:59.217937",
+    "severity": 2,
+    "advisory": "Potential cyclone formation detected. Marine vessels advised to avoid the area."
+  },
+  {
+    "id": "disaster-12",
+    "disaster_type": "underwater_earthquake",
+    "probability": 0.26,
+    "location": {
+      "lat": -1.759753355156434,
+      "lng": -20.02481961012998
+    },
+    "predicted_time": "2025-05-11T21:12:59.217937",
+    "severity": 5,
+    "advisory": "Submarine seismic activity detected. Monitoring for potential tsunami generation."
+  },
+  {
+    "id": "disaster-13",
+    "disaster_type": "underwater_earthquake",
+    "probability": 0.38,
+    "location": {
+      "lat": 59.18246762255289,
+      "lng": -95.47112155315537
+    },
+    "predicted_time": "2025-05-20T21:12:59.217937",
+    "severity": 4,
+    "advisory": "Submarine seismic activity detected. Monitoring for potential tsunami generation."
+  },
+  {
+    "id": "disaster-14",
+    "disaster_type": "cyclone",
+    "probability": 0.61,
+    "location": {
+      "lat": 5.937316913032241,
+      "lng": -9.114520479265781
+    },
+    "predicted_time": "2025-06-04T21:12:59.217937",
+    "severity": 1,
+    "advisory": "Potential cyclone formation detected. Marine vessels advised to avoid the area."
+  },
+  {
+    "id": "disaster-15",
+    "disaster_type": "tsunami",
+    "probability": 0.63,
+    "location": {
+      "lat": 6.925160368249784,
+      "lng": 173.1953626236152
+    },
+    "predicted_time": "2025-05-25T21:12:59.217937",
+    "severity": 3,
+    "advisory": "Tsunami risk due to seismic activity. Coastal communities should prepare for possible evacuation."
+  },
+  {
+    "id": "disaster-16",
+    "disaster_type": "cyclone",
+    "probability": 0.26,
+    "location": {
+      "lat": 27.817409803027257,
+      "lng": -96.30945757348398
+    },
+    "predicted_time": "2025-05-15T21:12:59.217937",
+    "severity": 4,
+    "advisory": "Potential cyclone formation detected. Marine vessels advised to avoid the area."
+  },
+  {
+    "id": "disaster-17",
+    "disaster_type": "tsunami",
+    "probability": 0.57,
+    "location": {
+      "lat": 11.828297505284901,
+      "lng": 153.0077827561774
+    },
+    "predicted_time": "2025-05-31T21:12:59.217937",
+    "severity": 4,
+    "advisory": "Tsunami risk due to seismic activity. Coastal communities should prepare for possible evacuation."
+  },
+  {
+    "id": "disaster-18",
+    "disaster_type": "underwater_earthquake",
+    "probability": 0.23,
+    "location": {
+      "lat": -19.543148488350923,
+      "lng": -85.34499492620098
+    },
+    "predicted_time": "2025-06-05T21:12:59.217937",
+    "severity": 2,
+    "advisory": "Submarine seismic activity detected. Monitoring for potential tsunami generation."
+  },
+  {
+    "id": "disaster-19",
+    "disaster_type": "marine_heatwave",
+    "probability": 0.89,
+    "location": {
+      "lat": -18.831403543622102,
+      "lng": -140.54971009034682
+    },
+    "predicted_time": "2025-06-01T21:12:59.217937",
+    "severity": 4,
+    "advisory": "Elevated ocean temperatures may impact marine ecosystems. Monitor coral health."
+  }
+]

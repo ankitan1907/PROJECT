@@ -1,0 +1,842 @@
+[
+  {
+    "id": "ocean_trench-0",
+    "feature_type": "ocean_trench",
+    "name": "Japan Trench 0",
+    "coordinates": [
+      114.17578528686118,
+      21.037978738391757
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 7356,
+      "length_km": 1844
+    }
+  },
+  {
+    "id": "coral_reef-1",
+    "feature_type": "coral_reef",
+    "name": "Raja Ampat Reef 1",
+    "coordinates": [
+      40.44050468272934,
+      47.07867445641385
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 1804,
+      "health_index": 4.3
+    }
+  },
+  {
+    "id": "coral_reef-2",
+    "feature_type": "coral_reef",
+    "name": "Mesoamerican Reef 2",
+    "coordinates": [
+      128.79644437399668,
+      -28.232281531915454
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 1633,
+      "health_index": 9.7
+    }
+  },
+  {
+    "id": "tectonic_plate-3",
+    "feature_type": "tectonic_plate",
+    "name": "North American Plate 3",
+    "coordinates": [
+      -173.5384328481972,
+      -51.09362540621439
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "southwest",
+      "movement_rate_mm_per_year": 31
+    }
+  },
+  {
+    "id": "ocean_trench-4",
+    "feature_type": "ocean_trench",
+    "name": "Japan Trench 4",
+    "coordinates": [
+      -48.62081866421627,
+      35.216456753367666
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 8839,
+      "length_km": 805
+    }
+  },
+  {
+    "id": "deep_sea_vent-5",
+    "feature_type": "deep_sea_vent",
+    "name": "Rainbow Vent Field 5",
+    "coordinates": [
+      -112.67141284611253,
+      1.080080587517557
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 302,
+      "depth_meters": 1307
+    }
+  },
+  {
+    "id": "deep_sea_vent-6",
+    "feature_type": "deep_sea_vent",
+    "name": "Lost City 6",
+    "coordinates": [
+      -14.37631748892781,
+      -20.54924777006064
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 380,
+      "depth_meters": 3811
+    }
+  },
+  {
+    "id": "coral_reef-7",
+    "feature_type": "coral_reef",
+    "name": "New Caledonia Barrier Reef 7",
+    "coordinates": [
+      -59.69315859819939,
+      -47.03644119077502
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 1747,
+      "health_index": 3.1
+    }
+  },
+  {
+    "id": "tectonic_plate-8",
+    "feature_type": "tectonic_plate",
+    "name": "African Plate 8",
+    "coordinates": [
+      170.60053488337252,
+      -48.36366910328837
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "southeast",
+      "movement_rate_mm_per_year": 97
+    }
+  },
+  {
+    "id": "tectonic_plate-9",
+    "feature_type": "tectonic_plate",
+    "name": "Pacific Plate 9",
+    "coordinates": [
+      -73.94620995962607,
+      -39.01772156821983
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "southwest",
+      "movement_rate_mm_per_year": 81
+    }
+  },
+  {
+    "id": "coral_reef-10",
+    "feature_type": "coral_reef",
+    "name": "Great Barrier Reef 10",
+    "coordinates": [
+      -91.77078508360957,
+      -37.877446437460726
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 509,
+      "health_index": 3.8
+    }
+  },
+  {
+    "id": "coral_reef-11",
+    "feature_type": "coral_reef",
+    "name": "Mesoamerican Reef 11",
+    "coordinates": [
+      67.01317237872104,
+      -26.21328726181912
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 447,
+      "health_index": 9.8
+    }
+  },
+  {
+    "id": "coral_reef-12",
+    "feature_type": "coral_reef",
+    "name": "Andros Barrier Reef 12",
+    "coordinates": [
+      -116.27811538983585,
+      46.903579458628656
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 1431,
+      "health_index": 9.2
+    }
+  },
+  {
+    "id": "deep_sea_vent-13",
+    "feature_type": "deep_sea_vent",
+    "name": "White Smoker Vent 13",
+    "coordinates": [
+      144.3502633829142,
+      -34.701393295073046
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 138,
+      "depth_meters": 3904
+    }
+  },
+  {
+    "id": "deep_sea_vent-14",
+    "feature_type": "deep_sea_vent",
+    "name": "White Smoker Vent 14",
+    "coordinates": [
+      -146.2003378631406,
+      -19.135095414120542
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 213,
+      "depth_meters": 3257
+    }
+  },
+  {
+    "id": "ocean_trench-15",
+    "feature_type": "ocean_trench",
+    "name": "South Sandwich Trench 15",
+    "coordinates": [
+      10.241819592566884,
+      -5.5999769960926855
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 10762,
+      "length_km": 1008
+    }
+  },
+  {
+    "id": "ocean_trench-16",
+    "feature_type": "ocean_trench",
+    "name": "Java Trench 16",
+    "coordinates": [
+      -126.46526404723471,
+      -55.60027889924089
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 6599,
+      "length_km": 911
+    }
+  },
+  {
+    "id": "tectonic_plate-17",
+    "feature_type": "tectonic_plate",
+    "name": "Eurasian Plate 17",
+    "coordinates": [
+      132.02673832670854,
+      10.479318416724297
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "northeast",
+      "movement_rate_mm_per_year": 57
+    }
+  },
+  {
+    "id": "coral_reef-18",
+    "feature_type": "coral_reef",
+    "name": "Great Barrier Reef 18",
+    "coordinates": [
+      -108.0885377155303,
+      -31.943070082615385
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 102,
+      "health_index": 8.7
+    }
+  },
+  {
+    "id": "tectonic_plate-19",
+    "feature_type": "tectonic_plate",
+    "name": "Antarctic Plate 19",
+    "coordinates": [
+      107.3532496634133,
+      -10.151441898460952
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "southwest",
+      "movement_rate_mm_per_year": 28
+    }
+  },
+  {
+    "id": "deep_sea_vent-20",
+    "feature_type": "deep_sea_vent",
+    "name": "Rainbow Vent Field 20",
+    "coordinates": [
+      -107.87377960511456,
+      -46.452942583187365
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 279,
+      "depth_meters": 4423
+    }
+  },
+  {
+    "id": "coral_reef-21",
+    "feature_type": "coral_reef",
+    "name": "New Caledonia Barrier Reef 21",
+    "coordinates": [
+      67.25740668144337,
+      -37.93665217652418
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 499,
+      "health_index": 8.7
+    }
+  },
+  {
+    "id": "ocean_trench-22",
+    "feature_type": "ocean_trench",
+    "name": "Puerto Rico Trench 22",
+    "coordinates": [
+      116.37302125701484,
+      57.984477272936715
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 6873,
+      "length_km": 753
+    }
+  },
+  {
+    "id": "tectonic_plate-23",
+    "feature_type": "tectonic_plate",
+    "name": "Pacific Plate 23",
+    "coordinates": [
+      11.208677682923593,
+      17.502678271976436
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "northwest",
+      "movement_rate_mm_per_year": 81
+    }
+  },
+  {
+    "id": "deep_sea_vent-24",
+    "feature_type": "deep_sea_vent",
+    "name": "Rainbow Vent Field 24",
+    "coordinates": [
+      -1.504069042781822,
+      -43.238088715785096
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 322,
+      "depth_meters": 2242
+    }
+  },
+  {
+    "id": "ocean_trench-25",
+    "feature_type": "ocean_trench",
+    "name": "Kuril\u2013Kamchatka Trench 25",
+    "coordinates": [
+      147.22954886863266,
+      -35.984174341001165
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 10913,
+      "length_km": 1987
+    }
+  },
+  {
+    "id": "coral_reef-26",
+    "feature_type": "coral_reef",
+    "name": "Red Sea Coral Reef 26",
+    "coordinates": [
+      -142.26880464403735,
+      -25.178921314128146
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 27,
+      "health_index": 9.1
+    }
+  },
+  {
+    "id": "coral_reef-27",
+    "feature_type": "coral_reef",
+    "name": "New Caledonia Barrier Reef 27",
+    "coordinates": [
+      -74.58022191305983,
+      -0.35632204360727826
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 1050,
+      "health_index": 5.0
+    }
+  },
+  {
+    "id": "ocean_trench-28",
+    "feature_type": "ocean_trench",
+    "name": "Atacama Trench 28",
+    "coordinates": [
+      89.81232173552274,
+      -21.179906191111556
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 8890,
+      "length_km": 1128
+    }
+  },
+  {
+    "id": "deep_sea_vent-29",
+    "feature_type": "deep_sea_vent",
+    "name": "Black Smoker Vent 29",
+    "coordinates": [
+      -17.67515637387345,
+      30.836162048237895
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 181,
+      "depth_meters": 4615
+    }
+  },
+  {
+    "id": "coral_reef-30",
+    "feature_type": "coral_reef",
+    "name": "Andros Barrier Reef 30",
+    "coordinates": [
+      -32.18783492295077,
+      -18.683882962416824
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 1955,
+      "health_index": 6.2
+    }
+  },
+  {
+    "id": "coral_reef-31",
+    "feature_type": "coral_reef",
+    "name": "Red Sea Coral Reef 31",
+    "coordinates": [
+      144.3117661037378,
+      -53.805413450971216
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 1830,
+      "health_index": 8.3
+    }
+  },
+  {
+    "id": "deep_sea_vent-32",
+    "feature_type": "deep_sea_vent",
+    "name": "Black Smoker Vent 32",
+    "coordinates": [
+      -64.4603585369337,
+      -56.719858445183014
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 389,
+      "depth_meters": 4902
+    }
+  },
+  {
+    "id": "ocean_trench-33",
+    "feature_type": "ocean_trench",
+    "name": "Java Trench 33",
+    "coordinates": [
+      -107.32848642879765,
+      37.329299453944685
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 9141,
+      "length_km": 730
+    }
+  },
+  {
+    "id": "coral_reef-34",
+    "feature_type": "coral_reef",
+    "name": "Maldives Coral Reef 34",
+    "coordinates": [
+      29.559758795351996,
+      16.598893812707942
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 1330,
+      "health_index": 6.3
+    }
+  },
+  {
+    "id": "deep_sea_vent-35",
+    "feature_type": "deep_sea_vent",
+    "name": "Black Smoker Vent 35",
+    "coordinates": [
+      -58.07116876957494,
+      6.5498291822131876
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 164,
+      "depth_meters": 3788
+    }
+  },
+  {
+    "id": "deep_sea_vent-36",
+    "feature_type": "deep_sea_vent",
+    "name": "Loki's Castle 36",
+    "coordinates": [
+      -127.55424493519067,
+      -39.164100730051345
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 284,
+      "depth_meters": 4455
+    }
+  },
+  {
+    "id": "deep_sea_vent-37",
+    "feature_type": "deep_sea_vent",
+    "name": "TAG Hydrothermal Field 37",
+    "coordinates": [
+      -79.98893808413605,
+      13.851187306945747
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 285,
+      "depth_meters": 3056
+    }
+  },
+  {
+    "id": "coral_reef-38",
+    "feature_type": "coral_reef",
+    "name": "New Caledonia Barrier Reef 38",
+    "coordinates": [
+      -177.07646046443142,
+      -41.30152679460116
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 1308,
+      "health_index": 4.6
+    }
+  },
+  {
+    "id": "ocean_trench-39",
+    "feature_type": "ocean_trench",
+    "name": "Kuril\u2013Kamchatka Trench 39",
+    "coordinates": [
+      138.67743663541552,
+      23.19104950648672
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 8384,
+      "length_km": 984
+    }
+  },
+  {
+    "id": "deep_sea_vent-40",
+    "feature_type": "deep_sea_vent",
+    "name": "Hydrothermal Field 40",
+    "coordinates": [
+      12.198848237291429,
+      -49.47834232337554
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 352,
+      "depth_meters": 1313
+    }
+  },
+  {
+    "id": "ocean_trench-41",
+    "feature_type": "ocean_trench",
+    "name": "Atacama Trench 41",
+    "coordinates": [
+      86.59248690464534,
+      53.03142125961142
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 7126,
+      "length_km": 598
+    }
+  },
+  {
+    "id": "tectonic_plate-42",
+    "feature_type": "tectonic_plate",
+    "name": "Pacific Plate 42",
+    "coordinates": [
+      -36.068758405610794,
+      -57.46178885205414
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "southeast",
+      "movement_rate_mm_per_year": 40
+    }
+  },
+  {
+    "id": "coral_reef-43",
+    "feature_type": "coral_reef",
+    "name": "Mesoamerican Reef 43",
+    "coordinates": [
+      115.82045736767225,
+      -33.81404762861045
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 140,
+      "health_index": 5.8
+    }
+  },
+  {
+    "id": "coral_reef-44",
+    "feature_type": "coral_reef",
+    "name": "New Caledonia Barrier Reef 44",
+    "coordinates": [
+      -114.18630277486835,
+      -34.81952842853057
+    ],
+    "description": "Diverse underwater ecosystems held together by calcium carbonate structures secreted by corals.",
+    "properties": {
+      "area_sq_km": 1637,
+      "health_index": 8.2
+    }
+  },
+  {
+    "id": "deep_sea_vent-45",
+    "feature_type": "deep_sea_vent",
+    "name": "TAG Hydrothermal Field 45",
+    "coordinates": [
+      30.655435622602624,
+      -3.585408887274106
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 143,
+      "depth_meters": 1402
+    }
+  },
+  {
+    "id": "deep_sea_vent-46",
+    "feature_type": "deep_sea_vent",
+    "name": "Hydrothermal Field 46",
+    "coordinates": [
+      -131.6516640972721,
+      43.8249171262772
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 392,
+      "depth_meters": 2392
+    }
+  },
+  {
+    "id": "tectonic_plate-47",
+    "feature_type": "tectonic_plate",
+    "name": "Pacific Plate 47",
+    "coordinates": [
+      -136.13880153775978,
+      -48.19391751298167
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "southwest",
+      "movement_rate_mm_per_year": 53
+    }
+  },
+  {
+    "id": "tectonic_plate-48",
+    "feature_type": "tectonic_plate",
+    "name": "African Plate 48",
+    "coordinates": [
+      136.7376340983718,
+      -18.559021574182587
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "northwest",
+      "movement_rate_mm_per_year": 27
+    }
+  },
+  {
+    "id": "ocean_trench-49",
+    "feature_type": "ocean_trench",
+    "name": "Mariana Trench 49",
+    "coordinates": [
+      107.70600470669615,
+      -25.730547213415157
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 7881,
+      "length_km": 636
+    }
+  },
+  {
+    "id": "tectonic_plate-50",
+    "feature_type": "tectonic_plate",
+    "name": "Indo-Australian Plate 50",
+    "coordinates": [
+      64.70977910657325,
+      20.807819495007294
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "northwest",
+      "movement_rate_mm_per_year": 65
+    }
+  },
+  {
+    "id": "deep_sea_vent-51",
+    "feature_type": "deep_sea_vent",
+    "name": "Lost City 51",
+    "coordinates": [
+      -32.73990719428551,
+      8.880237873100612
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 363,
+      "depth_meters": 2736
+    }
+  },
+  {
+    "id": "tectonic_plate-52",
+    "feature_type": "tectonic_plate",
+    "name": "Pacific Plate 52",
+    "coordinates": [
+      58.52416155532211,
+      8.139264917785468
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "southwest",
+      "movement_rate_mm_per_year": 77
+    }
+  },
+  {
+    "id": "ocean_trench-53",
+    "feature_type": "ocean_trench",
+    "name": "Puerto Rico Trench 53",
+    "coordinates": [
+      -113.40917959167389,
+      -18.490135213201746
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 10907,
+      "length_km": 1923
+    }
+  },
+  {
+    "id": "ocean_trench-54",
+    "feature_type": "ocean_trench",
+    "name": "Java Trench 54",
+    "coordinates": [
+      -77.42204157898607,
+      33.381942452465594
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 6245,
+      "length_km": 286
+    }
+  },
+  {
+    "id": "tectonic_plate-55",
+    "feature_type": "tectonic_plate",
+    "name": "South American Plate 55",
+    "coordinates": [
+      -82.90277733306542,
+      -40.10157658762768
+    ],
+    "description": "A massive, irregularly shaped slab of solid rock, composed of both continental and oceanic lithosphere.",
+    "properties": {
+      "movement_direction": "northwest",
+      "movement_rate_mm_per_year": 89
+    }
+  },
+  {
+    "id": "ocean_trench-56",
+    "feature_type": "ocean_trench",
+    "name": "Atacama Trench 56",
+    "coordinates": [
+      76.79255963812227,
+      -49.166476282467926
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 7846,
+      "length_km": 439
+    }
+  },
+  {
+    "id": "deep_sea_vent-57",
+    "feature_type": "deep_sea_vent",
+    "name": "TAG Hydrothermal Field 57",
+    "coordinates": [
+      -96.05267509879722,
+      35.71068731766509
+    ],
+    "description": "A fissure in the Earth's surface from which geothermally heated water issues, often rich in minerals and supporting unique ecosystems.",
+    "properties": {
+      "temperature_celsius": 73,
+      "depth_meters": 4673
+    }
+  },
+  {
+    "id": "ocean_trench-58",
+    "feature_type": "ocean_trench",
+    "name": "Kuril\u2013Kamchatka Trench 58",
+    "coordinates": [
+      159.53023739543085,
+      48.112015255024176
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 8562,
+      "length_km": 1582
+    }
+  },
+  {
+    "id": "ocean_trench-59",
+    "feature_type": "ocean_trench",
+    "name": "Java Trench 59",
+    "coordinates": [
+      170.376910108373,
+      9.946076493590596
+    ],
+    "description": "Long, narrow, steep-sided depressions in the ocean floor representing the deepest parts of the ocean.",
+    "properties": {
+      "depth_meters": 7868,
+      "length_km": 233
+    }
+  }
+]
