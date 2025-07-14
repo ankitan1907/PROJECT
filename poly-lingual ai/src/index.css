@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  @apply bg-gray-950 text-white;
+  overflow: hidden;
+}
+
+/* Custom scrollbar */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 5px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  @apply bg-gray-700 rounded-full;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-600;
+}
+
+/* Glow effects */
+.text-glow {
+  text-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+}
+
+.box-glow {
+  box-shadow: 0 0 15px rgba(59, 130, 246, 0.3);
+}
+
+/* Animation utilities */
+@keyframes pulse-soft {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.animate-pulse-soft {
+  animation: pulse-soft 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Gradient backgrounds */
+.bg-mesh-gradient {
+  background-image: radial-gradient(at 0% 0%, rgba(29, 78, 216, 0.1) 0px, transparent 50%),
+                   radial-gradient(at 100% 0%, rgba(124, 58, 237, 0.1) 0px, transparent 50%),
+                   radial-gradient(at 0% 100%, rgba(59, 130, 246, 0.1) 0px, transparent 50%),
+                   radial-gradient(at 100% 100%, rgba(236, 72, 153, 0.1) 0px, transparent 50%);
+}
+
+/* Messages with animated border */
+.message-border-animated {
+  position: relative;
+  border-radius: 0.75rem;
+  z-index: 0;
+}
+
+.message-border-animated::before {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  inset: -1px;
+  border-radius: 0.85rem;
+  background: linear-gradient(45deg, rgba(59, 130, 246, 0.5), rgba(139, 92, 246, 0.5), rgba(236, 72, 153, 0.5), rgba(59, 130, 246, 0.5));
+  background-size: 400% 400%;
+  animation: gradient-move 4s ease infinite;
+  opacity: 0.5;
+}
+
+@keyframes gradient-move {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
