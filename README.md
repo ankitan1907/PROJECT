@@ -1,4 +1,4 @@
-🌊 Ocean Insight: Research & Monitoring Web App
+🌊 Ocean Insights: Research & Monitoring Web App
 An interactive web application for oceanographic research and awareness. This tool visualizes real-time and simulated data about the ocean—supporting research on anomalies, biodiversity, disasters, and climate-driven impacts.
 
 📦 Project Structure
