@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Montserrat:wght@400;500;600;700&display=swap');
+
+:root {
+  --color-ocean-darkest: #03045E;
+  --color-ocean-dark: #0A4B70;
+  --color-ocean-medium: #0077B6;
+  --color-ocean: #00B4D8;
+  --color-ocean-light: #90E0EF;
+  --color-ocean-lightest: #CAF0F8;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 
+    'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8fafc;
+  color: #1e293b;
+}
+
+code {
+  font-family: 'JetBrains Mono', source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Custom animation classes */
+.animate-wave {
+  animation: wave 3s ease-in-out infinite;
+}
+
+@keyframes wave {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-ocean-medium);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-ocean-dark);
+}
+
+/* Card component styling */
+.ocean-card {
+  @apply bg-white rounded-lg shadow-md overflow-hidden transition-all duration-300;
+}
+
+.ocean-card:hover {
+  @apply shadow-ocean transform translate-y-[-2px];
+}
+
+/* Button styling */
+.btn-primary {
+  @apply bg-ocean-medium hover:bg-ocean-dark text-white font-medium py-2 px-4 rounded-md transition-colors duration-300;
+}
+
+.btn-secondary {
+  @apply bg-ocean-lightest hover:bg-ocean-light text-ocean-dark font-medium py-2 px-4 rounded-md transition-colors duration-300;
+}
+
+.btn-danger {
+  @apply bg-danger hover:bg-danger/90 text-white font-medium py-2 px-4 rounded-md transition-colors duration-300;
+}
+
+/* Map styling */
+.mapboxgl-ctrl-logo, .mapboxgl-ctrl-attrib {
+  display: none !important;
+}
+
+/* Chart animations */
+.chart-appear {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: chart-fade-in 0.5s ease-out forwards;
+}
+
+@keyframes chart-fade-in {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Timeline player styling */
+.timeline-track {
+  @apply h-2 bg-ocean-lightest rounded-full overflow-hidden;
+}
+
+.timeline-progress {
+  @apply h-full bg-ocean-medium rounded-full transition-all duration-300;
+}
+
+.timeline-thumb {
+  @apply w-5 h-5 bg-ocean border-2 border-white rounded-full shadow-md absolute top-1/2 transform -translate-y-1/2 cursor-pointer transition-all duration-300;
+}
+
+.timeline-thumb:hover {
+  @apply bg-ocean-dark scale-110;
+}
+
+/* Loader animation */
+.ocean-loader {
+  @apply relative w-16 h-16;
+}
+
+.ocean-loader::before, 
+.ocean-loader::after {
+  content: '';
+  @apply absolute top-0 left-0 w-full h-full rounded-full;
+}
+
+.ocean-loader::before {
+  @apply bg-ocean-light animate-ping opacity-70;
+}
+
+.ocean-loader::after {
+  @apply bg-ocean scale-50 opacity-90;
+}

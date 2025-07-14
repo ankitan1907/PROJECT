@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "anomaly-0",
+    "timestamp": "2025-04-10T21:12:59.217937",
+    "location": {
+      "lat": -26.97635075548066,
+      "lng": -88.99325584532949
+    },
+    "temperature": 23.65,
+    "salinity": 24.96,
+    "algae_concentration": 82.5,
+    "is_anomaly": true,
+    "anomaly_type": "salinity_change",
+    "severity": 5
+  },
+  {
+    "id": "anomaly-1",
+    "timestamp": "2025-04-11T09:12:59.217937",
+    "location": {
+      "lat": 24.02944860868334,
+      "lng": 41.02090133595888
+    },
+    "temperature": 23.1,
+    "salinity": 39.5,
+    "algae_concentration": 3.51,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-2",
+    "timestamp": "2025-04-11T21:12:59.217937",
+    "location": {
+      "lat": 47.12208206242211,
+      "lng": 80.00106893610979
+    },
+    "temperature": 27.57,
+    "salinity": 38.99,
+    "algae_concentration": 57.07,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-3",
+    "timestamp": "2025-04-12T09:12:59.217937",
+    "location": {
+      "lat": 5.088860985828106,
+      "lng": -76.82632905746266
+    },
+    "temperature": 21.62,
+    "salinity": 31.36,
+    "algae_concentration": 9.95,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-4",
+    "timestamp": "2025-04-12T21:12:59.217937",
+    "location": {
+      "lat": 34.37489651286293,
+      "lng": -11.891115111558406
+    },
+    "temperature": 28.03,
+    "salinity": 33.31,
+    "algae_concentration": 80.59,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-5",
+    "timestamp": "2025-04-13T09:12:59.217937",
+    "location": {
+      "lat": -30.673415767322556,
+      "lng": 98.67974539600732
+    },
+    "temperature": 12.77,
+    "salinity": 37.52,
+    "algae_concentration": 26.91,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-6",
+    "timestamp": "2025-04-13T21:12:59.217937",
+    "location": {
+      "lat": -34.23855510519766,
+      "lng": 36.355964022931005
+    },
+    "temperature": 13.71,
+    "salinity": 31.62,
+    "algae_concentration": 8.56,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-7",
+    "timestamp": "2025-04-14T09:12:59.217937",
+    "location": {
+      "lat": -18.658864657088976,
+      "lng": -170.40338126547113
+    },
+    "temperature": 29.23,
+    "salinity": 31.51,
+    "algae_concentration": 71.26,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-8",
+    "timestamp": "2025-04-14T21:12:59.217937",
+    "location": {
+      "lat": 36.91375430011678,
+      "lng": -118.19500855356144
+    },
+    "temperature": 17.38,
+    "salinity": 38.84,
+    "algae_concentration": 71.7,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-9",
+    "timestamp": "2025-04-15T09:12:59.217937",
+    "location": {
+      "lat": -5.5928723274785455,
+      "lng": -53.01778404280999
+    },
+    "temperature": 23.58,
+    "salinity": 35.88,
+    "algae_concentration": 62.86,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-10",
+    "timestamp": "2025-04-15T21:12:59.217937",
+    "location": {
+      "lat": 12.306191529006313,
+      "lng": -154.74573319131324
+    },
+    "temperature": 25.55,
+    "salinity": 34.6,
+    "algae_concentration": 78.52,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-11",
+    "timestamp": "2025-04-16T09:12:59.217937",
+    "location": {
+      "lat": 43.839979351996135,
+      "lng": 124.73386534231781
+    },
+    "temperature": 19.79,
+    "salinity": 32.39,
+    "algae_concentration": 43.08,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-12",
+    "timestamp": "2025-04-16T21:12:59.217937",
+    "location": {
+      "lat": -4.32505288218352,
+      "lng": 27.41771010466084
+    },
+    "temperature": 8.3,
+    "salinity": 31.16,
+    "algae_concentration": 76.97,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-13",
+    "timestamp": "2025-04-17T09:12:59.217937",
+    "location": {
+      "lat": 54.503566705620486,
+      "lng": 81.4189018484355
+    },
+    "temperature": 11.21,
+    "salinity": 34.97,
+    "algae_concentration": 36.77,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-14",
+    "timestamp": "2025-04-17T21:12:59.217937",
+    "location": {
+      "lat": 10.786709403570896,
+      "lng": 54.96216012408388
+    },
+    "temperature": 21.71,
+    "salinity": 32.53,
+    "algae_concentration": 95.43,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-15",
+    "timestamp": "2025-04-18T09:12:59.217937",
+    "location": {
+      "lat": 25.01362931626788,
+      "lng": 20.13756533725396
+    },
+    "temperature": 6.99,
+    "salinity": 36.58,
+    "algae_concentration": 1.13,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-16",
+    "timestamp": "2025-04-18T21:12:59.217937",
+    "location": {
+      "lat": 33.14109889446334,
+      "lng": -96.74185246997541
+    },
+    "temperature": 4.79,
+    "salinity": 37.45,
+    "algae_concentration": 42.07,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-17",
+    "timestamp": "2025-04-19T09:12:59.217937",
+    "location": {
+      "lat": -36.279857743440935,
+      "lng": 136.07147800518896
+    },
+    "temperature": 10.81,
+    "salinity": 34.19,
+    "algae_concentration": 39.96,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-18",
+    "timestamp": "2025-04-19T21:12:59.217937",
+    "location": {
+      "lat": 19.374087085826588,
+      "lng": -93.39938685218416
+    },
+    "temperature": 16.58,
+    "salinity": 31.09,
+    "algae_concentration": 81.35,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-19",
+    "timestamp": "2025-04-20T09:12:59.217937",
+    "location": {
+      "lat": -48.98571959707925,
+      "lng": -69.58776352324983
+    },
+    "temperature": 13.74,
+    "salinity": 30.16,
+    "algae_concentration": 31.2,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-20",
+    "timestamp": "2025-04-20T21:12:59.217937",
+    "location": {
+      "lat": 39.79870288786441,
+      "lng": -96.27233529298074
+    },
+    "temperature": 14.61,
+    "salinity": 35.92,
+    "algae_concentration": 28.61,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-21",
+    "timestamp": "2025-04-21T09:12:59.217937",
+    "location": {
+      "lat": -23.203322205774924,
+      "lng": 157.27076920384673
+    },
+    "temperature": 12.4,
+    "salinity": 32.64,
+    "algae_concentration": 97.86,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-22",
+    "timestamp": "2025-04-21T21:12:59.217937",
+    "location": {
+      "lat": -25.04508926189378,
+      "lng": 119.24130712398676
+    },
+    "temperature": 6.72,
+    "salinity": 22.27,
+    "algae_concentration": 18.31,
+    "is_anomaly": true,
+    "anomaly_type": "salinity_change",
+    "severity": 2
+  },
+  {
+    "id": "anomaly-23",
+    "timestamp": "2025-04-22T09:12:59.217937",
+    "location": {
+      "lat": -59.74203780777589,
+      "lng": -33.94409446949243
+    },
+    "temperature": 18.09,
+    "salinity": 37.69,
+    "algae_concentration": 11.23,
+    "is_anomaly": true,
+    "anomaly_type": "temperature_spike",
+    "severity": 1
+  },
+  {
+    "id": "anomaly-24",
+    "timestamp": "2025-04-22T21:12:59.217937",
+    "location": {
+      "lat": 1.070245492313802,
+      "lng": -153.78139604578007
+    },
+    "temperature": 19.67,
+    "salinity": 38.74,
+    "algae_concentration": 75.17,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-25",
+    "timestamp": "2025-04-23T09:12:59.217937",
+    "location": {
+      "lat": 55.2938501663607,
+      "lng": -152.24304135701146
+    },
+    "temperature": 28.24,
+    "salinity": 39.85,
+    "algae_concentration": 55.23,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-26",
+    "timestamp": "2025-04-23T21:12:59.217937",
+    "location": {
+      "lat": -9.06524681555171,
+      "lng": 74.75921626105932
+    },
+    "temperature": 15.0,
+    "salinity": 33.56,
+    "algae_concentration": 5.48,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-27",
+    "timestamp": "2025-04-24T09:12:59.217937",
+    "location": {
+      "lat": 25.12636572638813,
+      "lng": -34.92194433203693
+    },
+    "temperature": 24.36,
+    "salinity": 30.84,
+    "algae_concentration": 45.54,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-28",
+    "timestamp": "2025-04-24T21:12:59.217937",
+    "location": {
+      "lat": 51.85281377586631,
+      "lng": 108.56535159028107
+    },
+    "temperature": 19.62,
+    "salinity": 33.61,
+    "algae_concentration": 2.53,
+    "is_anomaly": true,
+    "anomaly_type": "temperature_spike",
+    "severity": 5
+  },
+  {
+    "id": "anomaly-29",
+    "timestamp": "2025-04-25T09:12:59.217937",
+    "location": {
+      "lat": -43.7865549269021,
+      "lng": 87.38937307248489
+    },
+    "temperature": 18.03,
+    "salinity": 39.01,
+    "algae_concentration": 26.79,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-30",
+    "timestamp": "2025-04-25T21:12:59.217937",
+    "location": {
+      "lat": -1.8321303351950746,
+      "lng": -14.285268643658213
+    },
+    "temperature": 29.0,
+    "salinity": 36.75,
+    "algae_concentration": 93.28,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-31",
+    "timestamp": "2025-04-26T09:12:59.217937",
+    "location": {
+      "lat": 26.098329677689776,
+      "lng": 137.2617933855688
+    },
+    "temperature": 19.03,
+    "salinity": 32.42,
+    "algae_concentration": 31.47,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-32",
+    "timestamp": "2025-04-26T21:12:59.217937",
+    "location": {
+      "lat": -12.92773065468323,
+      "lng": 50.996643362891746
+    },
+    "temperature": 5.86,
+    "salinity": 38.49,
+    "algae_concentration": 70.62,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-33",
+    "timestamp": "2025-04-27T09:12:59.217937",
+    "location": {
+      "lat": 48.45077131700832,
+      "lng": 160.64316429585
+    },
+    "temperature": 27.36,
+    "salinity": 39.34,
+    "algae_concentration": 55.23,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-34",
+    "timestamp": "2025-04-27T21:12:59.217937",
+    "location": {
+      "lat": -25.12500013242107,
+      "lng": -126.97637674473656
+    },
+    "temperature": 27.16,
+    "salinity": 39.54,
+    "algae_concentration": 170.95,
+    "is_anomaly": true,
+    "anomaly_type": "algal_bloom",
+    "severity": 5
+  },
+  {
+    "id": "anomaly-35",
+    "timestamp": "2025-04-28T09:12:59.217937",
+    "location": {
+      "lat": -8.659914251614452,
+      "lng": 177.20315068870974
+    },
+    "temperature": 37.92,
+    "salinity": 37.21,
+    "algae_concentration": 16.49,
+    "is_anomaly": true,
+    "anomaly_type": "temperature_spike",
+    "severity": 3
+  },
+  {
+    "id": "anomaly-36",
+    "timestamp": "2025-04-28T21:12:59.217937",
+    "location": {
+      "lat": 9.902910543935448,
+      "lng": -5.596346777055373
+    },
+    "temperature": 27.35,
+    "salinity": 31.42,
+    "algae_concentration": 96.11,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-37",
+    "timestamp": "2025-04-29T09:12:59.217937",
+    "location": {
+      "lat": 38.0397755467789,
+      "lng": -35.33588620514783
+    },
+    "temperature": 21.19,
+    "salinity": 37.77,
+    "algae_concentration": 18.0,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-38",
+    "timestamp": "2025-04-29T21:12:59.217937",
+    "location": {
+      "lat": -51.06257241227624,
+      "lng": -14.10753965215207
+    },
+    "temperature": 9.13,
+    "salinity": 37.66,
+    "algae_concentration": 52.22,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-39",
+    "timestamp": "2025-04-30T09:12:59.217937",
+    "location": {
+      "lat": 24.456333260091554,
+      "lng": 120.7382984859808
+    },
+    "temperature": 8.83,
+    "salinity": 33.9,
+    "algae_concentration": 76.99,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-40",
+    "timestamp": "2025-04-30T21:12:59.217937",
+    "location": {
+      "lat": -36.18514106929184,
+      "lng": -39.447944162046724
+    },
+    "temperature": 25.69,
+    "salinity": 30.99,
+    "algae_concentration": 98.96,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-41",
+    "timestamp": "2025-05-01T09:12:59.217937",
+    "location": {
+      "lat": -0.4959062642643204,
+      "lng": -94.51174853541627
+    },
+    "temperature": 14.65,
+    "salinity": 38.85,
+    "algae_concentration": 66.63,
+    "is_anomaly": true,
+    "anomaly_type": "salinity_change",
+    "severity": 3
+  },
+  {
+    "id": "anomaly-42",
+    "timestamp": "2025-05-01T21:12:59.217937",
+    "location": {
+      "lat": -53.89621020400857,
+      "lng": 16.039763706728706
+    },
+    "temperature": 8.01,
+    "salinity": 38.2,
+    "algae_concentration": 44.68,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-43",
+    "timestamp": "2025-05-02T09:12:59.217937",
+    "location": {
+      "lat": -32.642264769209305,
+      "lng": -2.41310019564537
+    },
+    "temperature": 24.33,
+    "salinity": 33.9,
+    "algae_concentration": 38.16,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-44",
+    "timestamp": "2025-05-02T21:12:59.217937",
+    "location": {
+      "lat": -6.215340527056632,
+      "lng": -52.90615739697057
+    },
+    "temperature": 16.86,
+    "salinity": 39.39,
+    "algae_concentration": 8.1,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-45",
+    "timestamp": "2025-05-03T09:12:59.217937",
+    "location": {
+      "lat": -47.78768513701938,
+      "lng": -151.16126144101258
+    },
+    "temperature": 10.41,
+    "salinity": 31.35,
+    "algae_concentration": 45.53,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-46",
+    "timestamp": "2025-05-03T21:12:59.217937",
+    "location": {
+      "lat": 56.6660487656122,
+      "lng": 143.49056416949236
+    },
+    "temperature": 29.99,
+    "salinity": 32.63,
+    "algae_concentration": 109.76,
+    "is_anomaly": true,
+    "anomaly_type": "algal_bloom",
+    "severity": 4
+  },
+  {
+    "id": "anomaly-47",
+    "timestamp": "2025-05-04T09:12:59.217937",
+    "location": {
+      "lat": 10.363739887903094,
+      "lng": 143.97337057015062
+    },
+    "temperature": 19.34,
+    "salinity": 37.67,
+    "algae_concentration": 55.87,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-48",
+    "timestamp": "2025-05-04T21:12:59.217937",
+    "location": {
+      "lat": 56.07931282682213,
+      "lng": 15.85053407461038
+    },
+    "temperature": 27.53,
+    "salinity": 39.8,
+    "algae_concentration": 81.32,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-49",
+    "timestamp": "2025-05-05T09:12:59.217937",
+    "location": {
+      "lat": 38.43391975695431,
+      "lng": 35.95811739893685
+    },
+    "temperature": 25.18,
+    "salinity": 37.21,
+    "algae_concentration": 4.32,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-50",
+    "timestamp": "2025-05-05T21:12:59.217937",
+    "location": {
+      "lat": 56.088986487163226,
+      "lng": 3.4565550950527495
+    },
+    "temperature": 22.79,
+    "salinity": 39.82,
+    "algae_concentration": 63.05,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-51",
+    "timestamp": "2025-05-06T09:12:59.217937",
+    "location": {
+      "lat": -38.54399481814298,
+      "lng": 64.73959622069606
+    },
+    "temperature": 26.12,
+    "salinity": 33.93,
+    "algae_concentration": 44.54,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-52",
+    "timestamp": "2025-05-06T21:12:59.217937",
+    "location": {
+      "lat": -31.534392938404498,
+      "lng": 38.513960767413664
+    },
+    "temperature": 22.01,
+    "salinity": 32.05,
+    "algae_concentration": 26.24,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-53",
+    "timestamp": "2025-05-07T09:12:59.217937",
+    "location": {
+      "lat": 58.01965561127007,
+      "lng": 122.68291296331915
+    },
+    "temperature": 7.12,
+    "salinity": 39.36,
+    "algae_concentration": 69.72,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-54",
+    "timestamp": "2025-05-07T21:12:59.217937",
+    "location": {
+      "lat": -44.467526143106,
+      "lng": 74.90481695256753
+    },
+    "temperature": 28.32,
+    "salinity": 30.93,
+    "algae_concentration": 61.09,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-55",
+    "timestamp": "2025-05-08T09:12:59.217937",
+    "location": {
+      "lat": 15.224348323266156,
+      "lng": 64.18036513664433
+    },
+    "temperature": 3.24,
+    "salinity": 33.91,
+    "algae_concentration": 55.03,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-56",
+    "timestamp": "2025-05-08T21:12:59.217937",
+    "location": {
+      "lat": -49.409085313081825,
+      "lng": 0.1930913842944335
+    },
+    "temperature": 26.73,
+    "salinity": 35.93,
+    "algae_concentration": 54.38,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-57",
+    "timestamp": "2025-05-09T09:12:59.217937",
+    "location": {
+      "lat": -58.66291181898303,
+      "lng": 14.291432421651308
+    },
+    "temperature": 26.16,
+    "salinity": 38.13,
+    "algae_concentration": 62.54,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-58",
+    "timestamp": "2025-05-09T21:12:59.217937",
+    "location": {
+      "lat": 43.40679011159337,
+      "lng": -126.70423140029612
+    },
+    "temperature": 27.68,
+    "salinity": 32.62,
+    "algae_concentration": 38.28,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-59",
+    "timestamp": "2025-05-10T09:12:59.217937",
+    "location": {
+      "lat": -20.230656550243758,
+      "lng": -38.58482889075461
+    },
+    "temperature": 17.72,
+    "salinity": 42.69,
+    "algae_concentration": 88.66,
+    "is_anomaly": true,
+    "anomaly_type": "salinity_change",
+    "severity": 1
+  },
+  {
+    "id": "anomaly-60",
+    "timestamp": "2025-05-10T21:12:59.217937",
+    "location": {
+      "lat": -0.8423953323434219,
+      "lng": 173.22173714597727
+    },
+    "temperature": 19.82,
+    "salinity": 37.14,
+    "algae_concentration": 94.36,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-61",
+    "timestamp": "2025-05-11T09:12:59.217937",
+    "location": {
+      "lat": -16.596167826597338,
+      "lng": -63.29404204225354
+    },
+    "temperature": 9.48,
+    "salinity": 33.89,
+    "algae_concentration": 0.93,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-62",
+    "timestamp": "2025-05-11T21:12:59.217937",
+    "location": {
+      "lat": 54.35245151431826,
+      "lng": -112.04568735201904
+    },
+    "temperature": 26.04,
+    "salinity": 33.44,
+    "algae_concentration": 22.84,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-63",
+    "timestamp": "2025-05-12T09:12:59.217937",
+    "location": {
+      "lat": 9.38111670169991,
+      "lng": -66.76977382821991
+    },
+    "temperature": 6.96,
+    "salinity": 35.44,
+    "algae_concentration": 90.57,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-64",
+    "timestamp": "2025-05-12T21:12:59.217937",
+    "location": {
+      "lat": -1.96399412405448,
+      "lng": 149.49151669087087
+    },
+    "temperature": 8.38,
+    "salinity": 30.79,
+    "algae_concentration": 67.99,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-65",
+    "timestamp": "2025-05-13T09:12:59.217937",
+    "location": {
+      "lat": 48.64188373816337,
+      "lng": 39.467567213086625
+    },
+    "temperature": 4.88,
+    "salinity": 33.21,
+    "algae_concentration": 145.11,
+    "is_anomaly": true,
+    "anomaly_type": "algal_bloom",
+    "severity": 1
+  },
+  {
+    "id": "anomaly-66",
+    "timestamp": "2025-05-13T21:12:59.217937",
+    "location": {
+      "lat": 50.36234589281126,
+      "lng": 61.03258649797067
+    },
+    "temperature": 29.12,
+    "salinity": 36.41,
+    "algae_concentration": 13.75,
+    "is_anomaly": true,
+    "anomaly_type": "temperature_spike",
+    "severity": 3
+  },
+  {
+    "id": "anomaly-67",
+    "timestamp": "2025-05-14T09:12:59.217937",
+    "location": {
+      "lat": 7.093045698920946,
+      "lng": 78.6452200079633
+    },
+    "temperature": 28.08,
+    "salinity": 34.02,
+    "algae_concentration": 53.07,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-68",
+    "timestamp": "2025-05-14T21:12:59.217937",
+    "location": {
+      "lat": -1.8746110284458055,
+      "lng": 19.501511655218934
+    },
+    "temperature": 25.87,
+    "salinity": 30.92,
+    "algae_concentration": 72.8,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-69",
+    "timestamp": "2025-05-15T09:12:59.217937",
+    "location": {
+      "lat": -55.146487628573695,
+      "lng": -158.52554983938555
+    },
+    "temperature": 6.71,
+    "salinity": 35.52,
+    "algae_concentration": 82.84,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-70",
+    "timestamp": "2025-05-15T21:12:59.217937",
+    "location": {
+      "lat": 52.93222209075593,
+      "lng": -104.91222889627355
+    },
+    "temperature": 28.17,
+    "salinity": 38.42,
+    "algae_concentration": 8.42,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-71",
+    "timestamp": "2025-05-16T09:12:59.217937",
+    "location": {
+      "lat": -44.00954020120379,
+      "lng": 100.02359703027872
+    },
+    "temperature": 20.55,
+    "salinity": 36.0,
+    "algae_concentration": 25.38,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-72",
+    "timestamp": "2025-05-16T21:12:59.217937",
+    "location": {
+      "lat": -2.038825546465418,
+      "lng": 122.4226161371468
+    },
+    "temperature": 5.29,
+    "salinity": 37.94,
+    "algae_concentration": 52.11,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-73",
+    "timestamp": "2025-05-17T09:12:59.217937",
+    "location": {
+      "lat": -10.135296782223897,
+      "lng": -158.79496206202333
+    },
+    "temperature": 29.27,
+    "salinity": 32.22,
+    "algae_concentration": 68.1,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-74",
+    "timestamp": "2025-05-17T21:12:59.217937",
+    "location": {
+      "lat": -31.788468655482585,
+      "lng": 168.28458624660908
+    },
+    "temperature": 11.5,
+    "salinity": 35.11,
+    "algae_concentration": 185.5,
+    "is_anomaly": true,
+    "anomaly_type": "algal_bloom",
+    "severity": 4
+  },
+  {
+    "id": "anomaly-75",
+    "timestamp": "2025-05-18T09:12:59.217937",
+    "location": {
+      "lat": -31.254710248902434,
+      "lng": 63.561554241654335
+    },
+    "temperature": 25.9,
+    "salinity": 32.04,
+    "algae_concentration": 46.05,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-76",
+    "timestamp": "2025-05-18T21:12:59.217937",
+    "location": {
+      "lat": 42.72344830597456,
+      "lng": -4.080645321299301
+    },
+    "temperature": 7.14,
+    "salinity": 32.0,
+    "algae_concentration": 81.2,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-77",
+    "timestamp": "2025-05-19T09:12:59.217937",
+    "location": {
+      "lat": -3.668969796054043,
+      "lng": 146.22170142442474
+    },
+    "temperature": 18.08,
+    "salinity": 35.57,
+    "algae_concentration": 74.33,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-78",
+    "timestamp": "2025-05-19T21:12:59.217937",
+    "location": {
+      "lat": 50.040093382982334,
+      "lng": -142.58921676660873
+    },
+    "temperature": 8.0,
+    "salinity": 35.33,
+    "algae_concentration": 73.29,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-79",
+    "timestamp": "2025-05-20T09:12:59.217937",
+    "location": {
+      "lat": -18.59557591217407,
+      "lng": 158.34653521606037
+    },
+    "temperature": 11.06,
+    "salinity": 37.4,
+    "algae_concentration": 15.53,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-80",
+    "timestamp": "2025-05-20T21:12:59.217937",
+    "location": {
+      "lat": -24.319177688229814,
+      "lng": 163.55602172366855
+    },
+    "temperature": 20.5,
+    "salinity": 33.15,
+    "algae_concentration": 27.5,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-81",
+    "timestamp": "2025-05-21T09:12:59.217937",
+    "location": {
+      "lat": -43.808133335548,
+      "lng": -37.13710400117472
+    },
+    "temperature": 20.24,
+    "salinity": 30.41,
+    "algae_concentration": 51.93,
+    "is_anomaly": true,
+    "anomaly_type": "salinity_change",
+    "severity": 3
+  },
+  {
+    "id": "anomaly-82",
+    "timestamp": "2025-05-21T21:12:59.217937",
+    "location": {
+      "lat": 35.968294319119735,
+      "lng": -145.58151734567738
+    },
+    "temperature": 18.44,
+    "salinity": 35.53,
+    "algae_concentration": 47.56,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-83",
+    "timestamp": "2025-05-22T09:12:59.217937",
+    "location": {
+      "lat": 22.460738310057238,
+      "lng": -139.7319946833063
+    },
+    "temperature": 27.72,
+    "salinity": 37.81,
+    "algae_concentration": 50.65,
+    "is_anomaly": true,
+    "anomaly_type": "salinity_change",
+    "severity": 4
+  },
+  {
+    "id": "anomaly-84",
+    "timestamp": "2025-05-22T21:12:59.217937",
+    "location": {
+      "lat": 13.199992184622715,
+      "lng": 138.59492196413487
+    },
+    "temperature": 20.69,
+    "salinity": 34.28,
+    "algae_concentration": 53.74,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-85",
+    "timestamp": "2025-05-23T09:12:59.217937",
+    "location": {
+      "lat": 58.87582287426352,
+      "lng": -95.55707120556707
+    },
+    "temperature": 7.83,
+    "salinity": 35.81,
+    "algae_concentration": 6.41,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-86",
+    "timestamp": "2025-05-23T21:12:59.217937",
+    "location": {
+      "lat": -59.40560161314012,
+      "lng": 102.01875091475239
+    },
+    "temperature": 18.78,
+    "salinity": 30.87,
+    "algae_concentration": 35.94,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-87",
+    "timestamp": "2025-05-24T09:12:59.217937",
+    "location": {
+      "lat": 27.138615460815544,
+      "lng": 169.52772569346547
+    },
+    "temperature": 17.33,
+    "salinity": 32.32,
+    "algae_concentration": 55.16,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-88",
+    "timestamp": "2025-05-24T21:12:59.217937",
+    "location": {
+      "lat": -4.435153461555558,
+      "lng": -141.76075324288843
+    },
+    "temperature": 21.11,
+    "salinity": 31.02,
+    "algae_concentration": 125.43,
+    "is_anomaly": true,
+    "anomaly_type": "algal_bloom",
+    "severity": 2
+  },
+  {
+    "id": "anomaly-89",
+    "timestamp": "2025-05-25T09:12:59.217937",
+    "location": {
+      "lat": -16.911841925784458,
+      "lng": 93.61232231042055
+    },
+    "temperature": 23.46,
+    "salinity": 35.05,
+    "algae_concentration": 59.34,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-90",
+    "timestamp": "2025-05-25T21:12:59.217937",
+    "location": {
+      "lat": 27.818783591171552,
+      "lng": 60.81305227039891
+    },
+    "temperature": 1.1,
+    "salinity": 30.38,
+    "algae_concentration": 51.97,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-91",
+    "timestamp": "2025-05-26T09:12:59.217937",
+    "location": {
+      "lat": -23.98233537933028,
+      "lng": 122.40008053283452
+    },
+    "temperature": 9.09,
+    "salinity": 36.73,
+    "algae_concentration": 2.92,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-92",
+    "timestamp": "2025-05-26T21:12:59.217937",
+    "location": {
+      "lat": 51.56704899294071,
+      "lng": 55.49428445656011
+    },
+    "temperature": 20.39,
+    "salinity": 32.36,
+    "algae_concentration": 39.11,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-93",
+    "timestamp": "2025-05-27T09:12:59.217937",
+    "location": {
+      "lat": -10.028764837843156,
+      "lng": -154.35611303161838
+    },
+    "temperature": 13.09,
+    "salinity": 31.31,
+    "algae_concentration": 24.63,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-94",
+    "timestamp": "2025-05-27T21:12:59.217937",
+    "location": {
+      "lat": -0.6342540084849233,
+      "lng": -175.52418984832852
+    },
+    "temperature": 14.25,
+    "salinity": 37.12,
+    "algae_concentration": 33.12,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-95",
+    "timestamp": "2025-05-28T09:12:59.217937",
+    "location": {
+      "lat": -13.681099712365913,
+      "lng": -2.711914096068085
+    },
+    "temperature": 20.26,
+    "salinity": 30.9,
+    "algae_concentration": 30.21,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-96",
+    "timestamp": "2025-05-28T21:12:59.217937",
+    "location": {
+      "lat": 28.858330049776782,
+      "lng": -25.581010115789695
+    },
+    "temperature": 27.31,
+    "salinity": 32.48,
+    "algae_concentration": 93.97,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-97",
+    "timestamp": "2025-05-29T09:12:59.217937",
+    "location": {
+      "lat": -9.65173686701415,
+      "lng": -86.8319477198479
+    },
+    "temperature": 26.34,
+    "salinity": 38.25,
+    "algae_concentration": 42.76,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-98",
+    "timestamp": "2025-05-29T21:12:59.217937",
+    "location": {
+      "lat": 11.615211314909658,
+      "lng": 122.62647321231469
+    },
+    "temperature": 13.11,
+    "salinity": 37.39,
+    "algae_concentration": 72.67,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  },
+  {
+    "id": "anomaly-99",
+    "timestamp": "2025-05-30T09:12:59.217937",
+    "location": {
+      "lat": 1.9529484742831258,
+      "lng": -78.74703332117456
+    },
+    "temperature": 13.02,
+    "salinity": 37.82,
+    "algae_concentration": 59.67,
+    "is_anomaly": false,
+    "anomaly_type": null,
+    "severity": null
+  }
+]

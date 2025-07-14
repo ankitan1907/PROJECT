@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "hist-0-0",
+    "date": "1975-05-23T13:37:04.711474",
+    "year": 1975,
+    "month": 5,
+    "average_temperature": 15.97,
+    "sea_level_rise_mm": 0.0,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-0-1",
+    "date": "1975-06-22T13:37:04.711474",
+    "year": 1975,
+    "month": 6,
+    "average_temperature": 16.71,
+    "sea_level_rise_mm": 0.3,
+    "ocean_ph": 8.25
+  },
+  {
+    "id": "hist-0-2",
+    "date": "1975-07-22T13:37:04.711474",
+    "year": 1975,
+    "month": 7,
+    "average_temperature": 17.03,
+    "sea_level_rise_mm": 0.5,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-0-3",
+    "date": "1975-08-21T13:37:04.711474",
+    "year": 1975,
+    "month": 8,
+    "average_temperature": 17.32,
+    "sea_level_rise_mm": 0.8,
+    "ocean_ph": 8.25
+  },
+  {
+    "id": "hist-0-4",
+    "date": "1975-09-20T13:37:04.711474",
+    "year": 1975,
+    "month": 9,
+    "average_temperature": 17.37,
+    "sea_level_rise_mm": 1.1,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-0-5",
+    "date": "1975-10-20T13:37:04.711474",
+    "year": 1975,
+    "month": 10,
+    "average_temperature": 16.48,
+    "sea_level_rise_mm": 1.4,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-0-6",
+    "date": "1975-11-19T13:37:04.711474",
+    "year": 1975,
+    "month": 11,
+    "average_temperature": 16.29,
+    "sea_level_rise_mm": 1.6,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-0-7",
+    "date": "1975-12-19T13:37:04.711474",
+    "year": 1975,
+    "month": 12,
+    "average_temperature": 15.41,
+    "sea_level_rise_mm": 1.9,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-0-8",
+    "date": "1976-01-18T13:37:04.711474",
+    "year": 1976,
+    "month": 1,
+    "average_temperature": 14.59,
+    "sea_level_rise_mm": 2.2,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-0-9",
+    "date": "1976-02-17T13:37:04.711474",
+    "year": 1976,
+    "month": 2,
+    "average_temperature": 14.62,
+    "sea_level_rise_mm": 2.5,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-0-10",
+    "date": "1976-03-18T13:37:04.711474",
+    "year": 1976,
+    "month": 3,
+    "average_temperature": 14.74,
+    "sea_level_rise_mm": 2.7,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-0-11",
+    "date": "1976-04-17T13:37:04.711474",
+    "year": 1976,
+    "month": 4,
+    "average_temperature": 15.13,
+    "sea_level_rise_mm": 3.0,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-1-0",
+    "date": "1976-05-17T13:37:04.711474",
+    "year": 1976,
+    "month": 5,
+    "average_temperature": 16.13,
+    "sea_level_rise_mm": 3.3,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-1-1",
+    "date": "1976-06-16T13:37:04.711474",
+    "year": 1976,
+    "month": 6,
+    "average_temperature": 16.86,
+    "sea_level_rise_mm": 3.6,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-1-2",
+    "date": "1976-07-16T13:37:04.711474",
+    "year": 1976,
+    "month": 7,
+    "average_temperature": 17.61,
+    "sea_level_rise_mm": 3.8,
+    "ocean_ph": 8.24
+  },
+  {
+    "id": "hist-1-3",
+    "date": "1976-08-15T13:37:04.711474",
+    "year": 1976,
+    "month": 8,
+    "average_temperature": 17.8,
+    "sea_level_rise_mm": 4.1,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-1-4",
+    "date": "1976-09-14T13:37:04.711474",
+    "year": 1976,
+    "month": 9,
+    "average_temperature": 17.4,
+    "sea_level_rise_mm": 4.4,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-1-5",
+    "date": "1976-10-14T13:37:04.711474",
+    "year": 1976,
+    "month": 10,
+    "average_temperature": 16.54,
+    "sea_level_rise_mm": 4.7,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-1-6",
+    "date": "1976-11-13T13:37:04.711474",
+    "year": 1976,
+    "month": 11,
+    "average_temperature": 16.02,
+    "sea_level_rise_mm": 4.9,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-1-7",
+    "date": "1976-12-13T13:37:04.711474",
+    "year": 1976,
+    "month": 12,
+    "average_temperature": 15.09,
+    "sea_level_rise_mm": 5.2,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-1-8",
+    "date": "1977-01-12T13:37:04.711474",
+    "year": 1977,
+    "month": 1,
+    "average_temperature": 14.71,
+    "sea_level_rise_mm": 5.5,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-1-9",
+    "date": "1977-02-11T13:37:04.711474",
+    "year": 1977,
+    "month": 2,
+    "average_temperature": 14.32,
+    "sea_level_rise_mm": 5.8,
+    "ocean_ph": 8.24
+  },
+  {
+    "id": "hist-1-10",
+    "date": "1977-03-13T13:37:04.711474",
+    "year": 1977,
+    "month": 3,
+    "average_temperature": 14.59,
+    "sea_level_rise_mm": 6.0,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-1-11",
+    "date": "1977-04-12T13:37:04.711474",
+    "year": 1977,
+    "month": 4,
+    "average_temperature": 15.13,
+    "sea_level_rise_mm": 6.3,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-2-0",
+    "date": "1977-05-12T13:37:04.711474",
+    "year": 1977,
+    "month": 5,
+    "average_temperature": 16.24,
+    "sea_level_rise_mm": 6.6,
+    "ocean_ph": 8.24
+  },
+  {
+    "id": "hist-2-1",
+    "date": "1977-06-11T13:37:04.711474",
+    "year": 1977,
+    "month": 6,
+    "average_temperature": 16.58,
+    "sea_level_rise_mm": 6.9,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-2-2",
+    "date": "1977-07-11T13:37:04.711474",
+    "year": 1977,
+    "month": 7,
+    "average_temperature": 17.44,
+    "sea_level_rise_mm": 7.1,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-2-3",
+    "date": "1977-08-10T13:37:04.711474",
+    "year": 1977,
+    "month": 8,
+    "average_temperature": 17.79,
+    "sea_level_rise_mm": 7.4,
+    "ocean_ph": 8.24
+  },
+  {
+    "id": "hist-2-4",
+    "date": "1977-09-09T13:37:04.711474",
+    "year": 1977,
+    "month": 9,
+    "average_temperature": 17.39,
+    "sea_level_rise_mm": 7.7,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-2-5",
+    "date": "1977-10-09T13:37:04.711474",
+    "year": 1977,
+    "month": 10,
+    "average_temperature": 16.7,
+    "sea_level_rise_mm": 8.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-2-6",
+    "date": "1977-11-08T13:37:04.711474",
+    "year": 1977,
+    "month": 11,
+    "average_temperature": 16.3,
+    "sea_level_rise_mm": 8.2,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-2-7",
+    "date": "1977-12-08T13:37:04.711474",
+    "year": 1977,
+    "month": 12,
+    "average_temperature": 15.02,
+    "sea_level_rise_mm": 8.5,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-2-8",
+    "date": "1978-01-07T13:37:04.711474",
+    "year": 1978,
+    "month": 1,
+    "average_temperature": 14.72,
+    "sea_level_rise_mm": 8.8,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-2-9",
+    "date": "1978-02-06T13:37:04.711474",
+    "year": 1978,
+    "month": 2,
+    "average_temperature": 14.54,
+    "sea_level_rise_mm": 9.1,
+    "ocean_ph": 8.24
+  },
+  {
+    "id": "hist-2-10",
+    "date": "1978-03-08T13:37:04.711474",
+    "year": 1978,
+    "month": 3,
+    "average_temperature": 14.88,
+    "sea_level_rise_mm": 9.3,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-2-11",
+    "date": "1978-04-07T13:37:04.711474",
+    "year": 1978,
+    "month": 4,
+    "average_temperature": 15.53,
+    "sea_level_rise_mm": 9.6,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-3-0",
+    "date": "1978-05-07T13:37:04.711474",
+    "year": 1978,
+    "month": 5,
+    "average_temperature": 16.14,
+    "sea_level_rise_mm": 9.9,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-3-1",
+    "date": "1978-06-06T13:37:04.711474",
+    "year": 1978,
+    "month": 6,
+    "average_temperature": 17.01,
+    "sea_level_rise_mm": 10.2,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-3-2",
+    "date": "1978-07-06T13:37:04.711474",
+    "year": 1978,
+    "month": 7,
+    "average_temperature": 17.33,
+    "sea_level_rise_mm": 10.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-3-3",
+    "date": "1978-08-05T13:37:04.711474",
+    "year": 1978,
+    "month": 8,
+    "average_temperature": 17.58,
+    "sea_level_rise_mm": 10.7,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-3-4",
+    "date": "1978-09-04T13:37:04.711474",
+    "year": 1978,
+    "month": 9,
+    "average_temperature": 17.24,
+    "sea_level_rise_mm": 11.0,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-3-5",
+    "date": "1978-10-04T13:37:04.711474",
+    "year": 1978,
+    "month": 10,
+    "average_temperature": 17.08,
+    "sea_level_rise_mm": 11.3,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-3-6",
+    "date": "1978-11-03T13:37:04.711474",
+    "year": 1978,
+    "month": 11,
+    "average_temperature": 16.1,
+    "sea_level_rise_mm": 11.5,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-3-7",
+    "date": "1978-12-03T13:37:04.711474",
+    "year": 1978,
+    "month": 12,
+    "average_temperature": 15.45,
+    "sea_level_rise_mm": 11.8,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-3-8",
+    "date": "1979-01-02T13:37:04.711474",
+    "year": 1979,
+    "month": 1,
+    "average_temperature": 14.77,
+    "sea_level_rise_mm": 12.1,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-3-9",
+    "date": "1979-02-01T13:37:04.711474",
+    "year": 1979,
+    "month": 2,
+    "average_temperature": 14.82,
+    "sea_level_rise_mm": 12.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-3-10",
+    "date": "1979-03-03T13:37:04.711474",
+    "year": 1979,
+    "month": 3,
+    "average_temperature": 14.93,
+    "sea_level_rise_mm": 12.6,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-3-11",
+    "date": "1979-04-02T13:37:04.711474",
+    "year": 1979,
+    "month": 4,
+    "average_temperature": 15.24,
+    "sea_level_rise_mm": 12.9,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-4-0",
+    "date": "1979-05-02T13:37:04.711474",
+    "year": 1979,
+    "month": 5,
+    "average_temperature": 15.84,
+    "sea_level_rise_mm": 13.2,
+    "ocean_ph": 8.24
+  },
+  {
+    "id": "hist-4-1",
+    "date": "1979-06-01T13:37:04.711474",
+    "year": 1979,
+    "month": 6,
+    "average_temperature": 16.66,
+    "sea_level_rise_mm": 13.5,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-4-2",
+    "date": "1979-07-01T13:37:04.711474",
+    "year": 1979,
+    "month": 7,
+    "average_temperature": 17.57,
+    "sea_level_rise_mm": 13.7,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-4-3",
+    "date": "1979-07-31T13:37:04.711474",
+    "year": 1979,
+    "month": 7,
+    "average_temperature": 17.78,
+    "sea_level_rise_mm": 14.0,
+    "ocean_ph": 8.24
+  },
+  {
+    "id": "hist-4-4",
+    "date": "1979-08-30T13:37:04.711474",
+    "year": 1979,
+    "month": 8,
+    "average_temperature": 17.42,
+    "sea_level_rise_mm": 14.3,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-4-5",
+    "date": "1979-09-29T13:37:04.711474",
+    "year": 1979,
+    "month": 9,
+    "average_temperature": 17.12,
+    "sea_level_rise_mm": 14.6,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-4-6",
+    "date": "1979-10-29T13:37:04.711474",
+    "year": 1979,
+    "month": 10,
+    "average_temperature": 16.17,
+    "sea_level_rise_mm": 14.8,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-4-7",
+    "date": "1979-11-28T13:37:04.711474",
+    "year": 1979,
+    "month": 11,
+    "average_temperature": 15.08,
+    "sea_level_rise_mm": 15.1,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-4-8",
+    "date": "1979-12-28T13:37:04.711474",
+    "year": 1979,
+    "month": 12,
+    "average_temperature": 14.57,
+    "sea_level_rise_mm": 15.4,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-4-9",
+    "date": "1980-01-27T13:37:04.711474",
+    "year": 1980,
+    "month": 1,
+    "average_temperature": 14.56,
+    "sea_level_rise_mm": 15.7,
+    "ocean_ph": 8.24
+  },
+  {
+    "id": "hist-4-10",
+    "date": "1980-02-26T13:37:04.711474",
+    "year": 1980,
+    "month": 2,
+    "average_temperature": 14.99,
+    "sea_level_rise_mm": 15.9,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-4-11",
+    "date": "1980-03-27T13:37:04.711474",
+    "year": 1980,
+    "month": 3,
+    "average_temperature": 15.59,
+    "sea_level_rise_mm": 16.2,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-5-0",
+    "date": "1980-04-26T13:37:04.711474",
+    "year": 1980,
+    "month": 4,
+    "average_temperature": 15.9,
+    "sea_level_rise_mm": 16.5,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-5-1",
+    "date": "1980-05-26T13:37:04.711474",
+    "year": 1980,
+    "month": 5,
+    "average_temperature": 16.99,
+    "sea_level_rise_mm": 16.8,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-5-2",
+    "date": "1980-06-25T13:37:04.711474",
+    "year": 1980,
+    "month": 6,
+    "average_temperature": 17.49,
+    "sea_level_rise_mm": 17.0,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-5-3",
+    "date": "1980-07-25T13:37:04.711474",
+    "year": 1980,
+    "month": 7,
+    "average_temperature": 17.56,
+    "sea_level_rise_mm": 17.3,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-5-4",
+    "date": "1980-08-24T13:37:04.711474",
+    "year": 1980,
+    "month": 8,
+    "average_temperature": 17.69,
+    "sea_level_rise_mm": 17.6,
+    "ocean_ph": 8.24
+  },
+  {
+    "id": "hist-5-5",
+    "date": "1980-09-23T13:37:04.711474",
+    "year": 1980,
+    "month": 9,
+    "average_temperature": 16.73,
+    "sea_level_rise_mm": 17.9,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-5-6",
+    "date": "1980-10-23T13:37:04.711474",
+    "year": 1980,
+    "month": 10,
+    "average_temperature": 16.06,
+    "sea_level_rise_mm": 18.1,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-5-7",
+    "date": "1980-11-22T13:37:04.711474",
+    "year": 1980,
+    "month": 11,
+    "average_temperature": 15.24,
+    "sea_level_rise_mm": 18.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-5-8",
+    "date": "1980-12-22T13:37:04.711474",
+    "year": 1980,
+    "month": 12,
+    "average_temperature": 14.73,
+    "sea_level_rise_mm": 18.7,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-5-9",
+    "date": "1981-01-21T13:37:04.711474",
+    "year": 1981,
+    "month": 1,
+    "average_temperature": 14.6,
+    "sea_level_rise_mm": 19.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-5-10",
+    "date": "1981-02-20T13:37:04.711474",
+    "year": 1981,
+    "month": 2,
+    "average_temperature": 14.97,
+    "sea_level_rise_mm": 19.2,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-5-11",
+    "date": "1981-03-22T13:37:04.711474",
+    "year": 1981,
+    "month": 3,
+    "average_temperature": 15.39,
+    "sea_level_rise_mm": 19.5,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-6-0",
+    "date": "1981-04-21T13:37:04.711474",
+    "year": 1981,
+    "month": 4,
+    "average_temperature": 15.99,
+    "sea_level_rise_mm": 19.8,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-6-1",
+    "date": "1981-05-21T13:37:04.711474",
+    "year": 1981,
+    "month": 5,
+    "average_temperature": 16.98,
+    "sea_level_rise_mm": 20.1,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-6-2",
+    "date": "1981-06-20T13:37:04.711474",
+    "year": 1981,
+    "month": 6,
+    "average_temperature": 17.68,
+    "sea_level_rise_mm": 20.3,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-6-3",
+    "date": "1981-07-20T13:37:04.711474",
+    "year": 1981,
+    "month": 7,
+    "average_temperature": 17.73,
+    "sea_level_rise_mm": 20.6,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-6-4",
+    "date": "1981-08-19T13:37:04.711474",
+    "year": 1981,
+    "month": 8,
+    "average_temperature": 17.43,
+    "sea_level_rise_mm": 20.9,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-6-5",
+    "date": "1981-09-18T13:37:04.711474",
+    "year": 1981,
+    "month": 9,
+    "average_temperature": 17.03,
+    "sea_level_rise_mm": 21.2,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-6-6",
+    "date": "1981-10-18T13:37:04.711474",
+    "year": 1981,
+    "month": 10,
+    "average_temperature": 16.04,
+    "sea_level_rise_mm": 21.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-6-7",
+    "date": "1981-11-17T13:37:04.711474",
+    "year": 1981,
+    "month": 11,
+    "average_temperature": 15.46,
+    "sea_level_rise_mm": 21.7,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-6-8",
+    "date": "1981-12-17T13:37:04.711474",
+    "year": 1981,
+    "month": 12,
+    "average_temperature": 14.57,
+    "sea_level_rise_mm": 22.0,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-6-9",
+    "date": "1982-01-16T13:37:04.711474",
+    "year": 1982,
+    "month": 1,
+    "average_temperature": 14.43,
+    "sea_level_rise_mm": 22.3,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-6-10",
+    "date": "1982-02-15T13:37:04.711474",
+    "year": 1982,
+    "month": 2,
+    "average_temperature": 14.62,
+    "sea_level_rise_mm": 22.5,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-6-11",
+    "date": "1982-03-17T13:37:04.711474",
+    "year": 1982,
+    "month": 3,
+    "average_temperature": 15.27,
+    "sea_level_rise_mm": 22.8,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-7-0",
+    "date": "1982-04-16T13:37:04.711474",
+    "year": 1982,
+    "month": 4,
+    "average_temperature": 16.31,
+    "sea_level_rise_mm": 23.1,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-7-1",
+    "date": "1982-05-16T13:37:04.711474",
+    "year": 1982,
+    "month": 5,
+    "average_temperature": 17.08,
+    "sea_level_rise_mm": 23.4,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-7-2",
+    "date": "1982-06-15T13:37:04.711474",
+    "year": 1982,
+    "month": 6,
+    "average_temperature": 17.63,
+    "sea_level_rise_mm": 23.6,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-7-3",
+    "date": "1982-07-15T13:37:04.711474",
+    "year": 1982,
+    "month": 7,
+    "average_temperature": 17.42,
+    "sea_level_rise_mm": 23.9,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-7-4",
+    "date": "1982-08-14T13:37:04.711474",
+    "year": 1982,
+    "month": 8,
+    "average_temperature": 17.26,
+    "sea_level_rise_mm": 24.2,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-7-5",
+    "date": "1982-09-13T13:37:04.711474",
+    "year": 1982,
+    "month": 9,
+    "average_temperature": 17.14,
+    "sea_level_rise_mm": 24.5,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-7-6",
+    "date": "1982-10-13T13:37:04.711474",
+    "year": 1982,
+    "month": 10,
+    "average_temperature": 16.3,
+    "sea_level_rise_mm": 24.7,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-7-7",
+    "date": "1982-11-12T13:37:04.711474",
+    "year": 1982,
+    "month": 11,
+    "average_temperature": 15.56,
+    "sea_level_rise_mm": 25.0,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-7-8",
+    "date": "1982-12-12T13:37:04.711474",
+    "year": 1982,
+    "month": 12,
+    "average_temperature": 15.05,
+    "sea_level_rise_mm": 25.3,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-7-9",
+    "date": "1983-01-11T13:37:04.711474",
+    "year": 1983,
+    "month": 1,
+    "average_temperature": 14.62,
+    "sea_level_rise_mm": 25.6,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-7-10",
+    "date": "1983-02-10T13:37:04.711474",
+    "year": 1983,
+    "month": 2,
+    "average_temperature": 14.98,
+    "sea_level_rise_mm": 25.8,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-7-11",
+    "date": "1983-03-12T13:37:04.711474",
+    "year": 1983,
+    "month": 3,
+    "average_temperature": 15.53,
+    "sea_level_rise_mm": 26.1,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-8-0",
+    "date": "1983-04-11T13:37:04.711474",
+    "year": 1983,
+    "month": 4,
+    "average_temperature": 16.22,
+    "sea_level_rise_mm": 26.4,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-8-1",
+    "date": "1983-05-11T13:37:04.711474",
+    "year": 1983,
+    "month": 5,
+    "average_temperature": 16.86,
+    "sea_level_rise_mm": 26.7,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-8-2",
+    "date": "1983-06-10T13:37:04.711474",
+    "year": 1983,
+    "month": 6,
+    "average_temperature": 17.57,
+    "sea_level_rise_mm": 26.9,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-8-3",
+    "date": "1983-07-10T13:37:04.711474",
+    "year": 1983,
+    "month": 7,
+    "average_temperature": 17.83,
+    "sea_level_rise_mm": 27.2,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-8-4",
+    "date": "1983-08-09T13:37:04.711474",
+    "year": 1983,
+    "month": 8,
+    "average_temperature": 17.21,
+    "sea_level_rise_mm": 27.5,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-8-5",
+    "date": "1983-09-08T13:37:04.711474",
+    "year": 1983,
+    "month": 9,
+    "average_temperature": 16.76,
+    "sea_level_rise_mm": 27.8,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-8-6",
+    "date": "1983-10-08T13:37:04.711474",
+    "year": 1983,
+    "month": 10,
+    "average_temperature": 15.9,
+    "sea_level_rise_mm": 28.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-8-7",
+    "date": "1983-11-07T13:37:04.711474",
+    "year": 1983,
+    "month": 11,
+    "average_temperature": 15.24,
+    "sea_level_rise_mm": 28.3,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-8-8",
+    "date": "1983-12-07T13:37:04.711474",
+    "year": 1983,
+    "month": 12,
+    "average_temperature": 14.6,
+    "sea_level_rise_mm": 28.6,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-8-9",
+    "date": "1984-01-06T13:37:04.711474",
+    "year": 1984,
+    "month": 1,
+    "average_temperature": 14.47,
+    "sea_level_rise_mm": 28.9,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-8-10",
+    "date": "1984-02-05T13:37:04.711474",
+    "year": 1984,
+    "month": 2,
+    "average_temperature": 15.01,
+    "sea_level_rise_mm": 29.1,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-8-11",
+    "date": "1984-03-06T13:37:04.711474",
+    "year": 1984,
+    "month": 3,
+    "average_temperature": 15.51,
+    "sea_level_rise_mm": 29.4,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-9-0",
+    "date": "1984-04-05T13:37:04.711474",
+    "year": 1984,
+    "month": 4,
+    "average_temperature": 16.19,
+    "sea_level_rise_mm": 29.7,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-9-1",
+    "date": "1984-05-05T13:37:04.711474",
+    "year": 1984,
+    "month": 5,
+    "average_temperature": 17.2,
+    "sea_level_rise_mm": 30.0,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-9-2",
+    "date": "1984-06-04T13:37:04.711474",
+    "year": 1984,
+    "month": 6,
+    "average_temperature": 17.51,
+    "sea_level_rise_mm": 30.2,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-9-3",
+    "date": "1984-07-04T13:37:04.711474",
+    "year": 1984,
+    "month": 7,
+    "average_temperature": 17.41,
+    "sea_level_rise_mm": 30.5,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-9-4",
+    "date": "1984-08-03T13:37:04.711474",
+    "year": 1984,
+    "month": 8,
+    "average_temperature": 17.47,
+    "sea_level_rise_mm": 30.8,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-9-5",
+    "date": "1984-09-02T13:37:04.711474",
+    "year": 1984,
+    "month": 9,
+    "average_temperature": 17.2,
+    "sea_level_rise_mm": 31.1,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-9-6",
+    "date": "1984-10-02T13:37:04.711474",
+    "year": 1984,
+    "month": 10,
+    "average_temperature": 16.34,
+    "sea_level_rise_mm": 31.3,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-9-7",
+    "date": "1984-11-01T13:37:04.711474",
+    "year": 1984,
+    "month": 11,
+    "average_temperature": 15.42,
+    "sea_level_rise_mm": 31.6,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-9-8",
+    "date": "1984-12-01T13:37:04.711474",
+    "year": 1984,
+    "month": 12,
+    "average_temperature": 14.72,
+    "sea_level_rise_mm": 31.9,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-9-9",
+    "date": "1984-12-31T13:37:04.711474",
+    "year": 1984,
+    "month": 12,
+    "average_temperature": 14.82,
+    "sea_level_rise_mm": 32.2,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-9-10",
+    "date": "1985-01-30T13:37:04.711474",
+    "year": 1985,
+    "month": 1,
+    "average_temperature": 14.64,
+    "sea_level_rise_mm": 32.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-9-11",
+    "date": "1985-03-01T13:37:04.711474",
+    "year": 1985,
+    "month": 3,
+    "average_temperature": 15.58,
+    "sea_level_rise_mm": 32.7,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-10-0",
+    "date": "1985-03-31T13:37:04.711474",
+    "year": 1985,
+    "month": 3,
+    "average_temperature": 16.28,
+    "sea_level_rise_mm": 33.0,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-10-1",
+    "date": "1985-04-30T13:37:04.711474",
+    "year": 1985,
+    "month": 4,
+    "average_temperature": 16.85,
+    "sea_level_rise_mm": 33.3,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-10-2",
+    "date": "1985-05-30T13:37:04.711474",
+    "year": 1985,
+    "month": 5,
+    "average_temperature": 17.6,
+    "sea_level_rise_mm": 33.5,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-10-3",
+    "date": "1985-06-29T13:37:04.711474",
+    "year": 1985,
+    "month": 6,
+    "average_temperature": 17.82,
+    "sea_level_rise_mm": 33.8,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-10-4",
+    "date": "1985-07-29T13:37:04.711474",
+    "year": 1985,
+    "month": 7,
+    "average_temperature": 17.78,
+    "sea_level_rise_mm": 34.1,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-10-5",
+    "date": "1985-08-28T13:37:04.711474",
+    "year": 1985,
+    "month": 8,
+    "average_temperature": 16.98,
+    "sea_level_rise_mm": 34.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-10-6",
+    "date": "1985-09-27T13:37:04.711474",
+    "year": 1985,
+    "month": 9,
+    "average_temperature": 16.49,
+    "sea_level_rise_mm": 34.6,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-10-7",
+    "date": "1985-10-27T13:37:04.711474",
+    "year": 1985,
+    "month": 10,
+    "average_temperature": 15.44,
+    "sea_level_rise_mm": 34.9,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-10-8",
+    "date": "1985-11-26T13:37:04.711474",
+    "year": 1985,
+    "month": 11,
+    "average_temperature": 15.06,
+    "sea_level_rise_mm": 35.2,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-10-9",
+    "date": "1985-12-26T13:37:04.711474",
+    "year": 1985,
+    "month": 12,
+    "average_temperature": 14.89,
+    "sea_level_rise_mm": 35.5,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-10-10",
+    "date": "1986-01-25T13:37:04.711474",
+    "year": 1986,
+    "month": 1,
+    "average_temperature": 15.04,
+    "sea_level_rise_mm": 35.7,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-10-11",
+    "date": "1986-02-24T13:37:04.711474",
+    "year": 1986,
+    "month": 2,
+    "average_temperature": 15.51,
+    "sea_level_rise_mm": 36.0,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-11-0",
+    "date": "1986-03-26T13:37:04.711474",
+    "year": 1986,
+    "month": 3,
+    "average_temperature": 16.15,
+    "sea_level_rise_mm": 36.3,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-11-1",
+    "date": "1986-04-25T13:37:04.711474",
+    "year": 1986,
+    "month": 4,
+    "average_temperature": 16.88,
+    "sea_level_rise_mm": 36.6,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-11-2",
+    "date": "1986-05-25T13:37:04.711474",
+    "year": 1986,
+    "month": 5,
+    "average_temperature": 17.35,
+    "sea_level_rise_mm": 36.8,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-11-3",
+    "date": "1986-06-24T13:37:04.711474",
+    "year": 1986,
+    "month": 6,
+    "average_temperature": 17.91,
+    "sea_level_rise_mm": 37.1,
+    "ocean_ph": 8.23
+  },
+  {
+    "id": "hist-11-4",
+    "date": "1986-07-24T13:37:04.711474",
+    "year": 1986,
+    "month": 7,
+    "average_temperature": 17.23,
+    "sea_level_rise_mm": 37.4,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-11-5",
+    "date": "1986-08-23T13:37:04.711474",
+    "year": 1986,
+    "month": 8,
+    "average_temperature": 16.89,
+    "sea_level_rise_mm": 37.7,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-11-6",
+    "date": "1986-09-22T13:37:04.711474",
+    "year": 1986,
+    "month": 9,
+    "average_temperature": 16.43,
+    "sea_level_rise_mm": 37.9,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-11-7",
+    "date": "1986-10-22T13:37:04.711474",
+    "year": 1986,
+    "month": 10,
+    "average_temperature": 15.39,
+    "sea_level_rise_mm": 38.2,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-11-8",
+    "date": "1986-11-21T13:37:04.711474",
+    "year": 1986,
+    "month": 11,
+    "average_temperature": 14.89,
+    "sea_level_rise_mm": 38.5,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-11-9",
+    "date": "1986-12-21T13:37:04.711474",
+    "year": 1986,
+    "month": 12,
+    "average_temperature": 14.79,
+    "sea_level_rise_mm": 38.8,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-11-10",
+    "date": "1987-01-20T13:37:04.711474",
+    "year": 1987,
+    "month": 1,
+    "average_temperature": 15.17,
+    "sea_level_rise_mm": 39.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-11-11",
+    "date": "1987-02-19T13:37:04.711474",
+    "year": 1987,
+    "month": 2,
+    "average_temperature": 15.2,
+    "sea_level_rise_mm": 39.3,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-12-0",
+    "date": "1987-03-21T13:37:04.711474",
+    "year": 1987,
+    "month": 3,
+    "average_temperature": 16.39,
+    "sea_level_rise_mm": 39.6,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-12-1",
+    "date": "1987-04-20T13:37:04.711474",
+    "year": 1987,
+    "month": 4,
+    "average_temperature": 16.71,
+    "sea_level_rise_mm": 39.9,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-12-2",
+    "date": "1987-05-20T13:37:04.711474",
+    "year": 1987,
+    "month": 5,
+    "average_temperature": 17.45,
+    "sea_level_rise_mm": 40.1,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-12-3",
+    "date": "1987-06-19T13:37:04.711474",
+    "year": 1987,
+    "month": 6,
+    "average_temperature": 17.51,
+    "sea_level_rise_mm": 40.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-12-4",
+    "date": "1987-07-19T13:37:04.711474",
+    "year": 1987,
+    "month": 7,
+    "average_temperature": 17.75,
+    "sea_level_rise_mm": 40.7,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-12-5",
+    "date": "1987-08-18T13:37:04.711474",
+    "year": 1987,
+    "month": 8,
+    "average_temperature": 17.15,
+    "sea_level_rise_mm": 41.0,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-12-6",
+    "date": "1987-09-17T13:37:04.711474",
+    "year": 1987,
+    "month": 9,
+    "average_temperature": 16.35,
+    "sea_level_rise_mm": 41.2,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-12-7",
+    "date": "1987-10-17T13:37:04.711474",
+    "year": 1987,
+    "month": 10,
+    "average_temperature": 15.64,
+    "sea_level_rise_mm": 41.5,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-12-8",
+    "date": "1987-11-16T13:37:04.711474",
+    "year": 1987,
+    "month": 11,
+    "average_temperature": 14.8,
+    "sea_level_rise_mm": 41.8,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-12-9",
+    "date": "1987-12-16T13:37:04.711474",
+    "year": 1987,
+    "month": 12,
+    "average_temperature": 14.96,
+    "sea_level_rise_mm": 42.1,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-12-10",
+    "date": "1988-01-15T13:37:04.711474",
+    "year": 1988,
+    "month": 1,
+    "average_temperature": 14.85,
+    "sea_level_rise_mm": 42.3,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-12-11",
+    "date": "1988-02-14T13:37:04.711474",
+    "year": 1988,
+    "month": 2,
+    "average_temperature": 15.31,
+    "sea_level_rise_mm": 42.6,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-13-0",
+    "date": "1988-03-15T13:37:04.711474",
+    "year": 1988,
+    "month": 3,
+    "average_temperature": 16.23,
+    "sea_level_rise_mm": 42.9,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-13-1",
+    "date": "1988-04-14T13:37:04.711474",
+    "year": 1988,
+    "month": 4,
+    "average_temperature": 17.2,
+    "sea_level_rise_mm": 43.2,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-13-2",
+    "date": "1988-05-14T13:37:04.711474",
+    "year": 1988,
+    "month": 5,
+    "average_temperature": 17.39,
+    "sea_level_rise_mm": 43.4,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-13-3",
+    "date": "1988-06-13T13:37:04.711474",
+    "year": 1988,
+    "month": 6,
+    "average_temperature": 17.49,
+    "sea_level_rise_mm": 43.7,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-13-4",
+    "date": "1988-07-13T13:37:04.711474",
+    "year": 1988,
+    "month": 7,
+    "average_temperature": 17.5,
+    "sea_level_rise_mm": 44.0,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-13-5",
+    "date": "1988-08-12T13:37:04.711474",
+    "year": 1988,
+    "month": 8,
+    "average_temperature": 16.91,
+    "sea_level_rise_mm": 44.3,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-13-6",
+    "date": "1988-09-11T13:37:04.711474",
+    "year": 1988,
+    "month": 9,
+    "average_temperature": 16.48,
+    "sea_level_rise_mm": 44.5,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-13-7",
+    "date": "1988-10-11T13:37:04.711474",
+    "year": 1988,
+    "month": 10,
+    "average_temperature": 15.5,
+    "sea_level_rise_mm": 44.8,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-13-8",
+    "date": "1988-11-10T13:37:04.711474",
+    "year": 1988,
+    "month": 11,
+    "average_temperature": 14.87,
+    "sea_level_rise_mm": 45.1,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-13-9",
+    "date": "1988-12-10T13:37:04.711474",
+    "year": 1988,
+    "month": 12,
+    "average_temperature": 14.61,
+    "sea_level_rise_mm": 45.4,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-13-10",
+    "date": "1989-01-09T13:37:04.711474",
+    "year": 1989,
+    "month": 1,
+    "average_temperature": 15.22,
+    "sea_level_rise_mm": 45.6,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-13-11",
+    "date": "1989-02-08T13:37:04.711474",
+    "year": 1989,
+    "month": 2,
+    "average_temperature": 15.78,
+    "sea_level_rise_mm": 45.9,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-14-0",
+    "date": "1989-03-10T13:37:04.711474",
+    "year": 1989,
+    "month": 3,
+    "average_temperature": 16.56,
+    "sea_level_rise_mm": 46.2,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-14-1",
+    "date": "1989-04-09T13:37:04.711474",
+    "year": 1989,
+    "month": 4,
+    "average_temperature": 17.04,
+    "sea_level_rise_mm": 46.5,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-14-2",
+    "date": "1989-05-09T13:37:04.711474",
+    "year": 1989,
+    "month": 5,
+    "average_temperature": 17.72,
+    "sea_level_rise_mm": 46.7,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-14-3",
+    "date": "1989-06-08T13:37:04.711474",
+    "year": 1989,
+    "month": 6,
+    "average_temperature": 18.03,
+    "sea_level_rise_mm": 47.0,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-14-4",
+    "date": "1989-07-08T13:37:04.711474",
+    "year": 1989,
+    "month": 7,
+    "average_temperature": 17.66,
+    "sea_level_rise_mm": 47.3,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-14-5",
+    "date": "1989-08-07T13:37:04.711474",
+    "year": 1989,
+    "month": 8,
+    "average_temperature": 16.74,
+    "sea_level_rise_mm": 47.6,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-14-6",
+    "date": "1989-09-06T13:37:04.711474",
+    "year": 1989,
+    "month": 9,
+    "average_temperature": 16.37,
+    "sea_level_rise_mm": 47.8,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-14-7",
+    "date": "1989-10-06T13:37:04.711474",
+    "year": 1989,
+    "month": 10,
+    "average_temperature": 15.49,
+    "sea_level_rise_mm": 48.1,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-14-8",
+    "date": "1989-11-05T13:37:04.711474",
+    "year": 1989,
+    "month": 11,
+    "average_temperature": 14.79,
+    "sea_level_rise_mm": 48.4,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-14-9",
+    "date": "1989-12-05T13:37:04.711474",
+    "year": 1989,
+    "month": 12,
+    "average_temperature": 14.58,
+    "sea_level_rise_mm": 48.7,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-14-10",
+    "date": "1990-01-04T13:37:04.711474",
+    "year": 1990,
+    "month": 1,
+    "average_temperature": 15.16,
+    "sea_level_rise_mm": 48.9,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-14-11",
+    "date": "1990-02-03T13:37:04.711474",
+    "year": 1990,
+    "month": 2,
+    "average_temperature": 15.37,
+    "sea_level_rise_mm": 49.2,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-15-0",
+    "date": "1990-03-05T13:37:04.711474",
+    "year": 1990,
+    "month": 3,
+    "average_temperature": 16.28,
+    "sea_level_rise_mm": 49.5,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-15-1",
+    "date": "1990-04-04T13:37:04.711474",
+    "year": 1990,
+    "month": 4,
+    "average_temperature": 17.07,
+    "sea_level_rise_mm": 49.8,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-15-2",
+    "date": "1990-05-04T13:37:04.711474",
+    "year": 1990,
+    "month": 5,
+    "average_temperature": 17.32,
+    "sea_level_rise_mm": 50.0,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-15-3",
+    "date": "1990-06-03T13:37:04.711474",
+    "year": 1990,
+    "month": 6,
+    "average_temperature": 17.59,
+    "sea_level_rise_mm": 50.3,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-15-4",
+    "date": "1990-07-03T13:37:04.711474",
+    "year": 1990,
+    "month": 7,
+    "average_temperature": 17.82,
+    "sea_level_rise_mm": 50.6,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-15-5",
+    "date": "1990-08-02T13:37:04.711474",
+    "year": 1990,
+    "month": 8,
+    "average_temperature": 17.09,
+    "sea_level_rise_mm": 50.9,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-15-6",
+    "date": "1990-09-01T13:37:04.711474",
+    "year": 1990,
+    "month": 9,
+    "average_temperature": 16.21,
+    "sea_level_rise_mm": 51.1,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-15-7",
+    "date": "1990-10-01T13:37:04.711474",
+    "year": 1990,
+    "month": 10,
+    "average_temperature": 15.37,
+    "sea_level_rise_mm": 51.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-15-8",
+    "date": "1990-10-31T13:37:04.711474",
+    "year": 1990,
+    "month": 10,
+    "average_temperature": 14.83,
+    "sea_level_rise_mm": 51.7,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-15-9",
+    "date": "1990-11-30T13:37:04.711474",
+    "year": 1990,
+    "month": 11,
+    "average_temperature": 14.95,
+    "sea_level_rise_mm": 52.0,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-15-10",
+    "date": "1990-12-30T13:37:04.711474",
+    "year": 1990,
+    "month": 12,
+    "average_temperature": 14.87,
+    "sea_level_rise_mm": 52.2,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-15-11",
+    "date": "1991-01-29T13:37:04.711474",
+    "year": 1991,
+    "month": 1,
+    "average_temperature": 15.36,
+    "sea_level_rise_mm": 52.5,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-16-0",
+    "date": "1991-02-28T13:37:04.711474",
+    "year": 1991,
+    "month": 2,
+    "average_temperature": 16.13,
+    "sea_level_rise_mm": 52.8,
+    "ocean_ph": 8.22
+  },
+  {
+    "id": "hist-16-1",
+    "date": "1991-03-30T13:37:04.711474",
+    "year": 1991,
+    "month": 3,
+    "average_temperature": 17.01,
+    "sea_level_rise_mm": 53.1,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-16-2",
+    "date": "1991-04-29T13:37:04.711474",
+    "year": 1991,
+    "month": 4,
+    "average_temperature": 17.54,
+    "sea_level_rise_mm": 53.3,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-16-3",
+    "date": "1991-05-29T13:37:04.711474",
+    "year": 1991,
+    "month": 5,
+    "average_temperature": 17.65,
+    "sea_level_rise_mm": 53.6,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-16-4",
+    "date": "1991-06-28T13:37:04.711474",
+    "year": 1991,
+    "month": 6,
+    "average_temperature": 17.54,
+    "sea_level_rise_mm": 53.9,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-16-5",
+    "date": "1991-07-28T13:37:04.711474",
+    "year": 1991,
+    "month": 7,
+    "average_temperature": 16.92,
+    "sea_level_rise_mm": 54.2,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-16-6",
+    "date": "1991-08-27T13:37:04.711474",
+    "year": 1991,
+    "month": 8,
+    "average_temperature": 16.2,
+    "sea_level_rise_mm": 54.4,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-16-7",
+    "date": "1991-09-26T13:37:04.711474",
+    "year": 1991,
+    "month": 9,
+    "average_temperature": 15.73,
+    "sea_level_rise_mm": 54.7,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-16-8",
+    "date": "1991-10-26T13:37:04.711474",
+    "year": 1991,
+    "month": 10,
+    "average_temperature": 14.98,
+    "sea_level_rise_mm": 55.0,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-16-9",
+    "date": "1991-11-25T13:37:04.711474",
+    "year": 1991,
+    "month": 11,
+    "average_temperature": 14.6,
+    "sea_level_rise_mm": 55.3,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-16-10",
+    "date": "1991-12-25T13:37:04.711474",
+    "year": 1991,
+    "month": 12,
+    "average_temperature": 15.18,
+    "sea_level_rise_mm": 55.5,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-16-11",
+    "date": "1992-01-24T13:37:04.711474",
+    "year": 1992,
+    "month": 1,
+    "average_temperature": 15.48,
+    "sea_level_rise_mm": 55.8,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-17-0",
+    "date": "1992-02-23T13:37:04.711474",
+    "year": 1992,
+    "month": 2,
+    "average_temperature": 16.28,
+    "sea_level_rise_mm": 56.1,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-17-1",
+    "date": "1992-03-24T13:37:04.711474",
+    "year": 1992,
+    "month": 3,
+    "average_temperature": 17.31,
+    "sea_level_rise_mm": 56.4,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-17-2",
+    "date": "1992-04-23T13:37:04.711474",
+    "year": 1992,
+    "month": 4,
+    "average_temperature": 17.83,
+    "sea_level_rise_mm": 56.6,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-17-3",
+    "date": "1992-05-23T13:37:04.711474",
+    "year": 1992,
+    "month": 5,
+    "average_temperature": 18.05,
+    "sea_level_rise_mm": 56.9,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-17-4",
+    "date": "1992-06-22T13:37:04.711474",
+    "year": 1992,
+    "month": 6,
+    "average_temperature": 17.6,
+    "sea_level_rise_mm": 57.2,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-17-5",
+    "date": "1992-07-22T13:37:04.711474",
+    "year": 1992,
+    "month": 7,
+    "average_temperature": 17.25,
+    "sea_level_rise_mm": 57.5,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-17-6",
+    "date": "1992-08-21T13:37:04.711474",
+    "year": 1992,
+    "month": 8,
+    "average_temperature": 16.6,
+    "sea_level_rise_mm": 57.7,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-17-7",
+    "date": "1992-09-20T13:37:04.711474",
+    "year": 1992,
+    "month": 9,
+    "average_temperature": 15.4,
+    "sea_level_rise_mm": 58.0,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-17-8",
+    "date": "1992-10-20T13:37:04.711474",
+    "year": 1992,
+    "month": 10,
+    "average_temperature": 14.99,
+    "sea_level_rise_mm": 58.3,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-17-9",
+    "date": "1992-11-19T13:37:04.711474",
+    "year": 1992,
+    "month": 11,
+    "average_temperature": 15.01,
+    "sea_level_rise_mm": 58.6,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-17-10",
+    "date": "1992-12-19T13:37:04.711474",
+    "year": 1992,
+    "month": 12,
+    "average_temperature": 15.16,
+    "sea_level_rise_mm": 58.8,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-17-11",
+    "date": "1993-01-18T13:37:04.711474",
+    "year": 1993,
+    "month": 1,
+    "average_temperature": 15.66,
+    "sea_level_rise_mm": 59.1,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-18-0",
+    "date": "1993-02-17T13:37:04.711474",
+    "year": 1993,
+    "month": 2,
+    "average_temperature": 16.2,
+    "sea_level_rise_mm": 59.4,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-18-1",
+    "date": "1993-03-19T13:37:04.711474",
+    "year": 1993,
+    "month": 3,
+    "average_temperature": 17.24,
+    "sea_level_rise_mm": 59.7,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-18-2",
+    "date": "1993-04-18T13:37:04.711474",
+    "year": 1993,
+    "month": 4,
+    "average_temperature": 17.48,
+    "sea_level_rise_mm": 59.9,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-18-3",
+    "date": "1993-05-18T13:37:04.711474",
+    "year": 1993,
+    "month": 5,
+    "average_temperature": 17.65,
+    "sea_level_rise_mm": 60.2,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-18-4",
+    "date": "1993-06-17T13:37:04.711474",
+    "year": 1993,
+    "month": 6,
+    "average_temperature": 17.6,
+    "sea_level_rise_mm": 60.5,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-18-5",
+    "date": "1993-07-17T13:37:04.711474",
+    "year": 1993,
+    "month": 7,
+    "average_temperature": 17.12,
+    "sea_level_rise_mm": 60.8,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-18-6",
+    "date": "1993-08-16T13:37:04.711474",
+    "year": 1993,
+    "month": 8,
+    "average_temperature": 16.53,
+    "sea_level_rise_mm": 61.0,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-18-7",
+    "date": "1993-09-15T13:37:04.711474",
+    "year": 1993,
+    "month": 9,
+    "average_temperature": 15.33,
+    "sea_level_rise_mm": 61.3,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-18-8",
+    "date": "1993-10-15T13:37:04.711474",
+    "year": 1993,
+    "month": 10,
+    "average_temperature": 15.11,
+    "sea_level_rise_mm": 61.6,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-18-9",
+    "date": "1993-11-14T13:37:04.711474",
+    "year": 1993,
+    "month": 11,
+    "average_temperature": 14.71,
+    "sea_level_rise_mm": 61.9,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-18-10",
+    "date": "1993-12-14T13:37:04.711474",
+    "year": 1993,
+    "month": 12,
+    "average_temperature": 14.84,
+    "sea_level_rise_mm": 62.1,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-18-11",
+    "date": "1994-01-13T13:37:04.711474",
+    "year": 1994,
+    "month": 1,
+    "average_temperature": 15.48,
+    "sea_level_rise_mm": 62.4,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-19-0",
+    "date": "1994-02-12T13:37:04.711474",
+    "year": 1994,
+    "month": 2,
+    "average_temperature": 16.35,
+    "sea_level_rise_mm": 62.7,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-19-1",
+    "date": "1994-03-14T13:37:04.711474",
+    "year": 1994,
+    "month": 3,
+    "average_temperature": 17.32,
+    "sea_level_rise_mm": 63.0,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-19-2",
+    "date": "1994-04-13T13:37:04.711474",
+    "year": 1994,
+    "month": 4,
+    "average_temperature": 17.73,
+    "sea_level_rise_mm": 63.2,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-19-3",
+    "date": "1994-05-13T13:37:04.711474",
+    "year": 1994,
+    "month": 5,
+    "average_temperature": 17.87,
+    "sea_level_rise_mm": 63.5,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-19-4",
+    "date": "1994-06-12T13:37:04.711474",
+    "year": 1994,
+    "month": 6,
+    "average_temperature": 17.92,
+    "sea_level_rise_mm": 63.8,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-19-5",
+    "date": "1994-07-12T13:37:04.711474",
+    "year": 1994,
+    "month": 7,
+    "average_temperature": 16.95,
+    "sea_level_rise_mm": 64.1,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-19-6",
+    "date": "1994-08-11T13:37:04.711474",
+    "year": 1994,
+    "month": 8,
+    "average_temperature": 16.31,
+    "sea_level_rise_mm": 64.3,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-19-7",
+    "date": "1994-09-10T13:37:04.711474",
+    "year": 1994,
+    "month": 9,
+    "average_temperature": 15.79,
+    "sea_level_rise_mm": 64.6,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-19-8",
+    "date": "1994-10-10T13:37:04.711474",
+    "year": 1994,
+    "month": 10,
+    "average_temperature": 15.34,
+    "sea_level_rise_mm": 64.9,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-19-9",
+    "date": "1994-11-09T13:37:04.711474",
+    "year": 1994,
+    "month": 11,
+    "average_temperature": 15.01,
+    "sea_level_rise_mm": 65.2,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-19-10",
+    "date": "1994-12-09T13:37:04.711474",
+    "year": 1994,
+    "month": 12,
+    "average_temperature": 15.23,
+    "sea_level_rise_mm": 65.4,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-19-11",
+    "date": "1995-01-08T13:37:04.711474",
+    "year": 1995,
+    "month": 1,
+    "average_temperature": 15.45,
+    "sea_level_rise_mm": 65.7,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-20-0",
+    "date": "1995-02-07T13:37:04.711474",
+    "year": 1995,
+    "month": 2,
+    "average_temperature": 16.49,
+    "sea_level_rise_mm": 66.0,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-20-1",
+    "date": "1995-03-09T13:37:04.711474",
+    "year": 1995,
+    "month": 3,
+    "average_temperature": 17.27,
+    "sea_level_rise_mm": 66.3,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-20-2",
+    "date": "1995-04-08T13:37:04.711474",
+    "year": 1995,
+    "month": 4,
+    "average_temperature": 17.6,
+    "sea_level_rise_mm": 66.5,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-20-3",
+    "date": "1995-05-08T13:37:04.711474",
+    "year": 1995,
+    "month": 5,
+    "average_temperature": 18.18,
+    "sea_level_rise_mm": 66.8,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-20-4",
+    "date": "1995-06-07T13:37:04.711474",
+    "year": 1995,
+    "month": 6,
+    "average_temperature": 17.64,
+    "sea_level_rise_mm": 67.1,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-20-5",
+    "date": "1995-07-07T13:37:04.711474",
+    "year": 1995,
+    "month": 7,
+    "average_temperature": 16.9,
+    "sea_level_rise_mm": 67.4,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-20-6",
+    "date": "1995-08-06T13:37:04.711474",
+    "year": 1995,
+    "month": 8,
+    "average_temperature": 16.21,
+    "sea_level_rise_mm": 67.6,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-20-7",
+    "date": "1995-09-05T13:37:04.711474",
+    "year": 1995,
+    "month": 9,
+    "average_temperature": 15.43,
+    "sea_level_rise_mm": 67.9,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-20-8",
+    "date": "1995-10-05T13:37:04.711474",
+    "year": 1995,
+    "month": 10,
+    "average_temperature": 15.16,
+    "sea_level_rise_mm": 68.2,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-20-9",
+    "date": "1995-11-04T13:37:04.711474",
+    "year": 1995,
+    "month": 11,
+    "average_temperature": 15.11,
+    "sea_level_rise_mm": 68.5,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-20-10",
+    "date": "1995-12-04T13:37:04.711474",
+    "year": 1995,
+    "month": 12,
+    "average_temperature": 15.14,
+    "sea_level_rise_mm": 68.7,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-20-11",
+    "date": "1996-01-03T13:37:04.711474",
+    "year": 1996,
+    "month": 1,
+    "average_temperature": 15.64,
+    "sea_level_rise_mm": 69.0,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-21-0",
+    "date": "1996-02-02T13:37:04.711474",
+    "year": 1996,
+    "month": 2,
+    "average_temperature": 16.49,
+    "sea_level_rise_mm": 69.3,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-21-1",
+    "date": "1996-03-03T13:37:04.711474",
+    "year": 1996,
+    "month": 3,
+    "average_temperature": 17.18,
+    "sea_level_rise_mm": 69.6,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-21-2",
+    "date": "1996-04-02T13:37:04.711474",
+    "year": 1996,
+    "month": 4,
+    "average_temperature": 17.86,
+    "sea_level_rise_mm": 69.8,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-21-3",
+    "date": "1996-05-02T13:37:04.711474",
+    "year": 1996,
+    "month": 5,
+    "average_temperature": 18.08,
+    "sea_level_rise_mm": 70.1,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-21-4",
+    "date": "1996-06-01T13:37:04.711474",
+    "year": 1996,
+    "month": 6,
+    "average_temperature": 17.9,
+    "sea_level_rise_mm": 70.4,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-21-5",
+    "date": "1996-07-01T13:37:04.711474",
+    "year": 1996,
+    "month": 7,
+    "average_temperature": 17.39,
+    "sea_level_rise_mm": 70.7,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-21-6",
+    "date": "1996-07-31T13:37:04.711474",
+    "year": 1996,
+    "month": 7,
+    "average_temperature": 16.68,
+    "sea_level_rise_mm": 70.9,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-21-7",
+    "date": "1996-08-30T13:37:04.711474",
+    "year": 1996,
+    "month": 8,
+    "average_temperature": 15.93,
+    "sea_level_rise_mm": 71.2,
+    "ocean_ph": 8.21
+  },
+  {
+    "id": "hist-21-8",
+    "date": "1996-09-29T13:37:04.711474",
+    "year": 1996,
+    "month": 9,
+    "average_temperature": 15.18,
+    "sea_level_rise_mm": 71.5,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-21-9",
+    "date": "1996-10-29T13:37:04.711474",
+    "year": 1996,
+    "month": 10,
+    "average_temperature": 15.03,
+    "sea_level_rise_mm": 71.8,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-21-10",
+    "date": "1996-11-28T13:37:04.711474",
+    "year": 1996,
+    "month": 11,
+    "average_temperature": 15.2,
+    "sea_level_rise_mm": 72.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-21-11",
+    "date": "1996-12-28T13:37:04.711474",
+    "year": 1996,
+    "month": 12,
+    "average_temperature": 15.62,
+    "sea_level_rise_mm": 72.3,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-22-0",
+    "date": "1997-01-27T13:37:04.711474",
+    "year": 1997,
+    "month": 1,
+    "average_temperature": 16.18,
+    "sea_level_rise_mm": 72.6,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-22-1",
+    "date": "1997-02-26T13:37:04.711474",
+    "year": 1997,
+    "month": 2,
+    "average_temperature": 16.94,
+    "sea_level_rise_mm": 72.9,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-22-2",
+    "date": "1997-03-28T13:37:04.711474",
+    "year": 1997,
+    "month": 3,
+    "average_temperature": 17.49,
+    "sea_level_rise_mm": 73.1,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-22-3",
+    "date": "1997-04-27T13:37:04.711474",
+    "year": 1997,
+    "month": 4,
+    "average_temperature": 17.8,
+    "sea_level_rise_mm": 73.4,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-22-4",
+    "date": "1997-05-27T13:37:04.711474",
+    "year": 1997,
+    "month": 5,
+    "average_temperature": 17.57,
+    "sea_level_rise_mm": 73.7,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-22-5",
+    "date": "1997-06-26T13:37:04.711474",
+    "year": 1997,
+    "month": 6,
+    "average_temperature": 17.12,
+    "sea_level_rise_mm": 74.0,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-22-6",
+    "date": "1997-07-26T13:37:04.711474",
+    "year": 1997,
+    "month": 7,
+    "average_temperature": 16.68,
+    "sea_level_rise_mm": 74.2,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-22-7",
+    "date": "1997-08-25T13:37:04.711474",
+    "year": 1997,
+    "month": 8,
+    "average_temperature": 15.85,
+    "sea_level_rise_mm": 74.5,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-22-8",
+    "date": "1997-09-24T13:37:04.711474",
+    "year": 1997,
+    "month": 9,
+    "average_temperature": 15.13,
+    "sea_level_rise_mm": 74.8,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-22-9",
+    "date": "1997-10-24T13:37:04.711474",
+    "year": 1997,
+    "month": 10,
+    "average_temperature": 15.05,
+    "sea_level_rise_mm": 75.1,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-22-10",
+    "date": "1997-11-23T13:37:04.711474",
+    "year": 1997,
+    "month": 11,
+    "average_temperature": 15.33,
+    "sea_level_rise_mm": 75.3,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-22-11",
+    "date": "1997-12-23T13:37:04.711474",
+    "year": 1997,
+    "month": 12,
+    "average_temperature": 15.92,
+    "sea_level_rise_mm": 75.6,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-23-0",
+    "date": "1998-01-22T13:37:04.711474",
+    "year": 1998,
+    "month": 1,
+    "average_temperature": 16.54,
+    "sea_level_rise_mm": 75.9,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-23-1",
+    "date": "1998-02-21T13:37:04.711474",
+    "year": 1998,
+    "month": 2,
+    "average_temperature": 17.06,
+    "sea_level_rise_mm": 76.2,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-23-2",
+    "date": "1998-03-23T13:37:04.711474",
+    "year": 1998,
+    "month": 3,
+    "average_temperature": 17.75,
+    "sea_level_rise_mm": 76.4,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-23-3",
+    "date": "1998-04-22T13:37:04.711474",
+    "year": 1998,
+    "month": 4,
+    "average_temperature": 18.07,
+    "sea_level_rise_mm": 76.7,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-23-4",
+    "date": "1998-05-22T13:37:04.711474",
+    "year": 1998,
+    "month": 5,
+    "average_temperature": 17.76,
+    "sea_level_rise_mm": 77.0,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-23-5",
+    "date": "1998-06-21T13:37:04.711474",
+    "year": 1998,
+    "month": 6,
+    "average_temperature": 17.29,
+    "sea_level_rise_mm": 77.3,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-23-6",
+    "date": "1998-07-21T13:37:04.711474",
+    "year": 1998,
+    "month": 7,
+    "average_temperature": 16.32,
+    "sea_level_rise_mm": 77.5,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-23-7",
+    "date": "1998-08-20T13:37:04.711474",
+    "year": 1998,
+    "month": 8,
+    "average_temperature": 15.62,
+    "sea_level_rise_mm": 77.8,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-23-8",
+    "date": "1998-09-19T13:37:04.711474",
+    "year": 1998,
+    "month": 9,
+    "average_temperature": 15.36,
+    "sea_level_rise_mm": 78.1,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-23-9",
+    "date": "1998-10-19T13:37:04.711474",
+    "year": 1998,
+    "month": 10,
+    "average_temperature": 14.82,
+    "sea_level_rise_mm": 78.4,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-23-10",
+    "date": "1998-11-18T13:37:04.711474",
+    "year": 1998,
+    "month": 11,
+    "average_temperature": 15.43,
+    "sea_level_rise_mm": 78.6,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-23-11",
+    "date": "1998-12-18T13:37:04.711474",
+    "year": 1998,
+    "month": 12,
+    "average_temperature": 15.63,
+    "sea_level_rise_mm": 78.9,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-24-0",
+    "date": "1999-01-17T13:37:04.711474",
+    "year": 1999,
+    "month": 1,
+    "average_temperature": 16.36,
+    "sea_level_rise_mm": 79.2,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-24-1",
+    "date": "1999-02-16T13:37:04.711474",
+    "year": 1999,
+    "month": 2,
+    "average_temperature": 17.42,
+    "sea_level_rise_mm": 79.5,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-24-2",
+    "date": "1999-03-18T13:37:04.711474",
+    "year": 1999,
+    "month": 3,
+    "average_temperature": 18.07,
+    "sea_level_rise_mm": 79.7,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-24-3",
+    "date": "1999-04-17T13:37:04.711474",
+    "year": 1999,
+    "month": 4,
+    "average_temperature": 18.01,
+    "sea_level_rise_mm": 80.0,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-24-4",
+    "date": "1999-05-17T13:37:04.711474",
+    "year": 1999,
+    "month": 5,
+    "average_temperature": 17.8,
+    "sea_level_rise_mm": 80.3,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-24-5",
+    "date": "1999-06-16T13:37:04.711474",
+    "year": 1999,
+    "month": 6,
+    "average_temperature": 17.47,
+    "sea_level_rise_mm": 80.6,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-24-6",
+    "date": "1999-07-16T13:37:04.711474",
+    "year": 1999,
+    "month": 7,
+    "average_temperature": 16.43,
+    "sea_level_rise_mm": 80.8,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-24-7",
+    "date": "1999-08-15T13:37:04.711474",
+    "year": 1999,
+    "month": 8,
+    "average_temperature": 15.79,
+    "sea_level_rise_mm": 81.1,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-24-8",
+    "date": "1999-09-14T13:37:04.711474",
+    "year": 1999,
+    "month": 9,
+    "average_temperature": 15.19,
+    "sea_level_rise_mm": 81.4,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-24-9",
+    "date": "1999-10-14T13:37:04.711474",
+    "year": 1999,
+    "month": 10,
+    "average_temperature": 14.95,
+    "sea_level_rise_mm": 81.7,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-24-10",
+    "date": "1999-11-13T13:37:04.711474",
+    "year": 1999,
+    "month": 11,
+    "average_temperature": 15.16,
+    "sea_level_rise_mm": 81.9,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-24-11",
+    "date": "1999-12-13T13:37:04.711474",
+    "year": 1999,
+    "month": 12,
+    "average_temperature": 15.52,
+    "sea_level_rise_mm": 82.2,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-25-0",
+    "date": "2000-01-12T13:37:04.711474",
+    "year": 2000,
+    "month": 1,
+    "average_temperature": 16.34,
+    "sea_level_rise_mm": 82.5,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-25-1",
+    "date": "2000-02-11T13:37:04.711474",
+    "year": 2000,
+    "month": 2,
+    "average_temperature": 17.43,
+    "sea_level_rise_mm": 82.8,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-25-2",
+    "date": "2000-03-12T13:37:04.711474",
+    "year": 2000,
+    "month": 3,
+    "average_temperature": 17.94,
+    "sea_level_rise_mm": 83.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-25-3",
+    "date": "2000-04-11T13:37:04.711474",
+    "year": 2000,
+    "month": 4,
+    "average_temperature": 17.84,
+    "sea_level_rise_mm": 83.3,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-25-4",
+    "date": "2000-05-11T13:37:04.711474",
+    "year": 2000,
+    "month": 5,
+    "average_temperature": 17.57,
+    "sea_level_rise_mm": 83.6,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-25-5",
+    "date": "2000-06-10T13:37:04.711474",
+    "year": 2000,
+    "month": 6,
+    "average_temperature": 17.47,
+    "sea_level_rise_mm": 83.9,
+    "ocean_ph": 8.2
+  },
+  {
+    "id": "hist-25-6",
+    "date": "2000-07-10T13:37:04.711474",
+    "year": 2000,
+    "month": 7,
+    "average_temperature": 16.68,
+    "sea_level_rise_mm": 84.1,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-25-7",
+    "date": "2000-08-09T13:37:04.711474",
+    "year": 2000,
+    "month": 8,
+    "average_temperature": 15.46,
+    "sea_level_rise_mm": 84.4,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-25-8",
+    "date": "2000-09-08T13:37:04.711474",
+    "year": 2000,
+    "month": 9,
+    "average_temperature": 14.96,
+    "sea_level_rise_mm": 84.7,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-25-9",
+    "date": "2000-10-08T13:37:04.711474",
+    "year": 2000,
+    "month": 10,
+    "average_temperature": 14.95,
+    "sea_level_rise_mm": 85.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-25-10",
+    "date": "2000-11-07T13:37:04.711474",
+    "year": 2000,
+    "month": 11,
+    "average_temperature": 15.34,
+    "sea_level_rise_mm": 85.2,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-25-11",
+    "date": "2000-12-07T13:37:04.711474",
+    "year": 2000,
+    "month": 12,
+    "average_temperature": 15.99,
+    "sea_level_rise_mm": 85.5,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-26-0",
+    "date": "2001-01-06T13:37:04.711474",
+    "year": 2001,
+    "month": 1,
+    "average_temperature": 16.54,
+    "sea_level_rise_mm": 85.8,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-26-1",
+    "date": "2001-02-05T13:37:04.711474",
+    "year": 2001,
+    "month": 2,
+    "average_temperature": 17.34,
+    "sea_level_rise_mm": 86.1,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-26-2",
+    "date": "2001-03-07T13:37:04.711474",
+    "year": 2001,
+    "month": 3,
+    "average_temperature": 17.84,
+    "sea_level_rise_mm": 86.3,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-26-3",
+    "date": "2001-04-06T13:37:04.711474",
+    "year": 2001,
+    "month": 4,
+    "average_temperature": 18.08,
+    "sea_level_rise_mm": 86.6,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-26-4",
+    "date": "2001-05-06T13:37:04.711474",
+    "year": 2001,
+    "month": 5,
+    "average_temperature": 17.79,
+    "sea_level_rise_mm": 86.9,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-26-5",
+    "date": "2001-06-05T13:37:04.711474",
+    "year": 2001,
+    "month": 6,
+    "average_temperature": 17.39,
+    "sea_level_rise_mm": 87.2,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-26-6",
+    "date": "2001-07-05T13:37:04.711474",
+    "year": 2001,
+    "month": 7,
+    "average_temperature": 16.51,
+    "sea_level_rise_mm": 87.4,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-26-7",
+    "date": "2001-08-04T13:37:04.711474",
+    "year": 2001,
+    "month": 8,
+    "average_temperature": 16.0,
+    "sea_level_rise_mm": 87.7,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-26-8",
+    "date": "2001-09-03T13:37:04.711474",
+    "year": 2001,
+    "month": 9,
+    "average_temperature": 15.42,
+    "sea_level_rise_mm": 88.0,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-26-9",
+    "date": "2001-10-03T13:37:04.711474",
+    "year": 2001,
+    "month": 10,
+    "average_temperature": 15.14,
+    "sea_level_rise_mm": 88.3,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-26-10",
+    "date": "2001-11-02T13:37:04.711474",
+    "year": 2001,
+    "month": 11,
+    "average_temperature": 15.09,
+    "sea_level_rise_mm": 88.5,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-26-11",
+    "date": "2001-12-02T13:37:04.711474",
+    "year": 2001,
+    "month": 12,
+    "average_temperature": 15.79,
+    "sea_level_rise_mm": 88.8,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-27-0",
+    "date": "2002-01-01T13:37:04.711474",
+    "year": 2002,
+    "month": 1,
+    "average_temperature": 16.77,
+    "sea_level_rise_mm": 89.1,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-27-1",
+    "date": "2002-01-31T13:37:04.711474",
+    "year": 2002,
+    "month": 1,
+    "average_temperature": 17.38,
+    "sea_level_rise_mm": 89.4,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-27-2",
+    "date": "2002-03-02T13:37:04.711474",
+    "year": 2002,
+    "month": 3,
+    "average_temperature": 18.11,
+    "sea_level_rise_mm": 89.6,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-27-3",
+    "date": "2002-04-01T13:37:04.711474",
+    "year": 2002,
+    "month": 4,
+    "average_temperature": 18.31,
+    "sea_level_rise_mm": 89.9,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-27-4",
+    "date": "2002-05-01T13:37:04.711474",
+    "year": 2002,
+    "month": 5,
+    "average_temperature": 17.71,
+    "sea_level_rise_mm": 90.2,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-27-5",
+    "date": "2002-05-31T13:37:04.711474",
+    "year": 2002,
+    "month": 5,
+    "average_temperature": 17.02,
+    "sea_level_rise_mm": 90.5,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-27-6",
+    "date": "2002-06-30T13:37:04.711474",
+    "year": 2002,
+    "month": 6,
+    "average_temperature": 16.61,
+    "sea_level_rise_mm": 90.7,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-27-7",
+    "date": "2002-07-30T13:37:04.711474",
+    "year": 2002,
+    "month": 7,
+    "average_temperature": 15.7,
+    "sea_level_rise_mm": 91.0,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-27-8",
+    "date": "2002-08-29T13:37:04.711474",
+    "year": 2002,
+    "month": 8,
+    "average_temperature": 15.5,
+    "sea_level_rise_mm": 91.3,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-27-9",
+    "date": "2002-09-28T13:37:04.711474",
+    "year": 2002,
+    "month": 9,
+    "average_temperature": 14.8,
+    "sea_level_rise_mm": 91.6,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-27-10",
+    "date": "2002-10-28T13:37:04.711474",
+    "year": 2002,
+    "month": 10,
+    "average_temperature": 15.52,
+    "sea_level_rise_mm": 91.8,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-27-11",
+    "date": "2002-11-27T13:37:04.711474",
+    "year": 2002,
+    "month": 11,
+    "average_temperature": 16.04,
+    "sea_level_rise_mm": 92.1,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-28-0",
+    "date": "2002-12-27T13:37:04.711474",
+    "year": 2002,
+    "month": 12,
+    "average_temperature": 16.37,
+    "sea_level_rise_mm": 92.4,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-28-1",
+    "date": "2003-01-26T13:37:04.711474",
+    "year": 2003,
+    "month": 1,
+    "average_temperature": 17.18,
+    "sea_level_rise_mm": 92.7,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-28-2",
+    "date": "2003-02-25T13:37:04.711474",
+    "year": 2003,
+    "month": 2,
+    "average_temperature": 18.03,
+    "sea_level_rise_mm": 92.9,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-28-3",
+    "date": "2003-03-27T13:37:04.711474",
+    "year": 2003,
+    "month": 3,
+    "average_temperature": 18.21,
+    "sea_level_rise_mm": 93.2,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-28-4",
+    "date": "2003-04-26T13:37:04.711474",
+    "year": 2003,
+    "month": 4,
+    "average_temperature": 17.81,
+    "sea_level_rise_mm": 93.5,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-28-5",
+    "date": "2003-05-26T13:37:04.711474",
+    "year": 2003,
+    "month": 5,
+    "average_temperature": 17.49,
+    "sea_level_rise_mm": 93.8,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-28-6",
+    "date": "2003-06-25T13:37:04.711474",
+    "year": 2003,
+    "month": 6,
+    "average_temperature": 16.49,
+    "sea_level_rise_mm": 94.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-28-7",
+    "date": "2003-07-25T13:37:04.711474",
+    "year": 2003,
+    "month": 7,
+    "average_temperature": 15.81,
+    "sea_level_rise_mm": 94.3,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-28-8",
+    "date": "2003-08-24T13:37:04.711474",
+    "year": 2003,
+    "month": 8,
+    "average_temperature": 15.45,
+    "sea_level_rise_mm": 94.6,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-28-9",
+    "date": "2003-09-23T13:37:04.711474",
+    "year": 2003,
+    "month": 9,
+    "average_temperature": 14.99,
+    "sea_level_rise_mm": 94.9,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-28-10",
+    "date": "2003-10-23T13:37:04.711474",
+    "year": 2003,
+    "month": 10,
+    "average_temperature": 15.4,
+    "sea_level_rise_mm": 95.1,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-28-11",
+    "date": "2003-11-22T13:37:04.711474",
+    "year": 2003,
+    "month": 11,
+    "average_temperature": 15.55,
+    "sea_level_rise_mm": 95.4,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-29-0",
+    "date": "2003-12-22T13:37:04.711474",
+    "year": 2003,
+    "month": 12,
+    "average_temperature": 16.59,
+    "sea_level_rise_mm": 95.7,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-29-1",
+    "date": "2004-01-21T13:37:04.711474",
+    "year": 2004,
+    "month": 1,
+    "average_temperature": 17.56,
+    "sea_level_rise_mm": 96.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-29-2",
+    "date": "2004-02-20T13:37:04.711474",
+    "year": 2004,
+    "month": 2,
+    "average_temperature": 18.12,
+    "sea_level_rise_mm": 96.2,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-29-3",
+    "date": "2004-03-21T13:37:04.711474",
+    "year": 2004,
+    "month": 3,
+    "average_temperature": 17.86,
+    "sea_level_rise_mm": 96.5,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-29-4",
+    "date": "2004-04-20T13:37:04.711474",
+    "year": 2004,
+    "month": 4,
+    "average_temperature": 18.07,
+    "sea_level_rise_mm": 96.8,
+    "ocean_ph": 8.19
+  },
+  {
+    "id": "hist-29-5",
+    "date": "2004-05-20T13:37:04.711474",
+    "year": 2004,
+    "month": 5,
+    "average_temperature": 17.46,
+    "sea_level_rise_mm": 97.1,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-29-6",
+    "date": "2004-06-19T13:37:04.711474",
+    "year": 2004,
+    "month": 6,
+    "average_temperature": 16.75,
+    "sea_level_rise_mm": 97.3,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-29-7",
+    "date": "2004-07-19T13:37:04.711474",
+    "year": 2004,
+    "month": 7,
+    "average_temperature": 15.88,
+    "sea_level_rise_mm": 97.6,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-29-8",
+    "date": "2004-08-18T13:37:04.711474",
+    "year": 2004,
+    "month": 8,
+    "average_temperature": 15.07,
+    "sea_level_rise_mm": 97.9,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-29-9",
+    "date": "2004-09-17T13:37:04.711474",
+    "year": 2004,
+    "month": 9,
+    "average_temperature": 15.27,
+    "sea_level_rise_mm": 98.2,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-29-10",
+    "date": "2004-10-17T13:37:04.711474",
+    "year": 2004,
+    "month": 10,
+    "average_temperature": 15.23,
+    "sea_level_rise_mm": 98.4,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-29-11",
+    "date": "2004-11-16T13:37:04.711474",
+    "year": 2004,
+    "month": 11,
+    "average_temperature": 15.6,
+    "sea_level_rise_mm": 98.7,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-30-0",
+    "date": "2004-12-16T13:37:04.711474",
+    "year": 2004,
+    "month": 12,
+    "average_temperature": 16.77,
+    "sea_level_rise_mm": 99.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-30-1",
+    "date": "2005-01-15T13:37:04.711474",
+    "year": 2005,
+    "month": 1,
+    "average_temperature": 17.11,
+    "sea_level_rise_mm": 99.3,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-30-2",
+    "date": "2005-02-14T13:37:04.711474",
+    "year": 2005,
+    "month": 2,
+    "average_temperature": 17.87,
+    "sea_level_rise_mm": 99.5,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-30-3",
+    "date": "2005-03-16T13:37:04.711474",
+    "year": 2005,
+    "month": 3,
+    "average_temperature": 18.37,
+    "sea_level_rise_mm": 99.8,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-30-4",
+    "date": "2005-04-15T13:37:04.711474",
+    "year": 2005,
+    "month": 4,
+    "average_temperature": 17.88,
+    "sea_level_rise_mm": 100.1,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-30-5",
+    "date": "2005-05-15T13:37:04.711474",
+    "year": 2005,
+    "month": 5,
+    "average_temperature": 17.43,
+    "sea_level_rise_mm": 100.4,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-30-6",
+    "date": "2005-06-14T13:37:04.711474",
+    "year": 2005,
+    "month": 6,
+    "average_temperature": 16.85,
+    "sea_level_rise_mm": 100.6,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-30-7",
+    "date": "2005-07-14T13:37:04.711474",
+    "year": 2005,
+    "month": 7,
+    "average_temperature": 16.1,
+    "sea_level_rise_mm": 100.9,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-30-8",
+    "date": "2005-08-13T13:37:04.711474",
+    "year": 2005,
+    "month": 8,
+    "average_temperature": 15.51,
+    "sea_level_rise_mm": 101.2,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-30-9",
+    "date": "2005-09-12T13:37:04.711474",
+    "year": 2005,
+    "month": 9,
+    "average_temperature": 14.96,
+    "sea_level_rise_mm": 101.5,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-30-10",
+    "date": "2005-10-12T13:37:04.711474",
+    "year": 2005,
+    "month": 10,
+    "average_temperature": 15.1,
+    "sea_level_rise_mm": 101.7,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-30-11",
+    "date": "2005-11-11T13:37:04.711474",
+    "year": 2005,
+    "month": 11,
+    "average_temperature": 15.97,
+    "sea_level_rise_mm": 102.0,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-31-0",
+    "date": "2005-12-11T13:37:04.711474",
+    "year": 2005,
+    "month": 12,
+    "average_temperature": 16.48,
+    "sea_level_rise_mm": 102.3,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-31-1",
+    "date": "2006-01-10T13:37:04.711474",
+    "year": 2006,
+    "month": 1,
+    "average_temperature": 17.61,
+    "sea_level_rise_mm": 102.6,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-31-2",
+    "date": "2006-02-09T13:37:04.711474",
+    "year": 2006,
+    "month": 2,
+    "average_temperature": 17.71,
+    "sea_level_rise_mm": 102.8,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-31-3",
+    "date": "2006-03-11T13:37:04.711474",
+    "year": 2006,
+    "month": 3,
+    "average_temperature": 17.86,
+    "sea_level_rise_mm": 103.1,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-31-4",
+    "date": "2006-04-10T13:37:04.711474",
+    "year": 2006,
+    "month": 4,
+    "average_temperature": 18.22,
+    "sea_level_rise_mm": 103.4,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-31-5",
+    "date": "2006-05-10T13:37:04.711474",
+    "year": 2006,
+    "month": 5,
+    "average_temperature": 17.56,
+    "sea_level_rise_mm": 103.7,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-31-6",
+    "date": "2006-06-09T13:37:04.711474",
+    "year": 2006,
+    "month": 6,
+    "average_temperature": 16.82,
+    "sea_level_rise_mm": 103.9,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-31-7",
+    "date": "2006-07-09T13:37:04.711474",
+    "year": 2006,
+    "month": 7,
+    "average_temperature": 15.88,
+    "sea_level_rise_mm": 104.2,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-31-8",
+    "date": "2006-08-08T13:37:04.711474",
+    "year": 2006,
+    "month": 8,
+    "average_temperature": 15.39,
+    "sea_level_rise_mm": 104.5,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-31-9",
+    "date": "2006-09-07T13:37:04.711474",
+    "year": 2006,
+    "month": 9,
+    "average_temperature": 15.34,
+    "sea_level_rise_mm": 104.8,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-31-10",
+    "date": "2006-10-07T13:37:04.711474",
+    "year": 2006,
+    "month": 10,
+    "average_temperature": 15.59,
+    "sea_level_rise_mm": 105.0,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-31-11",
+    "date": "2006-11-06T13:37:04.711474",
+    "year": 2006,
+    "month": 11,
+    "average_temperature": 15.97,
+    "sea_level_rise_mm": 105.3,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-32-0",
+    "date": "2006-12-06T13:37:04.711474",
+    "year": 2006,
+    "month": 12,
+    "average_temperature": 16.76,
+    "sea_level_rise_mm": 105.6,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-32-1",
+    "date": "2007-01-05T13:37:04.711474",
+    "year": 2007,
+    "month": 1,
+    "average_temperature": 17.67,
+    "sea_level_rise_mm": 105.9,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-32-2",
+    "date": "2007-02-04T13:37:04.711474",
+    "year": 2007,
+    "month": 2,
+    "average_temperature": 17.8,
+    "sea_level_rise_mm": 106.1,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-32-3",
+    "date": "2007-03-06T13:37:04.711474",
+    "year": 2007,
+    "month": 3,
+    "average_temperature": 18.12,
+    "sea_level_rise_mm": 106.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-32-4",
+    "date": "2007-04-05T13:37:04.711474",
+    "year": 2007,
+    "month": 4,
+    "average_temperature": 17.83,
+    "sea_level_rise_mm": 106.7,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-32-5",
+    "date": "2007-05-05T13:37:04.711474",
+    "year": 2007,
+    "month": 5,
+    "average_temperature": 17.53,
+    "sea_level_rise_mm": 107.0,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-32-6",
+    "date": "2007-06-04T13:37:04.711474",
+    "year": 2007,
+    "month": 6,
+    "average_temperature": 16.64,
+    "sea_level_rise_mm": 107.2,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-32-7",
+    "date": "2007-07-04T13:37:04.711474",
+    "year": 2007,
+    "month": 7,
+    "average_temperature": 15.72,
+    "sea_level_rise_mm": 107.5,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-32-8",
+    "date": "2007-08-03T13:37:04.711474",
+    "year": 2007,
+    "month": 8,
+    "average_temperature": 15.24,
+    "sea_level_rise_mm": 107.8,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-32-9",
+    "date": "2007-09-02T13:37:04.711474",
+    "year": 2007,
+    "month": 9,
+    "average_temperature": 15.01,
+    "sea_level_rise_mm": 108.1,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-32-10",
+    "date": "2007-10-02T13:37:04.711474",
+    "year": 2007,
+    "month": 10,
+    "average_temperature": 15.5,
+    "sea_level_rise_mm": 108.3,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-32-11",
+    "date": "2007-11-01T13:37:04.711474",
+    "year": 2007,
+    "month": 11,
+    "average_temperature": 15.67,
+    "sea_level_rise_mm": 108.6,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-33-0",
+    "date": "2007-12-01T13:37:04.711474",
+    "year": 2007,
+    "month": 12,
+    "average_temperature": 16.89,
+    "sea_level_rise_mm": 108.9,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-33-1",
+    "date": "2007-12-31T13:37:04.711474",
+    "year": 2007,
+    "month": 12,
+    "average_temperature": 17.52,
+    "sea_level_rise_mm": 109.2,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-33-2",
+    "date": "2008-01-30T13:37:04.711474",
+    "year": 2008,
+    "month": 1,
+    "average_temperature": 18.06,
+    "sea_level_rise_mm": 109.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-33-3",
+    "date": "2008-02-29T13:37:04.711474",
+    "year": 2008,
+    "month": 2,
+    "average_temperature": 17.92,
+    "sea_level_rise_mm": 109.7,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-33-4",
+    "date": "2008-03-30T13:37:04.711474",
+    "year": 2008,
+    "month": 3,
+    "average_temperature": 17.89,
+    "sea_level_rise_mm": 110.0,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-33-5",
+    "date": "2008-04-29T13:37:04.711474",
+    "year": 2008,
+    "month": 4,
+    "average_temperature": 17.49,
+    "sea_level_rise_mm": 110.3,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-33-6",
+    "date": "2008-05-29T13:37:04.711474",
+    "year": 2008,
+    "month": 5,
+    "average_temperature": 16.57,
+    "sea_level_rise_mm": 110.5,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-33-7",
+    "date": "2008-06-28T13:37:04.711474",
+    "year": 2008,
+    "month": 6,
+    "average_temperature": 15.74,
+    "sea_level_rise_mm": 110.8,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-33-8",
+    "date": "2008-07-28T13:37:04.711474",
+    "year": 2008,
+    "month": 7,
+    "average_temperature": 15.08,
+    "sea_level_rise_mm": 111.1,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-33-9",
+    "date": "2008-08-27T13:37:04.711474",
+    "year": 2008,
+    "month": 8,
+    "average_temperature": 15.35,
+    "sea_level_rise_mm": 111.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-33-10",
+    "date": "2008-09-26T13:37:04.711474",
+    "year": 2008,
+    "month": 9,
+    "average_temperature": 15.39,
+    "sea_level_rise_mm": 111.6,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-33-11",
+    "date": "2008-10-26T13:37:04.711474",
+    "year": 2008,
+    "month": 10,
+    "average_temperature": 16.14,
+    "sea_level_rise_mm": 111.9,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-34-0",
+    "date": "2008-11-25T13:37:04.711474",
+    "year": 2008,
+    "month": 11,
+    "average_temperature": 16.39,
+    "sea_level_rise_mm": 112.2,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-34-1",
+    "date": "2008-12-25T13:37:04.711474",
+    "year": 2008,
+    "month": 12,
+    "average_temperature": 17.33,
+    "sea_level_rise_mm": 112.5,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-34-2",
+    "date": "2009-01-24T13:37:04.711474",
+    "year": 2009,
+    "month": 1,
+    "average_temperature": 18.24,
+    "sea_level_rise_mm": 112.7,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-34-3",
+    "date": "2009-02-23T13:37:04.711474",
+    "year": 2009,
+    "month": 2,
+    "average_temperature": 18.16,
+    "sea_level_rise_mm": 113.0,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-34-4",
+    "date": "2009-03-25T13:37:04.711474",
+    "year": 2009,
+    "month": 3,
+    "average_temperature": 18.16,
+    "sea_level_rise_mm": 113.3,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-34-5",
+    "date": "2009-04-24T13:37:04.711474",
+    "year": 2009,
+    "month": 4,
+    "average_temperature": 17.16,
+    "sea_level_rise_mm": 113.6,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-34-6",
+    "date": "2009-05-24T13:37:04.711474",
+    "year": 2009,
+    "month": 5,
+    "average_temperature": 16.45,
+    "sea_level_rise_mm": 113.8,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-34-7",
+    "date": "2009-06-23T13:37:04.711474",
+    "year": 2009,
+    "month": 6,
+    "average_temperature": 15.94,
+    "sea_level_rise_mm": 114.1,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-34-8",
+    "date": "2009-07-23T13:37:04.711474",
+    "year": 2009,
+    "month": 7,
+    "average_temperature": 15.16,
+    "sea_level_rise_mm": 114.4,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-34-9",
+    "date": "2009-08-22T13:37:04.711474",
+    "year": 2009,
+    "month": 8,
+    "average_temperature": 15.05,
+    "sea_level_rise_mm": 114.7,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-34-10",
+    "date": "2009-09-21T13:37:04.711474",
+    "year": 2009,
+    "month": 9,
+    "average_temperature": 15.14,
+    "sea_level_rise_mm": 114.9,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-34-11",
+    "date": "2009-10-21T13:37:04.711474",
+    "year": 2009,
+    "month": 10,
+    "average_temperature": 15.65,
+    "sea_level_rise_mm": 115.2,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-35-0",
+    "date": "2009-11-20T13:37:04.711474",
+    "year": 2009,
+    "month": 11,
+    "average_temperature": 16.75,
+    "sea_level_rise_mm": 115.5,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-35-1",
+    "date": "2009-12-20T13:37:04.711474",
+    "year": 2009,
+    "month": 12,
+    "average_temperature": 17.36,
+    "sea_level_rise_mm": 115.8,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-35-2",
+    "date": "2010-01-19T13:37:04.711474",
+    "year": 2010,
+    "month": 1,
+    "average_temperature": 18.23,
+    "sea_level_rise_mm": 116.0,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-35-3",
+    "date": "2010-02-18T13:37:04.711474",
+    "year": 2010,
+    "month": 2,
+    "average_temperature": 18.4,
+    "sea_level_rise_mm": 116.3,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-35-4",
+    "date": "2010-03-20T13:37:04.711474",
+    "year": 2010,
+    "month": 3,
+    "average_temperature": 17.84,
+    "sea_level_rise_mm": 116.6,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-35-5",
+    "date": "2010-04-19T13:37:04.711474",
+    "year": 2010,
+    "month": 4,
+    "average_temperature": 17.64,
+    "sea_level_rise_mm": 116.9,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-35-6",
+    "date": "2010-05-19T13:37:04.711474",
+    "year": 2010,
+    "month": 5,
+    "average_temperature": 16.69,
+    "sea_level_rise_mm": 117.1,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-35-7",
+    "date": "2010-06-18T13:37:04.711474",
+    "year": 2010,
+    "month": 6,
+    "average_temperature": 16.06,
+    "sea_level_rise_mm": 117.4,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-35-8",
+    "date": "2010-07-18T13:37:04.711474",
+    "year": 2010,
+    "month": 7,
+    "average_temperature": 15.28,
+    "sea_level_rise_mm": 117.7,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-35-9",
+    "date": "2010-08-17T13:37:04.711474",
+    "year": 2010,
+    "month": 8,
+    "average_temperature": 15.24,
+    "sea_level_rise_mm": 118.0,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-35-10",
+    "date": "2010-09-16T13:37:04.711474",
+    "year": 2010,
+    "month": 9,
+    "average_temperature": 15.6,
+    "sea_level_rise_mm": 118.2,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-35-11",
+    "date": "2010-10-16T13:37:04.711474",
+    "year": 2010,
+    "month": 10,
+    "average_temperature": 15.83,
+    "sea_level_rise_mm": 118.5,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-36-0",
+    "date": "2010-11-15T13:37:04.711474",
+    "year": 2010,
+    "month": 11,
+    "average_temperature": 16.84,
+    "sea_level_rise_mm": 118.8,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-36-1",
+    "date": "2010-12-15T13:37:04.711474",
+    "year": 2010,
+    "month": 12,
+    "average_temperature": 17.43,
+    "sea_level_rise_mm": 119.1,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-36-2",
+    "date": "2011-01-14T13:37:04.711474",
+    "year": 2011,
+    "month": 1,
+    "average_temperature": 18.21,
+    "sea_level_rise_mm": 119.3,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-36-3",
+    "date": "2011-02-13T13:37:04.711474",
+    "year": 2011,
+    "month": 2,
+    "average_temperature": 18.46,
+    "sea_level_rise_mm": 119.6,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-36-4",
+    "date": "2011-03-15T13:37:04.711474",
+    "year": 2011,
+    "month": 3,
+    "average_temperature": 17.85,
+    "sea_level_rise_mm": 119.9,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-36-5",
+    "date": "2011-04-14T13:37:04.711474",
+    "year": 2011,
+    "month": 4,
+    "average_temperature": 17.41,
+    "sea_level_rise_mm": 120.2,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-36-6",
+    "date": "2011-05-14T13:37:04.711474",
+    "year": 2011,
+    "month": 5,
+    "average_temperature": 16.79,
+    "sea_level_rise_mm": 120.4,
+    "ocean_ph": 8.18
+  },
+  {
+    "id": "hist-36-7",
+    "date": "2011-06-13T13:37:04.711474",
+    "year": 2011,
+    "month": 6,
+    "average_temperature": 15.89,
+    "sea_level_rise_mm": 120.7,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-36-8",
+    "date": "2011-07-13T13:37:04.711474",
+    "year": 2011,
+    "month": 7,
+    "average_temperature": 15.23,
+    "sea_level_rise_mm": 121.0,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-36-9",
+    "date": "2011-08-12T13:37:04.711474",
+    "year": 2011,
+    "month": 8,
+    "average_temperature": 14.96,
+    "sea_level_rise_mm": 121.3,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-36-10",
+    "date": "2011-09-11T13:37:04.711474",
+    "year": 2011,
+    "month": 9,
+    "average_temperature": 15.27,
+    "sea_level_rise_mm": 121.5,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-36-11",
+    "date": "2011-10-11T13:37:04.711474",
+    "year": 2011,
+    "month": 10,
+    "average_temperature": 15.9,
+    "sea_level_rise_mm": 121.8,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-37-0",
+    "date": "2011-11-10T13:37:04.711474",
+    "year": 2011,
+    "month": 11,
+    "average_temperature": 16.74,
+    "sea_level_rise_mm": 122.1,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-37-1",
+    "date": "2011-12-10T13:37:04.711474",
+    "year": 2011,
+    "month": 12,
+    "average_temperature": 17.26,
+    "sea_level_rise_mm": 122.4,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-37-2",
+    "date": "2012-01-09T13:37:04.711474",
+    "year": 2012,
+    "month": 1,
+    "average_temperature": 18.27,
+    "sea_level_rise_mm": 122.6,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-37-3",
+    "date": "2012-02-08T13:37:04.711474",
+    "year": 2012,
+    "month": 2,
+    "average_temperature": 18.14,
+    "sea_level_rise_mm": 122.9,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-37-4",
+    "date": "2012-03-09T13:37:04.711474",
+    "year": 2012,
+    "month": 3,
+    "average_temperature": 18.17,
+    "sea_level_rise_mm": 123.2,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-37-5",
+    "date": "2012-04-08T13:37:04.711474",
+    "year": 2012,
+    "month": 4,
+    "average_temperature": 17.49,
+    "sea_level_rise_mm": 123.5,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-37-6",
+    "date": "2012-05-08T13:37:04.711474",
+    "year": 2012,
+    "month": 5,
+    "average_temperature": 16.56,
+    "sea_level_rise_mm": 123.7,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-37-7",
+    "date": "2012-06-07T13:37:04.711474",
+    "year": 2012,
+    "month": 6,
+    "average_temperature": 16.07,
+    "sea_level_rise_mm": 124.0,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-37-8",
+    "date": "2012-07-07T13:37:04.711474",
+    "year": 2012,
+    "month": 7,
+    "average_temperature": 15.51,
+    "sea_level_rise_mm": 124.3,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-37-9",
+    "date": "2012-08-06T13:37:04.711474",
+    "year": 2012,
+    "month": 8,
+    "average_temperature": 15.26,
+    "sea_level_rise_mm": 124.6,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-37-10",
+    "date": "2012-09-05T13:37:04.711474",
+    "year": 2012,
+    "month": 9,
+    "average_temperature": 15.43,
+    "sea_level_rise_mm": 124.8,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-37-11",
+    "date": "2012-10-05T13:37:04.711474",
+    "year": 2012,
+    "month": 10,
+    "average_temperature": 15.99,
+    "sea_level_rise_mm": 125.1,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-38-0",
+    "date": "2012-11-04T13:37:04.711474",
+    "year": 2012,
+    "month": 11,
+    "average_temperature": 16.51,
+    "sea_level_rise_mm": 125.4,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-38-1",
+    "date": "2012-12-04T13:37:04.711474",
+    "year": 2012,
+    "month": 12,
+    "average_temperature": 17.56,
+    "sea_level_rise_mm": 125.7,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-38-2",
+    "date": "2013-01-03T13:37:04.711474",
+    "year": 2013,
+    "month": 1,
+    "average_temperature": 18.34,
+    "sea_level_rise_mm": 125.9,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-38-3",
+    "date": "2013-02-02T13:37:04.711474",
+    "year": 2013,
+    "month": 2,
+    "average_temperature": 18.15,
+    "sea_level_rise_mm": 126.2,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-38-4",
+    "date": "2013-03-04T13:37:04.711474",
+    "year": 2013,
+    "month": 3,
+    "average_temperature": 17.82,
+    "sea_level_rise_mm": 126.5,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-38-5",
+    "date": "2013-04-03T13:37:04.711474",
+    "year": 2013,
+    "month": 4,
+    "average_temperature": 17.53,
+    "sea_level_rise_mm": 126.8,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-38-6",
+    "date": "2013-05-03T13:37:04.711474",
+    "year": 2013,
+    "month": 5,
+    "average_temperature": 16.8,
+    "sea_level_rise_mm": 127.0,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-38-7",
+    "date": "2013-06-02T13:37:04.711474",
+    "year": 2013,
+    "month": 6,
+    "average_temperature": 16.01,
+    "sea_level_rise_mm": 127.3,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-38-8",
+    "date": "2013-07-02T13:37:04.711474",
+    "year": 2013,
+    "month": 7,
+    "average_temperature": 15.2,
+    "sea_level_rise_mm": 127.6,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-38-9",
+    "date": "2013-08-01T13:37:04.711474",
+    "year": 2013,
+    "month": 8,
+    "average_temperature": 15.53,
+    "sea_level_rise_mm": 127.9,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-38-10",
+    "date": "2013-08-31T13:37:04.711474",
+    "year": 2013,
+    "month": 8,
+    "average_temperature": 15.68,
+    "sea_level_rise_mm": 128.1,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-38-11",
+    "date": "2013-09-30T13:37:04.711474",
+    "year": 2013,
+    "month": 9,
+    "average_temperature": 16.14,
+    "sea_level_rise_mm": 128.4,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-39-0",
+    "date": "2013-10-30T13:37:04.711474",
+    "year": 2013,
+    "month": 10,
+    "average_temperature": 16.72,
+    "sea_level_rise_mm": 128.7,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-39-1",
+    "date": "2013-11-29T13:37:04.711474",
+    "year": 2013,
+    "month": 11,
+    "average_temperature": 17.4,
+    "sea_level_rise_mm": 129.0,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-39-2",
+    "date": "2013-12-29T13:37:04.711474",
+    "year": 2013,
+    "month": 12,
+    "average_temperature": 18.01,
+    "sea_level_rise_mm": 129.2,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-39-3",
+    "date": "2014-01-28T13:37:04.711474",
+    "year": 2014,
+    "month": 1,
+    "average_temperature": 18.35,
+    "sea_level_rise_mm": 129.5,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-39-4",
+    "date": "2014-02-27T13:37:04.711474",
+    "year": 2014,
+    "month": 2,
+    "average_temperature": 18.18,
+    "sea_level_rise_mm": 129.8,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-39-5",
+    "date": "2014-03-29T13:37:04.711474",
+    "year": 2014,
+    "month": 3,
+    "average_temperature": 17.66,
+    "sea_level_rise_mm": 130.1,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-39-6",
+    "date": "2014-04-28T13:37:04.711474",
+    "year": 2014,
+    "month": 4,
+    "average_temperature": 16.87,
+    "sea_level_rise_mm": 130.3,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-39-7",
+    "date": "2014-05-28T13:37:04.711474",
+    "year": 2014,
+    "month": 5,
+    "average_temperature": 15.86,
+    "sea_level_rise_mm": 130.6,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-39-8",
+    "date": "2014-06-27T13:37:04.711474",
+    "year": 2014,
+    "month": 6,
+    "average_temperature": 15.39,
+    "sea_level_rise_mm": 130.9,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-39-9",
+    "date": "2014-07-27T13:37:04.711474",
+    "year": 2014,
+    "month": 7,
+    "average_temperature": 15.48,
+    "sea_level_rise_mm": 131.2,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-39-10",
+    "date": "2014-08-26T13:37:04.711474",
+    "year": 2014,
+    "month": 8,
+    "average_temperature": 15.76,
+    "sea_level_rise_mm": 131.4,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-39-11",
+    "date": "2014-09-25T13:37:04.711474",
+    "year": 2014,
+    "month": 9,
+    "average_temperature": 16.1,
+    "sea_level_rise_mm": 131.7,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-40-0",
+    "date": "2014-10-25T13:37:04.711474",
+    "year": 2014,
+    "month": 10,
+    "average_temperature": 16.89,
+    "sea_level_rise_mm": 132.0,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-40-1",
+    "date": "2014-11-24T13:37:04.711474",
+    "year": 2014,
+    "month": 11,
+    "average_temperature": 17.5,
+    "sea_level_rise_mm": 132.3,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-40-2",
+    "date": "2014-12-24T13:37:04.711474",
+    "year": 2014,
+    "month": 12,
+    "average_temperature": 17.89,
+    "sea_level_rise_mm": 132.5,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-40-3",
+    "date": "2015-01-23T13:37:04.711474",
+    "year": 2015,
+    "month": 1,
+    "average_temperature": 18.42,
+    "sea_level_rise_mm": 132.8,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-40-4",
+    "date": "2015-02-22T13:37:04.711474",
+    "year": 2015,
+    "month": 2,
+    "average_temperature": 18.26,
+    "sea_level_rise_mm": 133.1,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-40-5",
+    "date": "2015-03-24T13:37:04.711474",
+    "year": 2015,
+    "month": 3,
+    "average_temperature": 17.45,
+    "sea_level_rise_mm": 133.4,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-40-6",
+    "date": "2015-04-23T13:37:04.711474",
+    "year": 2015,
+    "month": 4,
+    "average_temperature": 17.08,
+    "sea_level_rise_mm": 133.6,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-40-7",
+    "date": "2015-05-23T13:37:04.711474",
+    "year": 2015,
+    "month": 5,
+    "average_temperature": 16.31,
+    "sea_level_rise_mm": 133.9,
+    "ocean_ph": 8.17
+  },
+  {
+    "id": "hist-40-8",
+    "date": "2015-06-22T13:37:04.711474",
+    "year": 2015,
+    "month": 6,
+    "average_temperature": 15.68,
+    "sea_level_rise_mm": 134.2,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-40-9",
+    "date": "2015-07-22T13:37:04.711474",
+    "year": 2015,
+    "month": 7,
+    "average_temperature": 15.05,
+    "sea_level_rise_mm": 134.5,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-40-10",
+    "date": "2015-08-21T13:37:04.711474",
+    "year": 2015,
+    "month": 8,
+    "average_temperature": 15.76,
+    "sea_level_rise_mm": 134.7,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-40-11",
+    "date": "2015-09-20T13:37:04.711474",
+    "year": 2015,
+    "month": 9,
+    "average_temperature": 16.05,
+    "sea_level_rise_mm": 135.0,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-41-0",
+    "date": "2015-10-20T13:37:04.711474",
+    "year": 2015,
+    "month": 10,
+    "average_temperature": 17.03,
+    "sea_level_rise_mm": 135.3,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-41-1",
+    "date": "2015-11-19T13:37:04.711474",
+    "year": 2015,
+    "month": 11,
+    "average_temperature": 17.57,
+    "sea_level_rise_mm": 135.6,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-41-2",
+    "date": "2015-12-19T13:37:04.711474",
+    "year": 2015,
+    "month": 12,
+    "average_temperature": 18.32,
+    "sea_level_rise_mm": 135.8,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-41-3",
+    "date": "2016-01-18T13:37:04.711474",
+    "year": 2016,
+    "month": 1,
+    "average_temperature": 18.31,
+    "sea_level_rise_mm": 136.1,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-41-4",
+    "date": "2016-02-17T13:37:04.711474",
+    "year": 2016,
+    "month": 2,
+    "average_temperature": 17.89,
+    "sea_level_rise_mm": 136.4,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-41-5",
+    "date": "2016-03-18T13:37:04.711474",
+    "year": 2016,
+    "month": 3,
+    "average_temperature": 17.78,
+    "sea_level_rise_mm": 136.7,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-41-6",
+    "date": "2016-04-17T13:37:04.711474",
+    "year": 2016,
+    "month": 4,
+    "average_temperature": 16.75,
+    "sea_level_rise_mm": 136.9,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-41-7",
+    "date": "2016-05-17T13:37:04.711474",
+    "year": 2016,
+    "month": 5,
+    "average_temperature": 16.08,
+    "sea_level_rise_mm": 137.2,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-41-8",
+    "date": "2016-06-16T13:37:04.711474",
+    "year": 2016,
+    "month": 6,
+    "average_temperature": 15.48,
+    "sea_level_rise_mm": 137.5,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-41-9",
+    "date": "2016-07-16T13:37:04.711474",
+    "year": 2016,
+    "month": 7,
+    "average_temperature": 15.42,
+    "sea_level_rise_mm": 137.8,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-41-10",
+    "date": "2016-08-15T13:37:04.711474",
+    "year": 2016,
+    "month": 8,
+    "average_temperature": 15.38,
+    "sea_level_rise_mm": 138.0,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-41-11",
+    "date": "2016-09-14T13:37:04.711474",
+    "year": 2016,
+    "month": 9,
+    "average_temperature": 16.37,
+    "sea_level_rise_mm": 138.3,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-42-0",
+    "date": "2016-10-14T13:37:04.711474",
+    "year": 2016,
+    "month": 10,
+    "average_temperature": 17.01,
+    "sea_level_rise_mm": 138.6,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-42-1",
+    "date": "2016-11-13T13:37:04.711474",
+    "year": 2016,
+    "month": 11,
+    "average_temperature": 17.63,
+    "sea_level_rise_mm": 138.9,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-42-2",
+    "date": "2016-12-13T13:37:04.711474",
+    "year": 2016,
+    "month": 12,
+    "average_temperature": 18.01,
+    "sea_level_rise_mm": 139.1,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-42-3",
+    "date": "2017-01-12T13:37:04.711474",
+    "year": 2017,
+    "month": 1,
+    "average_temperature": 18.46,
+    "sea_level_rise_mm": 139.4,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-42-4",
+    "date": "2017-02-11T13:37:04.711474",
+    "year": 2017,
+    "month": 2,
+    "average_temperature": 18.1,
+    "sea_level_rise_mm": 139.7,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-42-5",
+    "date": "2017-03-13T13:37:04.711474",
+    "year": 2017,
+    "month": 3,
+    "average_temperature": 17.46,
+    "sea_level_rise_mm": 140.0,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-42-6",
+    "date": "2017-04-12T13:37:04.711474",
+    "year": 2017,
+    "month": 4,
+    "average_temperature": 16.73,
+    "sea_level_rise_mm": 140.2,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-42-7",
+    "date": "2017-05-12T13:37:04.711474",
+    "year": 2017,
+    "month": 5,
+    "average_temperature": 16.07,
+    "sea_level_rise_mm": 140.5,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-42-8",
+    "date": "2017-06-11T13:37:04.711474",
+    "year": 2017,
+    "month": 6,
+    "average_temperature": 15.62,
+    "sea_level_rise_mm": 140.8,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-42-9",
+    "date": "2017-07-11T13:37:04.711474",
+    "year": 2017,
+    "month": 7,
+    "average_temperature": 15.45,
+    "sea_level_rise_mm": 141.1,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-42-10",
+    "date": "2017-08-10T13:37:04.711474",
+    "year": 2017,
+    "month": 8,
+    "average_temperature": 15.43,
+    "sea_level_rise_mm": 141.3,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-42-11",
+    "date": "2017-09-09T13:37:04.711474",
+    "year": 2017,
+    "month": 9,
+    "average_temperature": 15.8,
+    "sea_level_rise_mm": 141.6,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-43-0",
+    "date": "2017-10-09T13:37:04.711474",
+    "year": 2017,
+    "month": 10,
+    "average_temperature": 16.76,
+    "sea_level_rise_mm": 141.9,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-43-1",
+    "date": "2017-11-08T13:37:04.711474",
+    "year": 2017,
+    "month": 11,
+    "average_temperature": 17.48,
+    "sea_level_rise_mm": 142.2,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-43-2",
+    "date": "2017-12-08T13:37:04.711474",
+    "year": 2017,
+    "month": 12,
+    "average_temperature": 18.29,
+    "sea_level_rise_mm": 142.4,
+    "ocean_ph": 8.06
+  },
+  {
+    "id": "hist-43-3",
+    "date": "2018-01-07T13:37:04.711474",
+    "year": 2018,
+    "month": 1,
+    "average_temperature": 18.26,
+    "sea_level_rise_mm": 142.7,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-43-4",
+    "date": "2018-02-06T13:37:04.711474",
+    "year": 2018,
+    "month": 2,
+    "average_temperature": 18.25,
+    "sea_level_rise_mm": 143.0,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-43-5",
+    "date": "2018-03-08T13:37:04.711474",
+    "year": 2018,
+    "month": 3,
+    "average_temperature": 17.64,
+    "sea_level_rise_mm": 143.3,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-43-6",
+    "date": "2018-04-07T13:37:04.711474",
+    "year": 2018,
+    "month": 4,
+    "average_temperature": 17.07,
+    "sea_level_rise_mm": 143.5,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-43-7",
+    "date": "2018-05-07T13:37:04.711474",
+    "year": 2018,
+    "month": 5,
+    "average_temperature": 16.13,
+    "sea_level_rise_mm": 143.8,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-43-8",
+    "date": "2018-06-06T13:37:04.711474",
+    "year": 2018,
+    "month": 6,
+    "average_temperature": 15.45,
+    "sea_level_rise_mm": 144.1,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-43-9",
+    "date": "2018-07-06T13:37:04.711474",
+    "year": 2018,
+    "month": 7,
+    "average_temperature": 15.63,
+    "sea_level_rise_mm": 144.4,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-43-10",
+    "date": "2018-08-05T13:37:04.711474",
+    "year": 2018,
+    "month": 8,
+    "average_temperature": 15.39,
+    "sea_level_rise_mm": 144.6,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-43-11",
+    "date": "2018-09-04T13:37:04.711474",
+    "year": 2018,
+    "month": 9,
+    "average_temperature": 15.85,
+    "sea_level_rise_mm": 144.9,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-44-0",
+    "date": "2018-10-04T13:37:04.711474",
+    "year": 2018,
+    "month": 10,
+    "average_temperature": 17.09,
+    "sea_level_rise_mm": 145.2,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-44-1",
+    "date": "2018-11-03T13:37:04.711474",
+    "year": 2018,
+    "month": 11,
+    "average_temperature": 17.41,
+    "sea_level_rise_mm": 145.5,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-44-2",
+    "date": "2018-12-03T13:37:04.711474",
+    "year": 2018,
+    "month": 12,
+    "average_temperature": 18.02,
+    "sea_level_rise_mm": 145.7,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-44-3",
+    "date": "2019-01-02T13:37:04.711474",
+    "year": 2019,
+    "month": 1,
+    "average_temperature": 18.25,
+    "sea_level_rise_mm": 146.0,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-44-4",
+    "date": "2019-02-01T13:37:04.711474",
+    "year": 2019,
+    "month": 2,
+    "average_temperature": 18.21,
+    "sea_level_rise_mm": 146.3,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-44-5",
+    "date": "2019-03-03T13:37:04.711474",
+    "year": 2019,
+    "month": 3,
+    "average_temperature": 17.8,
+    "sea_level_rise_mm": 146.6,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-44-6",
+    "date": "2019-04-02T13:37:04.711474",
+    "year": 2019,
+    "month": 4,
+    "average_temperature": 16.9,
+    "sea_level_rise_mm": 146.8,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-44-7",
+    "date": "2019-05-02T13:37:04.711474",
+    "year": 2019,
+    "month": 5,
+    "average_temperature": 16.15,
+    "sea_level_rise_mm": 147.1,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-44-8",
+    "date": "2019-06-01T13:37:04.711474",
+    "year": 2019,
+    "month": 6,
+    "average_temperature": 15.43,
+    "sea_level_rise_mm": 147.4,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-44-9",
+    "date": "2019-07-01T13:37:04.711474",
+    "year": 2019,
+    "month": 7,
+    "average_temperature": 15.46,
+    "sea_level_rise_mm": 147.7,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-44-10",
+    "date": "2019-07-31T13:37:04.711474",
+    "year": 2019,
+    "month": 7,
+    "average_temperature": 15.63,
+    "sea_level_rise_mm": 147.9,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-44-11",
+    "date": "2019-08-30T13:37:04.711474",
+    "year": 2019,
+    "month": 8,
+    "average_temperature": 16.29,
+    "sea_level_rise_mm": 148.2,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-45-0",
+    "date": "2019-09-29T13:37:04.711474",
+    "year": 2019,
+    "month": 9,
+    "average_temperature": 16.6,
+    "sea_level_rise_mm": 148.5,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-45-1",
+    "date": "2019-10-29T13:37:04.711474",
+    "year": 2019,
+    "month": 10,
+    "average_temperature": 17.58,
+    "sea_level_rise_mm": 148.8,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-45-2",
+    "date": "2019-11-28T13:37:04.711474",
+    "year": 2019,
+    "month": 11,
+    "average_temperature": 18.13,
+    "sea_level_rise_mm": 149.0,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-45-3",
+    "date": "2019-12-28T13:37:04.711474",
+    "year": 2019,
+    "month": 12,
+    "average_temperature": 18.22,
+    "sea_level_rise_mm": 149.3,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-45-4",
+    "date": "2020-01-27T13:37:04.711474",
+    "year": 2020,
+    "month": 1,
+    "average_temperature": 18.45,
+    "sea_level_rise_mm": 149.6,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-45-5",
+    "date": "2020-02-26T13:37:04.711474",
+    "year": 2020,
+    "month": 2,
+    "average_temperature": 17.38,
+    "sea_level_rise_mm": 149.9,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-45-6",
+    "date": "2020-03-27T13:37:04.711474",
+    "year": 2020,
+    "month": 3,
+    "average_temperature": 16.91,
+    "sea_level_rise_mm": 150.1,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-45-7",
+    "date": "2020-04-26T13:37:04.711474",
+    "year": 2020,
+    "month": 4,
+    "average_temperature": 15.96,
+    "sea_level_rise_mm": 150.4,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-45-8",
+    "date": "2020-05-26T13:37:04.711474",
+    "year": 2020,
+    "month": 5,
+    "average_temperature": 15.72,
+    "sea_level_rise_mm": 150.7,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-45-9",
+    "date": "2020-06-25T13:37:04.711474",
+    "year": 2020,
+    "month": 6,
+    "average_temperature": 15.11,
+    "sea_level_rise_mm": 151.0,
+    "ocean_ph": 8.06
+  },
+  {
+    "id": "hist-45-10",
+    "date": "2020-07-25T13:37:04.711474",
+    "year": 2020,
+    "month": 7,
+    "average_temperature": 15.44,
+    "sea_level_rise_mm": 151.2,
+    "ocean_ph": 8.06
+  },
+  {
+    "id": "hist-45-11",
+    "date": "2020-08-24T13:37:04.711474",
+    "year": 2020,
+    "month": 8,
+    "average_temperature": 16.44,
+    "sea_level_rise_mm": 151.5,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-46-0",
+    "date": "2020-09-23T13:37:04.711474",
+    "year": 2020,
+    "month": 9,
+    "average_temperature": 17.04,
+    "sea_level_rise_mm": 151.8,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-46-1",
+    "date": "2020-10-23T13:37:04.711474",
+    "year": 2020,
+    "month": 10,
+    "average_temperature": 17.57,
+    "sea_level_rise_mm": 152.1,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-46-2",
+    "date": "2020-11-22T13:37:04.711474",
+    "year": 2020,
+    "month": 11,
+    "average_temperature": 18.17,
+    "sea_level_rise_mm": 152.3,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-46-3",
+    "date": "2020-12-22T13:37:04.711474",
+    "year": 2020,
+    "month": 12,
+    "average_temperature": 18.63,
+    "sea_level_rise_mm": 152.6,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-46-4",
+    "date": "2021-01-21T13:37:04.711474",
+    "year": 2021,
+    "month": 1,
+    "average_temperature": 18.48,
+    "sea_level_rise_mm": 152.9,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-46-5",
+    "date": "2021-02-20T13:37:04.711474",
+    "year": 2021,
+    "month": 2,
+    "average_temperature": 17.9,
+    "sea_level_rise_mm": 153.2,
+    "ocean_ph": 8.16
+  },
+  {
+    "id": "hist-46-6",
+    "date": "2021-03-22T13:37:04.711474",
+    "year": 2021,
+    "month": 3,
+    "average_temperature": 16.9,
+    "sea_level_rise_mm": 153.4,
+    "ocean_ph": 8.06
+  },
+  {
+    "id": "hist-46-7",
+    "date": "2021-04-21T13:37:04.711474",
+    "year": 2021,
+    "month": 4,
+    "average_temperature": 16.32,
+    "sea_level_rise_mm": 153.7,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-46-8",
+    "date": "2021-05-21T13:37:04.711474",
+    "year": 2021,
+    "month": 5,
+    "average_temperature": 15.52,
+    "sea_level_rise_mm": 154.0,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-46-9",
+    "date": "2021-06-20T13:37:04.711474",
+    "year": 2021,
+    "month": 6,
+    "average_temperature": 15.4,
+    "sea_level_rise_mm": 154.3,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-46-10",
+    "date": "2021-07-20T13:37:04.711474",
+    "year": 2021,
+    "month": 7,
+    "average_temperature": 15.46,
+    "sea_level_rise_mm": 154.5,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-46-11",
+    "date": "2021-08-19T13:37:04.711474",
+    "year": 2021,
+    "month": 8,
+    "average_temperature": 16.06,
+    "sea_level_rise_mm": 154.8,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-47-0",
+    "date": "2021-09-18T13:37:04.711474",
+    "year": 2021,
+    "month": 9,
+    "average_temperature": 16.99,
+    "sea_level_rise_mm": 155.1,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-47-1",
+    "date": "2021-10-18T13:37:04.711474",
+    "year": 2021,
+    "month": 10,
+    "average_temperature": 17.47,
+    "sea_level_rise_mm": 155.4,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-47-2",
+    "date": "2021-11-17T13:37:04.711474",
+    "year": 2021,
+    "month": 11,
+    "average_temperature": 18.06,
+    "sea_level_rise_mm": 155.6,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-47-3",
+    "date": "2021-12-17T13:37:04.711474",
+    "year": 2021,
+    "month": 12,
+    "average_temperature": 18.43,
+    "sea_level_rise_mm": 155.9,
+    "ocean_ph": 8.13
+  },
+  {
+    "id": "hist-47-4",
+    "date": "2022-01-16T13:37:04.711474",
+    "year": 2022,
+    "month": 1,
+    "average_temperature": 18.29,
+    "sea_level_rise_mm": 156.2,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-47-5",
+    "date": "2022-02-15T13:37:04.711474",
+    "year": 2022,
+    "month": 2,
+    "average_temperature": 17.52,
+    "sea_level_rise_mm": 156.5,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-47-6",
+    "date": "2022-03-17T13:37:04.711474",
+    "year": 2022,
+    "month": 3,
+    "average_temperature": 16.71,
+    "sea_level_rise_mm": 156.7,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-47-7",
+    "date": "2022-04-16T13:37:04.711474",
+    "year": 2022,
+    "month": 4,
+    "average_temperature": 16.33,
+    "sea_level_rise_mm": 157.0,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-47-8",
+    "date": "2022-05-16T13:37:04.711474",
+    "year": 2022,
+    "month": 5,
+    "average_temperature": 15.63,
+    "sea_level_rise_mm": 157.3,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-47-9",
+    "date": "2022-06-15T13:37:04.711474",
+    "year": 2022,
+    "month": 6,
+    "average_temperature": 15.68,
+    "sea_level_rise_mm": 157.6,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-47-10",
+    "date": "2022-07-15T13:37:04.711474",
+    "year": 2022,
+    "month": 7,
+    "average_temperature": 15.72,
+    "sea_level_rise_mm": 157.8,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-47-11",
+    "date": "2022-08-14T13:37:04.711474",
+    "year": 2022,
+    "month": 8,
+    "average_temperature": 16.26,
+    "sea_level_rise_mm": 158.1,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-48-0",
+    "date": "2022-09-13T13:37:04.711474",
+    "year": 2022,
+    "month": 9,
+    "average_temperature": 16.8,
+    "sea_level_rise_mm": 158.4,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-48-1",
+    "date": "2022-10-13T13:37:04.711474",
+    "year": 2022,
+    "month": 10,
+    "average_temperature": 17.46,
+    "sea_level_rise_mm": 158.7,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-48-2",
+    "date": "2022-11-12T13:37:04.711474",
+    "year": 2022,
+    "month": 11,
+    "average_temperature": 18.39,
+    "sea_level_rise_mm": 158.9,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-48-3",
+    "date": "2022-12-12T13:37:04.711474",
+    "year": 2022,
+    "month": 12,
+    "average_temperature": 18.62,
+    "sea_level_rise_mm": 159.2,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-48-4",
+    "date": "2023-01-11T13:37:04.711474",
+    "year": 2023,
+    "month": 1,
+    "average_temperature": 18.18,
+    "sea_level_rise_mm": 159.5,
+    "ocean_ph": 8.1
+  },
+  {
+    "id": "hist-48-5",
+    "date": "2023-02-10T13:37:04.711474",
+    "year": 2023,
+    "month": 2,
+    "average_temperature": 17.46,
+    "sea_level_rise_mm": 159.8,
+    "ocean_ph": 8.08
+  },
+  {
+    "id": "hist-48-6",
+    "date": "2023-03-12T13:37:04.711474",
+    "year": 2023,
+    "month": 3,
+    "average_temperature": 17.05,
+    "sea_level_rise_mm": 160.0,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-48-7",
+    "date": "2023-04-11T13:37:04.711474",
+    "year": 2023,
+    "month": 4,
+    "average_temperature": 16.17,
+    "sea_level_rise_mm": 160.3,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-48-8",
+    "date": "2023-05-11T13:37:04.711474",
+    "year": 2023,
+    "month": 5,
+    "average_temperature": 15.89,
+    "sea_level_rise_mm": 160.6,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-48-9",
+    "date": "2023-06-10T13:37:04.711474",
+    "year": 2023,
+    "month": 6,
+    "average_temperature": 15.74,
+    "sea_level_rise_mm": 160.9,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-48-10",
+    "date": "2023-07-10T13:37:04.711474",
+    "year": 2023,
+    "month": 7,
+    "average_temperature": 15.42,
+    "sea_level_rise_mm": 161.1,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-48-11",
+    "date": "2023-08-09T13:37:04.711474",
+    "year": 2023,
+    "month": 8,
+    "average_temperature": 15.94,
+    "sea_level_rise_mm": 161.4,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-49-0",
+    "date": "2023-09-08T13:37:04.711474",
+    "year": 2023,
+    "month": 9,
+    "average_temperature": 16.76,
+    "sea_level_rise_mm": 161.7,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-49-1",
+    "date": "2023-10-08T13:37:04.711474",
+    "year": 2023,
+    "month": 10,
+    "average_temperature": 17.99,
+    "sea_level_rise_mm": 162.0,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-49-2",
+    "date": "2023-11-07T13:37:04.711474",
+    "year": 2023,
+    "month": 11,
+    "average_temperature": 18.45,
+    "sea_level_rise_mm": 162.2,
+    "ocean_ph": 8.11
+  },
+  {
+    "id": "hist-49-3",
+    "date": "2023-12-07T13:37:04.711474",
+    "year": 2023,
+    "month": 12,
+    "average_temperature": 18.21,
+    "sea_level_rise_mm": 162.5,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-49-4",
+    "date": "2024-01-06T13:37:04.711474",
+    "year": 2024,
+    "month": 1,
+    "average_temperature": 18.02,
+    "sea_level_rise_mm": 162.8,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-49-5",
+    "date": "2024-02-05T13:37:04.711474",
+    "year": 2024,
+    "month": 2,
+    "average_temperature": 17.79,
+    "sea_level_rise_mm": 163.1,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-49-6",
+    "date": "2024-03-06T13:37:04.711474",
+    "year": 2024,
+    "month": 3,
+    "average_temperature": 17.25,
+    "sea_level_rise_mm": 163.3,
+    "ocean_ph": 8.09
+  },
+  {
+    "id": "hist-49-7",
+    "date": "2024-04-05T13:37:04.711474",
+    "year": 2024,
+    "month": 4,
+    "average_temperature": 16.43,
+    "sea_level_rise_mm": 163.6,
+    "ocean_ph": 8.07
+  },
+  {
+    "id": "hist-49-8",
+    "date": "2024-05-05T13:37:04.711474",
+    "year": 2024,
+    "month": 5,
+    "average_temperature": 15.68,
+    "sea_level_rise_mm": 163.9,
+    "ocean_ph": 8.12
+  },
+  {
+    "id": "hist-49-9",
+    "date": "2024-06-04T13:37:04.711474",
+    "year": 2024,
+    "month": 6,
+    "average_temperature": 15.57,
+    "sea_level_rise_mm": 164.2,
+    "ocean_ph": 8.15
+  },
+  {
+    "id": "hist-49-10",
+    "date": "2024-07-04T13:37:04.711474",
+    "year": 2024,
+    "month": 7,
+    "average_temperature": 15.92,
+    "sea_level_rise_mm": 164.4,
+    "ocean_ph": 8.14
+  },
+  {
+    "id": "hist-49-11",
+    "date": "2024-08-03T13:37:04.711474",
+    "year": 2024,
+    "month": 8,
+    "average_temperature": 16.21,
+    "sea_level_rise_mm": 164.7,
+    "ocean_ph": 8.08
+  }
+]
