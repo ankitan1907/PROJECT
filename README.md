@@ -1,39 +1,13 @@
-🌊 Ocean Insights: Research & Monitoring Web App
+# 💼 Ankita's Project Portfolio
+
+A curated collection of personal, academic, and AI-driven projects. Each project showcases a unique area of development, from document analysis to finance tracking — all built with scalable, modular design and clean code practices.
+
+---
+
+## 🌊 Ocean Insights: Research & Monitoring Web App
+
 An interactive web application for oceanographic research and awareness. This tool visualizes real-time and simulated data about the ocean—supporting research on anomalies, biodiversity, disasters, and climate-driven impacts.
 
-📦 Project Structure
-csharp
-Copy
-Edit
-project/
-├── backend/
-│   ├── main.py               # Python backend API
-│   ├── data/                 # Backend data handling
-│   └── requirements.txt      # Python dependencies
-├── public/                   # Static public assets
-├── src/
-│   ├── api/                  # API handlers
-│   ├── components/           # Reusable UI components
-│   │   ├── anomaly/
-│   │   ├── biodiversity/
-│   │   ├── disaster/
-│   │   ├── layout/
-│   │   ├── map/
-│   │   ├── timeline/
-│   │   └── ui/
-│   ├── pages/                # Route-based views
-│   │   ├── AnomalyDetection.js
-│   │   ├── BiodiversityTracker.js
-│   │   ├── Dashboard.js
-│   │   ├── DisasterPrediction.js
-│   │   ├── OceanMap.js
-│   │   ├── ResearchMode.js
-│   │   └── TimelinePlayer.js
-│   ├── App.js
-│   ├── index.js
-│   └── index.css
-├── package.json
-└── tailwind.config.js
 🚀 Features
 🌍 Ocean Map – Interactive, zoomable globe with ocean data overlays
 
@@ -68,29 +42,71 @@ Data handling via Pandas/Numpy
 
 RESTful API via main.py
 
-🛠️ Getting Started
+## 🧠 AI Space Explorer
 
-1. Install Frontend Dependencies
+A frontend AI-powered mock app designed to teach users about space. It simulates intelligent conversations about celestial bodies and space missions.
 
-npm install
-npm run dev
-2. Start Backend (in separate terminal)
+🚀 Features
+- Ask AI-style questions about space
+- Predefined responses simulate chatbot behavior
+- Stylized UI with cosmic animations
 
-cd backend
-pip install -r requirements.txt
-python main.py
+🧰 Tech Stack: React.js, Tailwind CSS, JavaScript  
+🔮 Future Scope: Connect to OpenAI API, Add AR/VR features
 
+---
 
-🔮 Future Plans
-🌐 Add live ocean data API integration
+## 🌐 PolyLingual – Mock Multilingual Translator
 
-🧠 Use machine learning for real-time anomaly detection
+A fun mock language translator that simulates multilingual translations between global languages using static logic.
 
-🪸 Coral reef health visualization
+🚀 Features
+- Choose source & target languages
+- Mock-translated text output
+- Dropdown-based language selection
 
-👩‍🔬 User profiles for researchers
+🧰 Tech Stack: HTML, CSS, JavaScript  
+🔮 Future Scope: Integrate real-time API (Google Translate), voice support
 
-📤 Exportable reports and datasets
+---
+
+## 📊 Finance Planner (Single-File HTML App)
+
+A simple single-page app that helps users track income and expenses, and provides a visual breakdown using inline charts.
+
+🚀 Features
+- Enter income and outgoing transactions
+- Instant calculations and chart-based summaries
+- Clean static layout in HTML
+
+🧰 Tech Stack: HTML5, CSS, JavaScript (inline)  
+💡 Note: Built as a lightweight prototype without frameworks
+
+---
+
+## 🧾 Employee Management System
+
+A basic CRUD-style project to manage employee records, stored and displayed on-screen via JavaScript.
+
+🚀 Features
+- Add, edit, and remove employees
+- Show employee list in table
+- Stored locally (no backend)
+
+🧰 Tech Stack: HTML, CSS, JavaScript  
+🔮 Future Scope: Backend integration, localStorage or Firebase support
+
+---
+
+## 👩‍💻 Developed By
+**Ankita**  
+B.Tech Portfolio Projects  
+Feel free to explore, fork, or suggest improvements!
+
+---
+
+## 📃 License
+This repository is licensed under the [MIT License](LICENSE).
 
 👨‍💻 Developed By
 ANKITA
