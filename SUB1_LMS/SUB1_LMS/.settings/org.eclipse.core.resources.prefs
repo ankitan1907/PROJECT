@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/admin/addBook.jsp=UTF-8
+encoding//src/main/webapp/admin/adminIndex.jsp=UTF-8
+encoding//src/main/webapp/admin/findAllBooks.jsp=UTF-8
+encoding//src/main/webapp/admin/findIssuedBooks.jsp=UTF-8
+encoding//src/main/webapp/admin/findRenewaledBooks.jsp=UTF-8
+encoding//src/main/webapp/admin/findReservedBooks.jsp=UTF-8
+encoding//src/main/webapp/admin/findReturnedBooks.jsp=UTF-8
+encoding//src/main/webapp/student/findAllBooks.jsp=UTF-8
+encoding//src/main/webapp/student/findIssuedBooks.jsp=UTF-8
+encoding//src/main/webapp/student/findRenewaledBooks.jsp=UTF-8
+encoding//src/main/webapp/student/findReservedBooks.jsp=UTF-8
+encoding//src/main/webapp/student/findReturnedBooks.jsp=UTF-8
+encoding//src/main/webapp/student/studentIndex.jsp=UTF-8
+encoding/<project>=UTF-8
