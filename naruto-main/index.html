@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naruto Ultimate Jutsu Engine</title>
+
+    <!-- MediaPipe Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/holistic/holistic.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/selfie_segmentation/selfie_segmentation.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+        crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <!-- Landing Page -->
+    <div id="landing-page">
+        <div id="landing-content">
+            <h1 class="title-glow">NARUTO</h1>
+            <h2 style="font-size: 2.5rem; letter-spacing: 5px; margin-bottom: 0.5rem; font-weight: 300;">ULTIMATE JUTSU
+            </h2>
+            <p class="tagline">Master the chakra. Unleash the legend.</p>
+            <button class="explore-btn" onclick="showSelection()">Start Exploring</button>
+        </div>
+    </div>
+
+    <!-- Selection Screen -->
+    <div id="selection-screen">
+        <h2 class="selection-title">Select Your Path</h2>
+        <div class="jutsu-grid">
+            <!-- Chidori (Left Hand) -->
+            <div class="jutsu-card" style="--color: var(--accent)" onclick="initEngine('chidori')">
+                <div class="icon">
+                    <img src="assets/sasuke.png">
+                </div>
+                <h3>Chidori</h3>
+                <p>One Thousand Birds. Raise your left hand to strike.</p>
+            </div>
+
+            <!-- Shadow Clone (Center - Training) -->
+            <div class="jutsu-card center" style="--color: var(--primary)" onclick="initEngine('clones')">
+                <div class="icon">
+                    <img src="assets/state-2.png">
+                </div>
+                <h3>Shadow Clone</h3>
+                <p>Kage Bunshin. Requires Chakra Synchronization training.</p>
+            </div>
+
+            <!-- Rasenshuriken (Right Hand) -->
+            <div class="jutsu-card" style="--color: var(--secondary)" onclick="initEngine('rasengan')">
+                <div class="icon">
+                    <img src="assets/naruto.png">
+                </div>
+                <h3>Rasenshuriken</h3>
+                <p>Spiraling Wind. Raise your right hand to manifest.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Engine UI -->
+    <div id="engine-ui">
+        <video id="v_src" autoplay playsinline></video>
+        <canvas id="out_canvas"></canvas>
+
+        <div class="top-bar">
+            <div class="status-badge">
+                <div id="status-dot" class="status-dot"></div>
+                <span id="status-text">SYSTEM ONLINE</span>
+            </div>
+            <button class="back-btn" onclick="backToSelection()">Exit Engine</button>
+        </div>
+
+        <!-- Trainer Overlay -->
+        <div id="trainer-overlay">
+            <div class="trainer-card">
+                <h2>Chakra Synchronization</h2>
+                <p>Instantly sync your chakra by forming the hand sign.</p>
+
+                <div class="training-steps">
+                    <div id="step-1" class="step-circle active">1</div>
+                    <div id="step-2" class="step-circle">2</div>
+                    <div id="step-3" class="step-circle">3</div>
+                </div>
+
+                <div class="toggle-bar-container">
+                    <div id="capture-progress"></div>
+                </div>
+
+                <button id="ready-btn" class="ready-btn" onclick="startTrainingSequence()">I AM READY</button>
+            </div>
+        </div>
+
+        <!-- VFX Overlays -->
+        <video id="fx-chidori" class="jutsu-fx" src="assets/sasuke.mp4" muted loop playsinline></video>
+        <video id="fx-rasengan" class="jutsu-fx" src="assets/naruto.mp4" muted loop playsinline></video>
+
+        <!-- SFX -->
+        <audio id="sfx-clone" src="assets/sounds/naruto_shadow_clones.mp3"></audio>
+        <audio id="sfx-chidori" src="assets/sounds/chidorii.mp3"></audio>
+        <audio id="sfx-rasenshuriken" src="assets/sounds/rasen_shuriken.mp3"></audio>
+    </div>
+
+    <script src="engine.js"></script>
+</body>
+
+</html>

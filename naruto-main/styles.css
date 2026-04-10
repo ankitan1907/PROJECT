@@ -1,0 +1,488 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;900&display=swap');
+
+:root {
+    --primary: hsl(30, 100%, 55%);
+    --secondary: hsl(210, 100%, 60%);
+    --accent: hsl(180, 100%, 75%);
+    --bg: #050505;
+    --glass: rgba(255, 255, 255, 0.05);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --text: #ffffff;
+    --transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none !important;
+    border: none !important;
+    -webkit-tap-highlight-color: transparent;
+}
+
+*:focus {
+    outline: none;
+}
+
+video, canvas {
+    border: none;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+}
+
+/* --- LANDING PAGE --- */
+#landing-page {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url('assets/konoha_bg.png') no-repeat center center/cover;
+    transition: opacity 1s ease-out, transform 1s ease-in-out;
+}
+
+#landing-page::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.9));
+}
+
+#landing-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    animation: fadeIn 1.5s ease-out;
+}
+
+.title-glow {
+    font-size: 5rem;
+    font-weight: 900;
+    letter-spacing: 4px;
+    background: linear-gradient(90deg, var(--primary), #fff, var(--secondary));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    filter: drop-shadow(0 0 20px rgba(255, 153, 0, 0.5));
+    margin-bottom: 1rem;
+}
+
+.tagline {
+    font-size: 1.2rem;
+    color: rgba(255,255,255,0.7);
+    margin-bottom: 3rem;
+    font-weight: 300;
+}
+
+.explore-btn {
+    padding: 1.2rem 3.5rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    background: var(--primary);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 10px 30px rgba(255, 153, 0, 0.4);
+    transition: var(--transition);
+    border: 2px solid transparent;
+}
+
+.explore-btn:hover {
+    transform: translateY(-5px) scale(1.05);
+    background: transparent;
+    border-color: var(--primary);
+    box-shadow: 0 15px 40px rgba(255, 153, 0, 0.6), inset 0 0 20px var(--primary);
+}
+
+/* --- SELECTION SCREEN --- */
+#selection-screen {
+    position: fixed;
+    inset: 0;
+    z-index: 500;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.8s ease-in;
+    background: radial-gradient(circle at center, #1a1a1a, #050505);
+}
+
+.selection-title {
+    font-size: 2.5rem;
+    margin-bottom: 4rem;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-weight: 300;
+}
+
+.jutsu-grid {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.jutsu-card {
+    position: relative;
+    width: 250px;
+    height: 380px;
+    background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.01) 100%);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 2.5rem 1.5rem;
+    cursor: pointer;
+    transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+    overflow: hidden;
+}
+
+.jutsu-card:hover {
+    transform: translateY(-20px) scale(1.05);
+    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);
+    border-color: var(--color);
+    box-shadow: 0 30px 60px rgba(0,0,0,0.6), 0 0 40px var(--color);
+}
+
+.jutsu-card::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(circle at top right, var(--color), transparent 60%);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.jutsu-card:hover::after {
+    opacity: 0.2;
+}
+
+.jutsu-card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, var(--color, var(--primary)), transparent 70%);
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    z-index: 0;
+}
+
+.jutsu-card:hover::before {
+    opacity: 0.15;
+}
+
+.jutsu-card:hover {
+    transform: translateY(-15px) scale(1.02);
+    border-color: var(--color, var(--primary));
+    box-shadow: 0 20px 40px rgba(0,0,0,0.5), 0 0 20px var(--color, var(--primary));
+}
+
+.jutsu-card .icon {
+    width: 200px;
+    height: 200px;
+    margin-bottom: auto;
+    filter: drop-shadow(0 0 15px var(--color, var(--primary)));
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jutsu-card .icon img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.jutsu-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    z-index: 1;
+}
+
+.jutsu-card p {
+    font-size: 0.9rem;
+    color: rgba(255,255,255,0.6);
+    text-align: center;
+    z-index: 1;
+}
+
+.jutsu-card.center {
+    width: 300px;
+    height: 400px;
+    border-width: 2px;
+}
+
+/* --- ENGINE UI --- */
+#engine-ui {
+    position: fixed;
+    inset: 0;
+    display: none;
+    z-index: 100;
+    overflow: hidden;
+    background: #000;
+}
+
+#v_src {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: scaleX(-1); /* RE-ENABLED MIRRORING FOR NATURAL FEEL */
+}
+
+#out_canvas {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    pointer-events: none;
+    object-fit: cover;
+    transform: scaleX(-1); /* RE-ENABLED MIRRORING FOR NATURAL FEEL */
+}
+
+.top-bar {
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+    right: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+}
+
+.status-badge {
+    background: var(--glass);
+    backdrop-filter: blur(10px);
+    border: 1px solid var(--glass-border);
+    padding: 0.8rem 2rem;
+    border-radius: 50px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.status-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #44ff44;
+    box-shadow: 0 0 10px #44ff44;
+    animation: blink 1s infinite alternate;
+}
+
+.back-btn {
+    background: rgba(255, 0, 0, 0.2);
+    border: 2px solid rgba(255, 255, 255, 0.4);
+    color: #fff;
+    padding: 0.5rem 1.5rem;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: var(--transition);
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    backdrop-filter: blur(5px);
+}
+
+.back-btn:hover {
+    background: rgba(255, 0, 0, 0.6);
+    transform: scale(1.1);
+    border-color: #fff;
+}
+
+/* --- DIMMING EFFECT --- */
+#v_src, #out_canvas {
+    transition: filter 0.5s ease;
+}
+
+.jutsu-active #v_src, .jutsu-active #out_canvas {
+    filter: brightness(0.4) saturate(1.2);
+}
+
+/* --- TRAINER UI --- */
+#trainer-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.8);
+    backdrop-filter: blur(10px);
+    z-index: 200;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.5s ease;
+}
+
+#trainer-overlay.visible {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.trainer-card {
+    background: var(--glass);
+    border: 1px solid var(--glass-border);
+    padding: 3rem;
+    border-radius: 30px;
+    width: 600px;
+    text-align: center;
+}
+
+.training-steps {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0;
+    position: relative;
+}
+
+.training-steps::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    right: 10%;
+    height: 2px;
+    background: rgba(255,255,255,0.1);
+    z-index: 0;
+}
+
+.step-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #222;
+    border: 2px solid #444;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    z-index: 1;
+    transition: var(--transition);
+}
+
+.step-circle.active {
+    border-color: var(--primary);
+    background: var(--primary);
+    box-shadow: 0 0 20px var(--primary);
+}
+
+.step-circle.done {
+    background: #44ff44;
+    border-color: #44ff44;
+}
+
+.toggle-bar-container {
+    width: 100%;
+    height: 10px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 2rem;
+}
+
+#capture-progress {
+    width: 0%;
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary), #fff);
+    transition: width 0.1s linear;
+}
+
+.ready-btn {
+    margin-top: 3rem;
+    padding: 1rem 3rem;
+    background: #fff;
+    color: #000;
+    border: none;
+    border-radius: 10px;
+    font-weight: 900;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.ready-btn:hover:not(:disabled) {
+    transform: scale(1.05);
+    background: var(--primary);
+    color: #fff;
+}
+
+/* --- OVERLAY FX --- */
+.jutsu-fx {
+    position: absolute;
+    pointer-events: none;
+    z-index: 5;
+    mix-blend-mode: screen;
+    display: none;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    filter: contrast(1.2) brightness(1.1); /* Push darks to black */
+    clip-path: radial-gradient(circle, white 40%, transparent 70%); /* Mask the edges */
+}
+
+/* Use a safer way to mask square edges of MP4 */
+#fx-chidori {
+    width: 2400px;
+}
+#fx-rasengan {
+    width: 1600px;
+}
+#fx-chidori, #fx-rasengan {
+    height: auto;
+    border-radius: 50%;
+    mask-image: radial-gradient(circle, black 50%, transparent 100%);
+    -webkit-mask-image: radial-gradient(circle, black 50%, transparent 100%);
+}
+
+/* --- ANIMATIONS --- */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes blink {
+    from { opacity: 0.5; }
+    to { opacity: 1; }
+}
+
+.hidden {
+    display: none !important;
+}
+
+.show-selection #landing-page {
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(1.1);
+}
+
+.show-selection #selection-screen {
+    opacity: 1;
+    pointer-events: auto;
+}
